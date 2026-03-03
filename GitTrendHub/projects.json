@@ -25,7 +25,7 @@
       },
       {
         "url_path": "deepseek-ai/DeepSeek-V3",
-        "last_stars": 101860,
+        "last_stars": 101861,
         "last_desc": "No description provided",
         "last_lang": "Python",
         "last_forks": 16541
@@ -37,7 +37,7 @@
     "repos": [
       {
         "url_path": "openclaw/openclaw",
-        "last_stars": 253548,
+        "last_stars": 253550,
         "last_desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
         "last_lang": "TypeScript",
         "last_forks": 48698
@@ -70,7 +70,7 @@
     "repos": [
       {
         "url_path": "paul-gauthier/aider",
-        "last_stars": 41167,
+        "last_stars": 41168,
         "last_desc": "aider is AI pair programming in your terminal",
         "last_lang": "Python",
         "last_forks": 3937
@@ -87,7 +87,7 @@
         "last_stars": 73174,
         "last_desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "last_lang": "Shell",
-        "last_forks": 5800
+        "last_forks": 5801
       }
     ]
   },
@@ -132,7 +132,7 @@
         "last_stars": 128069,
         "last_desc": "The agent engineering platform",
         "last_lang": "Python",
-        "last_forks": 21038
+        "last_forks": 21039
       }
     ]
   }
