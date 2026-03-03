@@ -25,34 +25,59 @@ def fetch_repo_stats(repo_path):
         print(f"Error fetching {repo_path}: {response.status_code}")
         return None
 
-def generate_markdown(projects_data):
+def generate_svg_card(e):
+    # Modern SVG card identifying the repo stats
+    growth_color = "#3fb950" if e['growth'] > 0 else "#f85149"
+    growth_icon = "▲" if e['growth'] > 0 else "▼"
+    
+    svg = f"""<svg width="400" height="150" viewBox="0 0 400 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="399" height="149" rx="9.5" fill="#0d1117" stroke="#30363d"/>
+  <text x="20" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#58a6ff">{e['name']}</text>
+  <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#8b949e">{e['repo_path']}</text>
+  
+  <g transform="translate(20, 80)">
+    <circle cx="5" cy="0" r="5" fill="#e3b341"/>
+    <text x="15" y="4" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9">{e['stars']:,} stars</text>
+  </g>
+  
+  <g transform="translate(150, 80)">
+    <path d="M5 0 L0 5 L5 10 M5 5 L10 5" stroke="#8b949e" stroke-width="2" fill="none"/>
+    <text x="20" y="4" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9">{e['forks']:,} forks</text>
+  </g>
+  
+  <g transform="translate(20, 115)">
+    <text x="0" y="4" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="{growth_color}">Weekly Growth: {growth_icon} {abs(e['growth']):,}</text>
+  </g>
+  
+  <rect x="300" y="20" width="80" height="25" rx="5" fill="#21262d" stroke="#30363d"/>
+  <text x="340" y="37" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#c9d1d9" text-anchor="middle">{e['language']}</text>
+</svg>"""
+    return svg
+
+def generate_markdown(projects_data, base_dir):
     md_lines = []
+    assets_dir = os.path.join(base_dir, "assets")
+    if not os.path.exists(assets_dir):
+        os.makedirs(assets_dir)
     
     for category_key, category_data in projects_data.items():
         title = category_data.get("title", category_key.title())
-        md_lines.append(f"## {title}")
+        md_lines.append(f"<h2 id='{category_key}'>{title}</h2>")
         md_lines.append("")
-        md_lines.append("| 📦 Project & Description | 📊 Metrics | 📈 Star History |")
-        md_lines.append("|--------------------------|------------|-----------------|")
         
         repos = category_data.get("repos", [])
-        
-        # Sort repositories dynamically by current stars based on memory before overwriting
-        # Actually, let's just fetch them all, then sort by highest star count or growth!
         enriched_repos = []
         
         for repo in repos:
             stats = fetch_repo_stats(repo["url_path"])
-            if not stats:
-                continue
+            if not stats: continue
                 
             current_stars = stats.get("stargazers_count", 0)
             last_stars = repo.get("last_stars", current_stars)
             growth = current_stars - last_stars
-            
             repo["last_stars"] = current_stars
             
-            enriched_repos.append({
+            e = {
                 "repo_path": repo["url_path"],
                 "name": stats.get("name"),
                 "html_url": stats.get("html_url"),
@@ -61,36 +86,45 @@ def generate_markdown(projects_data):
                 "forks": stats.get("forks_count", 0),
                 "issues": stats.get("open_issues_count", 0),
                 "stars": current_stars,
-                "growth": growth,
-                "ref": repo
-            })
+                "growth": growth
+            }
             
-        # Sort enriched_repos by total stars descending
+            # Generate local custom SVG
+            svg_filename = f"{e['repo_path'].replace('/', '_')}.svg"
+            svg_path = os.path.join(assets_dir, svg_filename)
+            with open(svg_path, "w", encoding="utf-8") as f:
+                f.write(generate_svg_card(e))
+            
+            e["svg_asset"] = f"assets/{svg_filename}"
+            enriched_repos.append(e)
+            
         enriched_repos.sort(key=lambda x: x["stars"], reverse=True)
         
         for e in enriched_repos:
-            growth_str = f"🚀 **+{e['growth']}**" if e['growth'] > 0 else f"{e['growth']}"
-            if e['growth'] > 1000:
-                growth_str = f"🔥 {growth_str}"
-                
             desc_limited = e['description']
-            if len(desc_limited) > 100:
-                desc_limited = desc_limited[:97] + "..."
+            if len(desc_limited) > 120:
+                desc_limited = desc_limited[:117] + "..."
                 
-            # Formatting Left Column (Project, Links, Desc)
-            col1 = f"**[{e['name']}]({e['html_url']})**<br/><sub>{e['repo_path']}</sub><br/><br/><sub>{desc_limited}</sub>"
-            
-            # Formatting Middle Column (Metrics, Badges)
-            lang_badge = f"![{e['language']}](https://img.shields.io/badge/Code-{e['language'].replace('-', '_').replace(' ', '_')}-blue?style=flat-square)" if e['language'] != 'N/A' else ""
-            stars_badge = f"![Stars](https://img.shields.io/github/stars/{e['repo_path']}?style=flat-square&color=gold)"
-            forks_badge = f"![Forks](https://img.shields.io/github/forks/{e['repo_path']}?style=flat-square&color=lightgrey)"
-            
-            col2 = f"{stars_badge}<br/>{forks_badge}<br/>{lang_badge}<br/><br/>**7d Δ:** {growth_str}"
-            
-            # Formatting Right Column (Chart)
-            col3 = f"<a href='https://star-history.com/#{e['repo_path']}&Date'><img src='https://api.star-history.com/svg?repos={e['repo_path']}&type=Date' width='300'/></a>"
-            
-            md_lines.append(f"| {col1} | {col2} | {col3} |")
+            # Aesthetic Card Layout using HTML Table inside Markdown
+            card_html = f"""
+<table width="100%">
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <h3><a href="{e['html_url']}">{e['name']}</a></h3>
+      <p>{desc_limited}</p>
+      <img src="{e['svg_asset']}" alt="{e['name']} stats" width="400">
+    </td>
+    <td width="40%" style="vertical-align: top; text-align: center;">
+      <a href="https://star-history.com/#{e['repo_path']}&Date">
+        <img src="https://api.star-history.com/svg?repos={e['repo_path']}&type=Date" alt="Star History" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="#table-of-contents">🔼 Back to Top</a></p>
+"""
+            md_lines.append(card_html)
             
         md_lines.append("")
         md_lines.append("---")
@@ -102,13 +136,14 @@ def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     projects_file = os.path.join(base_dir, "projects.json")
     template_file = os.path.join(base_dir, "README.md.template")
-    output_file = os.path.join(base_dir, "README.md")
+    # Output to ROOT of workspace as requested
+    output_file = os.path.join(os.path.dirname(base_dir), "README.md")
     
     print("Loading projects...")
     projects_data = load_projects(projects_file)
     
-    print("Fetching repository statistics & building UI...")
-    dynamic_md = generate_markdown(projects_data)
+    print("Fetching repository statistics & generating custom SVG cards...")
+    dynamic_md = generate_markdown(projects_data, base_dir)
     
     print("Saving updated projects.json...")
     save_projects(projects_file, projects_data)
@@ -121,10 +156,13 @@ def main():
     final_readme = template_content.replace("<!-- DYNAMIC_CONTENT -->", dynamic_md)
     final_readme = final_readme.replace("{{ timestamp }}", now_utc)
     
+    # Adjust asset paths if README is moved out
+    final_readme = final_readme.replace('src="assets/', 'src="GitTrendHub/assets/')
+    
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(final_readme)
         
-    print("Update complete! README.md successfully created with rich content.")
+    print(f"Update complete! {output_file} successfully created.")
 
 if __name__ == "__main__":
     main()

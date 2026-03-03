@@ -4,15 +4,15 @@
     "repos": [
       {
         "url_path": "ollama/ollama",
-        "last_stars": 163931
+        "last_stars": 163939
       },
       {
         "url_path": "Significant-Gravitas/AutoGPT",
-        "last_stars": 182182
+        "last_stars": 182183
       },
       {
         "url_path": "langchain-ai/langchain",
-        "last_stars": 128042
+        "last_stars": 128055
       },
       {
         "url_path": "AUTOMATIC1111/stable-diffusion-webui",
@@ -20,15 +20,15 @@
       },
       {
         "url_path": "huggingface/transformers",
-        "last_stars": 157291
+        "last_stars": 157292
       },
       {
         "url_path": "ggerganov/llama.cpp",
-        "last_stars": 96439
+        "last_stars": 96448
       },
       {
         "url_path": "open-webui/open-webui",
-        "last_stars": 125567
+        "last_stars": 125579
       }
     ]
   },
@@ -37,11 +37,11 @@
     "repos": [
       {
         "url_path": "vercel/next.js",
-        "last_stars": 138091
+        "last_stars": 138090
       },
       {
         "url_path": "facebook/react",
-        "last_stars": 243492
+        "last_stars": 243497
       },
       {
         "url_path": "tailwindlabs/tailwindcss",
@@ -57,11 +57,11 @@
       },
       {
         "url_path": "vitejs/vite",
-        "last_stars": 78527
+        "last_stars": 78529
       },
       {
         "url_path": "remix-run/remix",
-        "last_stars": 32433
+        "last_stars": 32434
       }
     ]
   },
@@ -70,7 +70,7 @@
     "repos": [
       {
         "url_path": "obsidianmd/obsidian-releases",
-        "last_stars": 15189
+        "last_stars": 15190
       },
       {
         "url_path": "raycast/script-commands",
@@ -78,19 +78,19 @@
       },
       {
         "url_path": "jesseduffield/lazygit",
-        "last_stars": 73371
+        "last_stars": 73376
       },
       {
         "url_path": "neovim/neovim",
-        "last_stars": 96897
+        "last_stars": 96899
       },
       {
         "url_path": "ohmyzsh/ohmyzsh",
-        "last_stars": 185052
+        "last_stars": 185053
       },
       {
         "url_path": "tmux/tmux",
-        "last_stars": 42457
+        "last_stars": 42458
       },
       {
         "url_path": "alacritty/alacritty",
@@ -103,15 +103,15 @@
     "repos": [
       {
         "url_path": "redis/redis",
-        "last_stars": 73213
+        "last_stars": 73214
       },
       {
         "url_path": "postgres/postgres",
-        "last_stars": 20167
+        "last_stars": 20168
       },
       {
         "url_path": "supabase/supabase",
-        "last_stars": 98441
+        "last_stars": 98442
       }
     ]
   }

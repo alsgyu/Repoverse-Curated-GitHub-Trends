@@ -1,6 +1,10 @@
 # 📈 GitTrendHub – The Pulse of Open Source
 
 <div align="center">
+  <img src="GitTrendHub/image.avif" alt="GitTrendHub Banner" width="800">
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/github/stars/YOUR_USERNAME/GitTrendHub?style=for-the-badge&color=F9D342&logo=github" alt="Dashboard Stars">
   <img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/GitTrendHub?style=for-the-badge&color=292826&logo=git" alt="Last Commit">
   <a href="https://github.com/YOUR_USERNAME/GitTrendHub/actions">
@@ -12,22 +16,24 @@
 
 <div align="center">
   <strong>An automated, expansive snapshot of the hottest repositories in AI, Web Dev, and Productivity.</strong><br>
-  <i>Powered by GitHub Actions, Star-History, and the Open Source Community.</i>
+  <i>Powered by GitHub Actions, Custom SVG Metrics, and the Open Source Community.</i>
 </div>
 
 <br />
 
-> **💡 How it Works:** This dashboard runs automatically every week. It pulls live metrics (stars, forks, issues), calculates 7-day growth patterns without a database, and generates visual Star-History embed charts natively.
+> **💡 How it Works:** This dashboard runs automatically every week. It pulls live metrics and generates **custom local SVG cards** to visualize trends with a premium feel.
 
 ---
 
-## 📑 Table of Contents
+<h2 id="table-of-contents">📑 Table of Contents</h2>
 
-- [🤖 AI & Machine Learning](#-ai--machine-learning)
-- [🌐 Modern Web Development](#-modern-web-development)
-- [⚡️ Productivity & Tools](#️-productivity--tools)
-- [🗄️ Databases & Infrastructure](#️-databases--infrastructure)
+- [🤖 AI & Machine Learning](#ai)
+- [🌐 Modern Web Development](#web)
+- [⚡️ Productivity & Tools](#productivity)
+- [🗄️ Databases & Infrastructure](#databases)
 - [📝 Data & Contributions](#-data--contributions)
+
+<br />
 
 <!-- DYNAMIC_CONTENT -->
 
