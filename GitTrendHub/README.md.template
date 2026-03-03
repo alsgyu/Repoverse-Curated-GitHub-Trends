@@ -37,35 +37,52 @@
 
 ---
 
-<h2 id="how-to-contribute">🤝 Join the AI Community & Contribute</h2>
+<h2 id="how-to-contribute">🤝 Join the AI Hub Community</h2>
 
-We are looking for AI enthusiasts to help keep this dashboard the #1 source for AI trends! 🚀
+**GitTrendHub** is more than just a dashboard; it's a movement to track the AI revolution as it happens. We believe the best insights come from the community! 🚀
 
-<details>
-<summary><b>🔥 How to Recommend a Trending AI Repo? (Click to Expand)</b></summary>
+### Why Contribute?
+- **Share the Pulse:** Help others discover the viral AI tools you've found on Reddit/X.
+- **Build the Tooling:** Improve the dashboard's design and data engine for everyone.
+- **Stay Ahead:** Be the first to document the next "game-changing" AI repository.
+
 <br>
 
-If you've found an AI repository that is blowing up, we want to know!
-1. **Open `GitTrendHub/projects.json`**.
-2. Find the relevant sub-category.
-3. Add the repository in this format:
-   ```json
-   { "url_path": "OWNER/REPO", "last_stars": "0k+" }
-   ```
-4. Submit a **Pull Request** titled `AI-Recommend: OWNER/REPO`.
-</details>
+<table width="100%">
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <h4>🔥 Recommend a Viral Repo</h4>
+      <p>Found something blowing up? Add it to the list!</p>
+      <details>
+      <summary><b>View Steps (Simple PR)</b></summary>
+      <br>
+      1. Open <code>GitTrendHub/projects.json</code>.<br>
+      2. Choose a sub-category.<br>
+      3. Add the repo: <code>{ "url_path": "OWNER/REPO", "last_stars": "Hot" }</code>.<br>
+      4. Submit a PR titled <code>Recommend: OWNER/REPO</code>.
+      </details>
+    </td>
+    <td width="50%" style="vertical-align: top;">
+      <h4>🛠️ Improve the Platform</h4>
+      <p>Love Python or Design? Help us code the future.</p>
+      <details>
+      <summary><b>View Steps (Dev Focus)</b></summary>
+      <br>
+      1. Fork & Clone this repo.<br>
+      2. Tweak <code>update_readme.py</code> or styles.<br>
+      3. Run <code>python3 GitTrendHub/update_readme.py</code> to test.<br>
+      4. Submit your Pull Request!
+      </details>
+    </td>
+  </tr>
+</table>
 
-<details>
-<summary><b>🛠️ How to Contribute to the Tooling? (Click to Expand)</b></summary>
 <br>
 
-Want to improve our custom SVG generator or README layouts?
-1. **Fork** this repository.
-2. Clone it locally.
-3. Modify `GitTrendHub/update_readme.py` or the template.
-4. Run locally to verify: `python3 GitTrendHub/update_readme.py`
-5. Submit a **Pull Request**!
-</details>
+---
+
+### ❤️ Show Your Support
+If you find this tracker useful, please **Give us a Star ⭐** and share it with your AI circles! The more people join, the better our "Trend of Trends" becomes.
 
 <br />
 

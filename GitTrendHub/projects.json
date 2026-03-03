@@ -11,7 +11,7 @@
       },
       {
         "url_path": "ggerganov/llama.cpp",
-        "last_stars": 96450,
+        "last_stars": 96451,
         "last_desc": "LLM inference in C/C++",
         "last_lang": "C++",
         "last_forks": 15206
@@ -37,10 +37,10 @@
     "repos": [
       {
         "url_path": "openclaw/openclaw",
-        "last_stars": 253323,
+        "last_stars": 253329,
         "last_desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
         "last_lang": "TypeScript",
-        "last_forks": 48639
+        "last_forks": 48640
       },
       {
         "url_path": "Significant-Gravitas/AutoGPT",
@@ -58,7 +58,7 @@
       },
       {
         "url_path": "browser-use/browser-use",
-        "last_stars": 79471,
+        "last_stars": 79472,
         "last_desc": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
         "last_lang": "Python",
         "last_forks": 9397
@@ -70,7 +70,7 @@
     "repos": [
       {
         "url_path": "paul-gauthier/aider",
-        "last_stars": 41153,
+        "last_stars": 41154,
         "last_desc": "aider is AI pair programming in your terminal",
         "last_lang": "Python",
         "last_forks": 3937
@@ -84,7 +84,7 @@
       },
       {
         "url_path": "anthropics/claude-code",
-        "last_stars": 73145,
+        "last_stars": 73146,
         "last_desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "last_lang": "Shell",
         "last_forks": 5793
