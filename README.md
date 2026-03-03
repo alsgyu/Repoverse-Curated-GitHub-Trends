@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="GitTrendHub/image4.png" alt="AI TrendHub Banner" width="300">
+  <img src="GitTrendHub/image4.png" alt="AI TrendHub Banner" width="400">
 </div>
 
 <div align="center">
@@ -16,18 +16,28 @@
 
 ## 📑 Table of Contents
 
-[🌌 LLM Engines & Platforms](#llm_engines)
-[🦾 AI Agents & Orchestration](#agents)
-[� AI CLI & Developer Tools](#cli_tools)
-[✨ Generative Art & Vision](#art_vision)
-[� Research & Core Frameworks](#frameworks)
-[🧭 AI Resource Navigator](#ai-resource-navigator)
-[🤝 Community & Participation](#how-to-contribute)
-[� Data Summary](#-data--contributions)
+<table width="100%">
+  <tr>
+    <td width="50%"><b>🤖 <a href="#llm_engines">LLM Engines & Platforms</a></b></td>
+    <td width="50%"><b>🧠 <a href="#frameworks">Research & Core Frameworks</a></b></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>🛠️ <a href="#agents">AI Agents & Orchestration</a></b></td>
+    <td width="50%"><b>� <a href="#ai-resource-navigator">AI Resource Navigator</a></b></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>💻 <a href="#cli_tools">AI CLI & Developer Tools</a></b></td>
+    <td width="50%"><b>🤝 <a href="#how-to-contribute">Community & Participation</a></b></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>🎨 <a href="#art_vision">Generative Art & Vision</a></b></td>
+    <td width="50%"><b>� <a href="#-data--contributions">Data Summary</a></b></td>
+  </tr>
+</table>
 
 <br />
 
-<h2 id='llm_engines'>🌌 LLM Engines & Platforms</h2>
+<h2 id='llm_engines'>🤖 LLM Engines & Platforms</h2>
 
 
 <table width="100%">
@@ -100,7 +110,7 @@
 
 ---
 
-<h2 id='agents'>🦾 AI Agents & Orchestration</h2>
+<h2 id='agents'>🛠️ AI Agents & Orchestration</h2>
 
 
 <table width="100%">
@@ -173,7 +183,7 @@
 
 ---
 
-<h2 id='cli_tools'>🚀 AI CLI & Developer Tools</h2>
+<h2 id='cli_tools'>💻 AI-Powered CLI & DevTools</h2>
 
 
 <table width="100%">
@@ -229,7 +239,7 @@
 
 ---
 
-<h2 id='art_vision'>✨ Generative Art & Vision</h2>
+<h2 id='art_vision'>🎨 Generative Art & Vision</h2>
 
 
 <table width="100%">
@@ -285,7 +295,7 @@
 
 ---
 
-<h2 id='frameworks'>🧬 Research & Core Frameworks</h2>
+<h2 id='frameworks'>🧠 Research & Core Frameworks</h2>
 
 
 <table width="100%">
@@ -420,5 +430,5 @@ Stay ahead of the curve with these curated AI specialized resources.
 Data is retrieved using the GitHub REST API and GitHub Actions.
 
 <div align="right">
-  <i>✨ Last Generated: March 03, 2026 - 18:44 UTC</i>
+  <i>✨ Last Generated: March 03, 2026 - 18:49 UTC</i>
 </div>
