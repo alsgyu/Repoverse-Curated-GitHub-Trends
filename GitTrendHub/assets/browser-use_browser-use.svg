@@ -1,11 +1,12 @@
 <svg width="400" height="150" viewBox="0 0 400 150" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect x="0.5" y="0.5" width="399" height="149" rx="9.5" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="398" height="4" rx="2" fill="#4dabf7"/>
   <text x="20" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#58a6ff">browser-use</text>
   <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#8b949e">browser-use/browser-use</text>
   
   <g transform="translate(20, 80)">
     <circle cx="5" cy="0" r="5" fill="#e3b341"/>
-    <text x="15" y="4" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9">79,564 stars</text>
+    <text x="15" y="4" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9">79,566 stars</text>
   </g>
   
   <g transform="translate(150, 80)">

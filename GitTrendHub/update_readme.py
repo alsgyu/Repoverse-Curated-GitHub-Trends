@@ -51,11 +51,13 @@ def fetch_repo_stats(repo_path, _api_errors=None):
 
 def generate_svg_card(e):
     # Modern SVG card identifying the repo stats
+    accent = e.get("accent", "#4dabf7")
     growth_color = "#3fb950" if e['growth'] > 0 else "#f85149"
     growth_icon = "▲" if e['growth'] > 0 else "▼"
     
     svg = f"""<svg width="400" height="150" viewBox="0 0 400 150" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect x="0.5" y="0.5" width="399" height="149" rx="9.5" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="398" height="4" rx="2" fill="{accent}"/>
   <text x="20" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#58a6ff">{e['name']}</text>
   <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#8b949e">{e['repo_path']}</text>
   
@@ -210,7 +212,8 @@ def generate_markdown(projects_data, base_dir):
                 "growth": growth,
                 "category": title,
                 "category_id": category_key,
-                "status_tag": data_status
+                "status_tag": data_status,
+                "accent": accent
             }
             
             # Generate local custom SVG
