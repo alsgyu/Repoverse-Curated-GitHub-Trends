@@ -5,7 +5,7 @@
 > **📌 참고**  
 > - **이 README**는 GitHub가 보안상 `style`을 제거해서 단조롭게 보입니다.  
 > - **스타일이 적용된 메인/검색 페이지**: [**docs/index.html**](docs/index.html) (GitHub Pages 또는 로컬에서 열기)  
-> - **README 갱신**: 템플릿(`README.md.template`) 수정 후 `python3 GitTrendHub/update_readme.py` 를 실행하면 이 README가 다시 생성됩니다.
+> - **README 갱신**: 템플릿 수정 후 **레포 루트에서** <code>python3 update_readme.py</code> 실행 → 이 README가 다시 생성됩니다.
 
 <div align="center" style="margin:24px 0;">
   <h1 style="margin:12px 0; font-size:1.8rem;">🤖 AI TrendHub – The Pulse of Artificial Intelligence</h1>

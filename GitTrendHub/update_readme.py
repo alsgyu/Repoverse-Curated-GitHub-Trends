@@ -33,14 +33,14 @@ def parse_stars(val):
     except:
         return 0
 
-def fetch_repo_stats(repo_path):
+def fetch_repo_stats(repo_path, _api_errors=None):
     url = f"https://api.github.com/repos/{repo_path}"
     response = requests.get(url, headers=HEADERS)
     if response.status_code == 200:
         return response.json()
-    else:
-        print(f"Error fetching {repo_path}: {response.status_code}")
-        return None
+    if _api_errors is not None:
+        _api_errors.append((repo_path, response.status_code))
+    return None
 
 def generate_svg_card(e):
     # Modern SVG card identifying the repo stats
@@ -136,6 +136,7 @@ def generate_markdown(projects_data, base_dir):
     all_enriched_repos = []
     dynamic_sections = []
     search_index = {"sections": []}
+    api_errors = []
     
     for category_key, category_data in projects_data.items():
         title = category_data.get("title", category_key.title())
@@ -156,7 +157,7 @@ def generate_markdown(projects_data, base_dir):
         enriched_repos = []
         
         for repo in repos:
-            stats = fetch_repo_stats(repo["url_path"])
+            stats = fetch_repo_stats(repo["url_path"], api_errors)
             
             if stats:
                 current_stars = stats.get("stargazers_count", 0)
@@ -238,7 +239,7 @@ def generate_markdown(projects_data, base_dir):
         sec_lines.append("\n---\n")
         dynamic_sections.append("\n".join(sec_lines))
 
-    return "\n".join(dynamic_sections), search_index
+    return "\n".join(dynamic_sections), search_index, api_errors
 
 def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -250,7 +251,13 @@ def main():
     projects_data = load_projects(projects_file)
     
     print("Fetching statistics & generating visualization...")
-    dynamic_md, search_index = generate_markdown(projects_data, base_dir)
+    dynamic_md, search_index, api_errors = generate_markdown(projects_data, base_dir)
+    if api_errors:
+        codes = {}
+        for _, c in api_errors:
+            codes[c] = codes.get(c, 0) + 1
+        msg = ", ".join(f"{c}: {n}건" for c, n in sorted(codes.items()))
+        print(f"  ⚠ API 제한 등으로 캐시 사용: {msg} (README는 정상 생성됨)")
     
     print("Saving updated projects.json...")
     save_projects(projects_file, projects_data)
