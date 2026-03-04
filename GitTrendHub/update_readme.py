@@ -78,7 +78,7 @@ def generate_svg_card(e):
 </svg>"""
     return svg
 
-def generate_section_bar_png(filepath, color, width=8, height=140):
+def generate_section_bar_png(filepath, color, width=12, height=220):
     # Minimal PNG writer (no external deps). Color is hex like "#ff6b6b".
     hex_color = color.lstrip("#")
     r = int(hex_color[0:2], 16)
@@ -166,7 +166,7 @@ def generate_markdown(projects_data, base_dir):
         accent = accent_by_category.get(category_key, "#4dabf7")
         bar_filename = f"section_bar_{category_key}.png"
         bar_path = os.path.join(assets_dir, bar_filename)
-        generate_section_bar_png(bar_path, accent)
+        generate_section_bar_png(bar_path, accent, width=12, height=220)
         bar_asset = f"assets/{bar_filename}"
         sec_lines = []
         sec_lines.append(f"<h2 id='{category_key}'>{title}</h2>")
@@ -240,8 +240,8 @@ def generate_markdown(projects_data, base_dir):
             card_html = f"""
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="10" valign="top">
-      <img src="{bar_asset}" alt="" width="8" height="140">
+    <td width="14" valign="top">
+      <img src="{bar_asset}" alt="" width="12" height="220">
     </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: {accent}; border: 1px solid {accent}; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">

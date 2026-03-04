@@ -35,8 +35,8 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="10" valign="top">
-      <img src="GitTrendHub/assets/section_bar_llm_engines.png" alt="" width="8" height="140">
+    <td width="14" valign="top">
+      <img src="GitTrendHub/assets/section_bar_llm_engines.png" alt="" width="12" height="220">
     </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #ff6b6b; border: 1px solid #ff6b6b; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
@@ -58,8 +58,8 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="10" valign="top">
-      <img src="GitTrendHub/assets/section_bar_llm_engines.png" alt="" width="8" height="140">
+    <td width="14" valign="top">
+      <img src="GitTrendHub/assets/section_bar_llm_engines.png" alt="" width="12" height="220">
     </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #ff6b6b; border: 1px solid #ff6b6b; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
@@ -81,8 +81,8 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="10" valign="top">
-      <img src="GitTrendHub/assets/section_bar_llm_engines.png" alt="" width="8" height="140">
+    <td width="14" valign="top">
+      <img src="GitTrendHub/assets/section_bar_llm_engines.png" alt="" width="12" height="220">
     </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #ff6b6b; border: 1px solid #ff6b6b; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
@@ -104,8 +104,8 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="10" valign="top">
-      <img src="GitTrendHub/assets/section_bar_llm_engines.png" alt="" width="8" height="140">
+    <td width="14" valign="top">
+      <img src="GitTrendHub/assets/section_bar_llm_engines.png" alt="" width="12" height="220">
     </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #ff6b6b; border: 1px solid #ff6b6b; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
@@ -132,8 +132,8 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="10" valign="top">
-      <img src="GitTrendHub/assets/section_bar_agents.png" alt="" width="8" height="140">
+    <td width="14" valign="top">
+      <img src="GitTrendHub/assets/section_bar_agents.png" alt="" width="12" height="220">
     </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #4dabf7; border: 1px solid #4dabf7; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
@@ -155,8 +155,8 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="10" valign="top">
-      <img src="GitTrendHub/assets/section_bar_agents.png" alt="" width="8" height="140">
+    <td width="14" valign="top">
+      <img src="GitTrendHub/assets/section_bar_agents.png" alt="" width="12" height="220">
     </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #4dabf7; border: 1px solid #4dabf7; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
@@ -178,8 +178,8 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="10" valign="top">
-      <img src="GitTrendHub/assets/section_bar_agents.png" alt="" width="8" height="140">
+    <td width="14" valign="top">
+      <img src="GitTrendHub/assets/section_bar_agents.png" alt="" width="12" height="220">
     </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #4dabf7; border: 1px solid #4dabf7; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
@@ -201,8 +201,8 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="10" valign="top">
-      <img src="GitTrendHub/assets/section_bar_agents.png" alt="" width="8" height="140">
+    <td width="14" valign="top">
+      <img src="GitTrendHub/assets/section_bar_agents.png" alt="" width="12" height="220">
     </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #4dabf7; border: 1px solid #4dabf7; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
@@ -229,8 +229,8 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="10" valign="top">
-      <img src="GitTrendHub/assets/section_bar_cli_tools.png" alt="" width="8" height="140">
+    <td width="14" valign="top">
+      <img src="GitTrendHub/assets/section_bar_cli_tools.png" alt="" width="12" height="220">
     </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #51cf66; border: 1px solid #51cf66; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
@@ -252,8 +252,8 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="10" valign="top">
-      <img src="GitTrendHub/assets/section_bar_cli_tools.png" alt="" width="8" height="140">
+    <td width="14" valign="top">
+      <img src="GitTrendHub/assets/section_bar_cli_tools.png" alt="" width="12" height="220">
     </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #51cf66; border: 1px solid #51cf66; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
@@ -275,8 +275,8 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="10" valign="top">
-      <img src="GitTrendHub/assets/section_bar_cli_tools.png" alt="" width="8" height="140">
+    <td width="14" valign="top">
+      <img src="GitTrendHub/assets/section_bar_cli_tools.png" alt="" width="12" height="220">
     </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #51cf66; border: 1px solid #51cf66; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
@@ -303,8 +303,8 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="10" valign="top">
-      <img src="GitTrendHub/assets/section_bar_art_vision.png" alt="" width="8" height="140">
+    <td width="14" valign="top">
+      <img src="GitTrendHub/assets/section_bar_art_vision.png" alt="" width="12" height="220">
     </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #ffa94d; border: 1px solid #ffa94d; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
@@ -326,8 +326,8 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="10" valign="top">
-      <img src="GitTrendHub/assets/section_bar_art_vision.png" alt="" width="8" height="140">
+    <td width="14" valign="top">
+      <img src="GitTrendHub/assets/section_bar_art_vision.png" alt="" width="12" height="220">
     </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #ffa94d; border: 1px solid #ffa94d; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
@@ -349,8 +349,8 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="10" valign="top">
-      <img src="GitTrendHub/assets/section_bar_art_vision.png" alt="" width="8" height="140">
+    <td width="14" valign="top">
+      <img src="GitTrendHub/assets/section_bar_art_vision.png" alt="" width="12" height="220">
     </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #ffa94d; border: 1px solid #ffa94d; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
@@ -377,8 +377,8 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="10" valign="top">
-      <img src="GitTrendHub/assets/section_bar_frameworks.png" alt="" width="8" height="140">
+    <td width="14" valign="top">
+      <img src="GitTrendHub/assets/section_bar_frameworks.png" alt="" width="12" height="220">
     </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #845ef7; border: 1px solid #845ef7; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
@@ -400,8 +400,8 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="10" valign="top">
-      <img src="GitTrendHub/assets/section_bar_frameworks.png" alt="" width="8" height="140">
+    <td width="14" valign="top">
+      <img src="GitTrendHub/assets/section_bar_frameworks.png" alt="" width="12" height="220">
     </td>
     <td width="60%" valign="top" style="padding-left: 10px;">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: #845ef7; border: 1px solid #845ef7; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
@@ -469,5 +469,5 @@ Stay ahead of the curve with these curated AI resources.
 Data is retrieved using the GitHub REST API and GitHub Actions.
 
 <div align="right">
-  <i>✨ Last Generated: March 04, 2026 - 13:01 UTC</i>
+  <i>✨ Last Generated: March 04, 2026 - 13:09 UTC</i>
 </div>
