@@ -1,6 +1,5 @@
 <svg width="400" height="150" viewBox="0 0 400 150" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect x="0.5" y="0.5" width="399" height="149" rx="9.5" fill="#0d1117" stroke="#30363d"/>
-  <rect x="1" y="1" width="398" height="4" rx="2" fill="#ff6b6b"/>
   <text x="20" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#58a6ff">ollama</text>
   <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#8b949e">ollama/ollama</text>
   
