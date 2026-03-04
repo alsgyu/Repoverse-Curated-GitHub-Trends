@@ -1,8 +1,6 @@
 import os
 import json
 import requests
-import struct
-import zlib
 from datetime import datetime, timezone
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
@@ -51,11 +49,13 @@ def fetch_repo_stats(repo_path, _api_errors=None):
 
 def generate_svg_card(e):
     # Modern SVG card identifying the repo stats
+    accent = e.get("accent", "#4dabf7")
     growth_color = "#3fb950" if e['growth'] > 0 else "#f85149"
     growth_icon = "▲" if e['growth'] > 0 else "▼"
     
     svg = f"""<svg width="400" height="150" viewBox="0 0 400 150" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect x="0.5" y="0.5" width="399" height="149" rx="9.5" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="6" height="149" rx="3" fill="{accent}"/>
   <text x="20" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#58a6ff">{e['name']}</text>
   <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#8b949e">{e['repo_path']}</text>
   
@@ -77,30 +77,6 @@ def generate_svg_card(e):
   <text x="340" y="37" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#c9d1d9" text-anchor="middle">{e['language']}</text>
 </svg>"""
     return svg
-
-def generate_section_bar_png(filepath, color, width=12, height=220):
-    # Minimal PNG writer (no external deps). Color is hex like "#ff6b6b".
-    hex_color = color.lstrip("#")
-    r = int(hex_color[0:2], 16)
-    g = int(hex_color[2:4], 16)
-    b = int(hex_color[4:6], 16)
-    # Each row: filter byte 0 + RGB pixels
-    row = bytes([0] + [r, g, b] * width)
-    raw = row * height
-    compressed = zlib.compress(raw, level=9)
-
-    def chunk(chunk_type, data):
-        return (
-            struct.pack(">I", len(data))
-            + chunk_type
-            + data
-            + struct.pack(">I", zlib.crc32(chunk_type + data) & 0xFFFFFFFF)
-        )
-
-    ihdr = struct.pack(">IIBBBBB", width, height, 8, 2, 0, 0, 0)
-    png = b"\x89PNG\r\n\x1a\n" + chunk(b"IHDR", ihdr) + chunk(b"IDAT", compressed) + chunk(b"IEND", b"")
-    with open(filepath, "wb") as f:
-        f.write(png)
 
 # Static TOC entries (id, title, description) for template
 STATIC_TOC_ENTRIES = [
@@ -164,10 +140,6 @@ def generate_markdown(projects_data, base_dir):
     for category_key, category_data in projects_data.items():
         title = category_data.get("title", category_key.title())
         accent = accent_by_category.get(category_key, "#4dabf7")
-        bar_filename = f"section_bar_{category_key}.png"
-        bar_path = os.path.join(assets_dir, bar_filename)
-        generate_section_bar_png(bar_path, accent, width=12, height=220)
-        bar_asset = f"assets/{bar_filename}"
         sec_lines = []
         sec_lines.append(f"<h2 id='{category_key}'>{title}</h2>")
         sec_lines.append("")
@@ -241,10 +213,7 @@ def generate_markdown(projects_data, base_dir):
             card_html = f"""
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="14" valign="top">
-      <img src="{bar_asset}" alt="" width="12" height="220">
-    </td>
-    <td width="60%" valign="top" style="padding-left: 10px;">
+    <td width="60%" valign="top">
       <div style="display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: 0.2px; color: {accent}; border: 1px solid {accent}; border-radius: 999px; padding: 2px 8px; margin: 2px 0 6px 0;">
         {badge_text}
       </div>
