@@ -1,0 +1,135 @@
+{
+  "sections": [
+    {
+      "id": "llm_engines",
+      "title": "🤖 LLM Engines & Platforms",
+      "description": "로컬·클라우드 LLM 실행 엔진, 추론 서버, 오픈소스 모델 런처",
+      "repos": [
+        {
+          "name": "ollama",
+          "url_path": "ollama/ollama",
+          "html_url": "https://github.com/ollama/ollama",
+          "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+        },
+        {
+          "name": "llama.cpp",
+          "url_path": "ggerganov/llama.cpp",
+          "html_url": "https://github.com/ggerganov/llama.cpp",
+          "description": "LLM inference in C/C++"
+        },
+        {
+          "name": "vllm",
+          "url_path": "vllm-project/vllm",
+          "html_url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs"
+        },
+        {
+          "name": "DeepSeek-V3",
+          "url_path": "deepseek-ai/DeepSeek-V3",
+          "html_url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description provided"
+        }
+      ]
+    },
+    {
+      "id": "agents",
+      "title": "🛠️ AI Agents & Orchestration",
+      "description": "자율 에이전트, 멀티에이전트 오케스트레이션, 브라우저/도구 연동",
+      "repos": [
+        {
+          "name": "openclaw",
+          "url_path": "openclaw/openclaw",
+          "html_url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 "
+        },
+        {
+          "name": "AutoGPT",
+          "url_path": "Significant-Gravitas/AutoGPT",
+          "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+        },
+        {
+          "name": "crewAI",
+          "url_path": "joaomdmoura/crewAI",
+          "html_url": "https://github.com/joaomdmoura/crewAI",
+          "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
+        },
+        {
+          "name": "browser-use",
+          "url_path": "browser-use/browser-use",
+          "html_url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+        }
+      ]
+    },
+    {
+      "id": "cli_tools",
+      "title": "💻 AI-Powered CLI & DevTools",
+      "description": "터미널·IDE용 AI 페어 프로그래밍, 코드 자동화, CLI 도구",
+      "repos": [
+        {
+          "name": "aider",
+          "url_path": "paul-gauthier/aider",
+          "html_url": "https://github.com/paul-gauthier/aider",
+          "description": "aider is AI pair programming in your terminal"
+        },
+        {
+          "name": "open-interpreter",
+          "url_path": "OpenInterpreter/open-interpreter",
+          "html_url": "https://github.com/OpenInterpreter/open-interpreter",
+          "description": "A natural language interface for computers"
+        },
+        {
+          "name": "claude-code",
+          "url_path": "anthropics/claude-code",
+          "html_url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ..."
+        }
+      ]
+    },
+    {
+      "id": "art_vision",
+      "title": "🎨 Generative Art & Vision",
+      "description": "이미지·비디오 생성, 디퓨전 모델, 생성형 AI UI/API",
+      "repos": [
+        {
+          "name": "flux",
+          "url_path": "black-forest-labs/flux",
+          "html_url": "https://github.com/black-forest-labs/flux",
+          "description": "Official inference repo for FLUX.1 models"
+        },
+        {
+          "name": "stable-diffusion-webui",
+          "url_path": "AUTOMATIC1111/stable-diffusion-webui",
+          "html_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI"
+        },
+        {
+          "name": "ComfyUI",
+          "url_path": "comfyanonymous/ComfyUI",
+          "html_url": "https://github.com/comfyanonymous/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
+        }
+      ]
+    },
+    {
+      "id": "frameworks",
+      "title": "🧠 Research & Core Frameworks",
+      "description": "ML/NLP 프레임워크, 에이전트 플랫폼, 연구용 코어 라이브러리",
+      "repos": [
+        {
+          "name": "transformers",
+          "url_path": "huggingface/transformers",
+          "html_url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. "
+        },
+        {
+          "name": "langchain",
+          "url_path": "langchain-ai/langchain",
+          "html_url": "https://github.com/langchain-ai/langchain",
+          "description": "The agent engineering platform"
+        }
+      ]
+    }
+  ]
+}
