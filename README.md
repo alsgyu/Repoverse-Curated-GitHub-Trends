@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="GitTrendHub/image4.png" alt="AI TrendHub Banner" width="450">
+  <img src="GitTrendHub/image4.png" alt="AI TrendHub Banner" width="400">
 </div>
 
 # 🤖 AI TrendHub – The Pulse of Artificial Intelligence
@@ -48,7 +48,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#llm_engines">🔼 Back to Section (🤖 LLM Engines & Platforms)</a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#llm_engines">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -65,7 +65,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#llm_engines">🔼 Back to Section (🤖 LLM Engines & Platforms)</a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#llm_engines">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -82,7 +82,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#llm_engines">🔼 Back to Section (🤖 LLM Engines & Platforms)</a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#llm_engines">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -99,7 +99,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#llm_engines">🔼 Back to Section (🤖 LLM Engines & Platforms)</a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#llm_engines">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
 ---
@@ -122,7 +122,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#agents">🔼 Back to Section (🛠️ AI Agents & Orchestration)</a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#agents">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -139,7 +139,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#agents">🔼 Back to Section (🛠️ AI Agents & Orchestration)</a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#agents">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -156,7 +156,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#agents">🔼 Back to Section (🛠️ AI Agents & Orchestration)</a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#agents">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -173,7 +173,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#agents">🔼 Back to Section (🛠️ AI Agents & Orchestration)</a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#agents">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
 ---
@@ -196,7 +196,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#cli_tools">🔼 Back to Section (💻 AI-Powered CLI & DevTools)</a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#cli_tools">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -213,7 +213,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#cli_tools">🔼 Back to Section (💻 AI-Powered CLI & DevTools)</a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#cli_tools">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -230,7 +230,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#cli_tools">🔼 Back to Section (💻 AI-Powered CLI & DevTools)</a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#cli_tools">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
 ---
@@ -253,7 +253,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#art_vision">🔼 Back to Section (🎨 Generative Art & Vision)</a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#art_vision">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -270,7 +270,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#art_vision">🔼 Back to Section (🎨 Generative Art & Vision)</a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#art_vision">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -287,7 +287,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#art_vision">🔼 Back to Section (🎨 Generative Art & Vision)</a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#art_vision">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
 ---
@@ -310,7 +310,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#frameworks">🔼 Back to Section (🧠 Research & Core Frameworks)</a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#frameworks">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -327,7 +327,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#frameworks">🔼 Back to Section (🧠 Research & Core Frameworks)</a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#frameworks">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
 
 
 ---
@@ -378,5 +378,5 @@ Stay ahead of the curve with these curated AI resources.
 Data is retrieved using the GitHub REST API and GitHub Actions.
 
 <div align="right">
-  <i>✨ Last Generated: March 04, 2026 - 13:33 UTC</i>
+  <i>✨ Last Generated: March 04, 2026 - 13:37 UTC</i>
 </div>
