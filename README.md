@@ -37,7 +37,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><a href="https://github.com/ollama/ollama">ollama</a> <sub>(Vault Mode)</sub></h3>
+      <h3><a href="https://github.com/ollama/ollama">ollama</a></h3>
       <img src="GitTrendHub/assets/ollama_ollama.svg" alt="ollama stats" width="400">
     </td>
     <td width="40%" valign="top" align="center">
@@ -48,13 +48,13 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#llm_engines">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#llm_engines"><kbd>🤖 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><a href="https://github.com/deepseek-ai/DeepSeek-V3">DeepSeek-V3</a> <sub>(Vault Mode)</sub></h3>
+      <h3><a href="https://github.com/deepseek-ai/DeepSeek-V3">DeepSeek-V3</a></h3>
       <img src="GitTrendHub/assets/deepseek-ai_DeepSeek-V3.svg" alt="DeepSeek-V3 stats" width="400">
     </td>
     <td width="40%" valign="top" align="center">
@@ -65,13 +65,13 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#llm_engines">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#llm_engines"><kbd>🤖 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><a href="https://github.com/ggerganov/llama.cpp">llama.cpp</a> <sub>(Vault Mode)</sub></h3>
+      <h3><a href="https://github.com/ggerganov/llama.cpp">llama.cpp</a></h3>
       <img src="GitTrendHub/assets/ggerganov_llama.cpp.svg" alt="llama.cpp stats" width="400">
     </td>
     <td width="40%" valign="top" align="center">
@@ -82,13 +82,13 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#llm_engines">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#llm_engines"><kbd>🤖 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><a href="https://github.com/vllm-project/vllm">vllm</a> <sub>(Vault Mode)</sub></h3>
+      <h3><a href="https://github.com/vllm-project/vllm">vllm</a></h3>
       <img src="GitTrendHub/assets/vllm-project_vllm.svg" alt="vllm stats" width="400">
     </td>
     <td width="40%" valign="top" align="center">
@@ -99,7 +99,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#llm_engines">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#llm_engines"><kbd>🤖 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a></p>
 
 
 ---
@@ -111,7 +111,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><a href="https://github.com/openclaw/openclaw">openclaw</a> <sub>(Vault Mode)</sub></h3>
+      <h3><a href="https://github.com/openclaw/openclaw">openclaw</a></h3>
       <img src="GitTrendHub/assets/openclaw_openclaw.svg" alt="openclaw stats" width="400">
     </td>
     <td width="40%" valign="top" align="center">
@@ -122,13 +122,13 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#agents">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><a href="https://github.com/Significant-Gravitas/AutoGPT">AutoGPT</a> <sub>(Vault Mode)</sub></h3>
+      <h3><a href="https://github.com/Significant-Gravitas/AutoGPT">AutoGPT</a></h3>
       <img src="GitTrendHub/assets/Significant-Gravitas_AutoGPT.svg" alt="AutoGPT stats" width="400">
     </td>
     <td width="40%" valign="top" align="center">
@@ -139,13 +139,13 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#agents">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><a href="https://github.com/browser-use/browser-use">browser-use</a> <sub>(Vault Mode)</sub></h3>
+      <h3><a href="https://github.com/browser-use/browser-use">browser-use</a></h3>
       <img src="GitTrendHub/assets/browser-use_browser-use.svg" alt="browser-use stats" width="400">
     </td>
     <td width="40%" valign="top" align="center">
@@ -156,13 +156,13 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#agents">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><a href="https://github.com/joaomdmoura/crewAI">crewAI</a> <sub>(Vault Mode)</sub></h3>
+      <h3><a href="https://github.com/joaomdmoura/crewAI">crewAI</a></h3>
       <img src="GitTrendHub/assets/joaomdmoura_crewAI.svg" alt="crewAI stats" width="400">
     </td>
     <td width="40%" valign="top" align="center">
@@ -173,7 +173,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#agents">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#agents"><kbd>🛠️ Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a></p>
 
 
 ---
@@ -185,7 +185,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><a href="https://github.com/anthropics/claude-code">claude-code</a> <sub>(Vault Mode)</sub></h3>
+      <h3><a href="https://github.com/anthropics/claude-code">claude-code</a></h3>
       <img src="GitTrendHub/assets/anthropics_claude-code.svg" alt="claude-code stats" width="400">
     </td>
     <td width="40%" valign="top" align="center">
@@ -196,13 +196,13 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#cli_tools">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#cli_tools"><kbd>💻 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><a href="https://github.com/OpenInterpreter/open-interpreter">open-interpreter</a> <sub>(Vault Mode)</sub></h3>
+      <h3><a href="https://github.com/OpenInterpreter/open-interpreter">open-interpreter</a></h3>
       <img src="GitTrendHub/assets/OpenInterpreter_open-interpreter.svg" alt="open-interpreter stats" width="400">
     </td>
     <td width="40%" valign="top" align="center">
@@ -213,13 +213,13 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#cli_tools">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#cli_tools"><kbd>💻 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><a href="https://github.com/paul-gauthier/aider">aider</a> <sub>(Vault Mode)</sub></h3>
+      <h3><a href="https://github.com/paul-gauthier/aider">aider</a></h3>
       <img src="GitTrendHub/assets/paul-gauthier_aider.svg" alt="aider stats" width="400">
     </td>
     <td width="40%" valign="top" align="center">
@@ -230,7 +230,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#cli_tools">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#cli_tools"><kbd>💻 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a></p>
 
 
 ---
@@ -242,7 +242,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">stable-diffusion-webui</a> <sub>(Vault Mode)</sub></h3>
+      <h3><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">stable-diffusion-webui</a></h3>
       <img src="GitTrendHub/assets/AUTOMATIC1111_stable-diffusion-webui.svg" alt="stable-diffusion-webui stats" width="400">
     </td>
     <td width="40%" valign="top" align="center">
@@ -253,13 +253,13 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#art_vision">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#art_vision"><kbd>🎨 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><a href="https://github.com/comfyanonymous/ComfyUI">ComfyUI</a> <sub>(Vault Mode)</sub></h3>
+      <h3><a href="https://github.com/comfyanonymous/ComfyUI">ComfyUI</a></h3>
       <img src="GitTrendHub/assets/comfyanonymous_ComfyUI.svg" alt="ComfyUI stats" width="400">
     </td>
     <td width="40%" valign="top" align="center">
@@ -270,13 +270,13 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#art_vision">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#art_vision"><kbd>🎨 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><a href="https://github.com/black-forest-labs/flux">flux</a> <sub>(Vault Mode)</sub></h3>
+      <h3><a href="https://github.com/black-forest-labs/flux">flux</a></h3>
       <img src="GitTrendHub/assets/black-forest-labs_flux.svg" alt="flux stats" width="400">
     </td>
     <td width="40%" valign="top" align="center">
@@ -287,7 +287,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#art_vision">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#art_vision"><kbd>🎨 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a></p>
 
 
 ---
@@ -299,7 +299,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><a href="https://github.com/huggingface/transformers">transformers</a> <sub>(Vault Mode)</sub></h3>
+      <h3><a href="https://github.com/huggingface/transformers">transformers</a></h3>
       <img src="GitTrendHub/assets/huggingface_transformers.svg" alt="transformers stats" width="400">
     </td>
     <td width="40%" valign="top" align="center">
@@ -310,13 +310,13 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#frameworks">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a></p>
 
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><a href="https://github.com/langchain-ai/langchain">langchain</a> <sub>(Vault Mode)</sub></h3>
+      <h3><a href="https://github.com/langchain-ai/langchain">langchain</a></h3>
       <img src="GitTrendHub/assets/langchain-ai_langchain.svg" alt="langchain stats" width="400">
     </td>
     <td width="40%" valign="top" align="center">
@@ -327,7 +327,7 @@
     </td>
   </tr>
 </table>
-<p align="right"><a href="#frameworks">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#frameworks"><kbd>🧠 Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a></p>
 
 
 ---
@@ -378,5 +378,5 @@ Stay ahead of the curve with these curated AI resources.
 Data is retrieved using the GitHub REST API and GitHub Actions.
 
 <div align="right">
-  <i>✨ Last Generated: March 04, 2026 - 13:37 UTC</i>
+  <i>✨ Last Generated: March 04, 2026 - 14:01 UTC</i>
 </div>

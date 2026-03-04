@@ -134,6 +134,13 @@ def generate_toc(projects_data):
         other_lines.append(f"- {offset + jdx}. [{title}](#{sid}) — {safe_desc}")
     return "\n".join(lines + [""] + other_lines)
 
+def extract_leading_emoji(title, fallback="🔼"):
+    if not title:
+        return fallback
+    token = title.split()[0]
+    if token and not token[0].isalnum():
+        return token
+    return fallback
 
 def generate_markdown(projects_data, base_dir):
     md_lines = []
@@ -165,6 +172,7 @@ def generate_markdown(projects_data, base_dir):
 
     for category_key, category_data in projects_data.items():
         title = category_data.get("title", category_key.title())
+        section_emoji = extract_leading_emoji(title)
         accent = accent_by_category.get(category_key, "#4dabf7")
         bar_filename = f"section_bar_{category_key}.png"
         bar_path = os.path.join(assets_dir, bar_filename)
@@ -256,7 +264,7 @@ def generate_markdown(projects_data, base_dir):
     </td>
   </tr>
 </table>
-<p align="right"><a href="#{section_anchor}">🔼 Back to Section </a> · <a href="#contents">📑 Back to Contents</a></p>
+<p align="right"><a href="#{section_anchor}"><kbd>{section_emoji} Back to Section</kbd></a> · <a href="#contents"><kbd>📑 Contents</kbd></a></p>
 """
             sec_lines.append(card_html)
             
