@@ -244,9 +244,6 @@ def generate_markdown(projects_data, base_dir):
             card_html = f"""
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="8" valign="top" align="left">
-      <img src="{bar_asset}" alt="" width="8" height="220">
-    </td>
     <td width="60%" valign="top">
       <h3><a href="{e['html_url']}">{e['name']}</a>{e['status_tag']}</h3>
       <img src="{e['svg_asset']}" alt="{e['name']} stats" width="400">
