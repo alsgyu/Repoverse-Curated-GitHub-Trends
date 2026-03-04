@@ -71,6 +71,41 @@ def generate_svg_card(e):
 </svg>"""
     return svg
 
+# Static TOC entries (id, title, description) for template
+STATIC_TOC_ENTRIES = [
+    ("how-to-contribute", "🤝 Community & Participation", "기여 방법, PR 가이드, 커뮤니티 참여"),
+    ("ai-resource-navigator", "🌐 AI Resource Navigator", "트렌드·뉴스·툴 검색 등 외부 리소스 링크"),
+    ("data-summary", "📝 Data Summary", "데이터 출처 및 마지막 생성 시각"),
+]
+
+
+def generate_toc(projects_data):
+    """Build Table of Contents HTML with section descriptions."""
+    rows = []
+    items = []
+    for category_key, category_data in projects_data.items():
+        title = category_data.get("title", category_key.title())
+        desc = category_data.get("description", "")
+        items.append((category_key, title, desc))
+    for sid, title, desc in STATIC_TOC_ENTRIES:
+        items.append((sid, title, desc))
+    # Two columns per row for compact layout
+    for i in range(0, len(items), 2):
+        cell1 = items[i]
+        cell2 = items[i + 1] if i + 1 < len(items) else None
+        link1 = f"<a href=\"#{cell1[0]}\">{cell1[1]}</a>"
+        desc1 = f"<br><small style=\"color:#8b949e\">{cell1[2]}</small>" if cell1[2] else ""
+        td1 = f"<td width=\"50%\" style=\"vertical-align: top; padding: 8px 12px;\"><b>{link1}</b>{desc1}</td>"
+        if cell2:
+            link2 = f"<a href=\"#{cell2[0]}\">{cell2[1]}</a>"
+            desc2 = f"<br><small style=\"color:#8b949e\">{cell2[2]}</small>" if cell2[2] else ""
+            td2 = f"<td width=\"50%\" style=\"vertical-align: top; padding: 8px 12px;\"><b>{link2}</b>{desc2}</td>"
+            rows.append(f"  <tr>{td1}{td2}</tr>")
+        else:
+            rows.append(f"  <tr>{td1}<td width=\"50%\"></td></tr>")
+    return "<table width=\"100%\" style=\"border-collapse: collapse;\">\n" + "\n".join(rows) + "\n</table>"
+
+
 def generate_markdown(projects_data, base_dir):
     md_lines = []
     assets_dir = os.path.join(base_dir, "assets")
@@ -79,10 +114,17 @@ def generate_markdown(projects_data, base_dir):
     
     all_enriched_repos = []
     dynamic_sections = []
+    search_index = {"sections": []}
     
     for category_key, category_data in projects_data.items():
         title = category_data.get("title", category_key.title())
         sec_lines = [f"<h2 id='{category_key}'>{title}</h2>", ""]
+        search_index["sections"].append({
+            "id": category_key,
+            "title": title,
+            "description": category_data.get("description", ""),
+            "repos": []
+        })
         
         repos = category_data.get("repos", [])
         enriched_repos = []
@@ -115,6 +157,7 @@ def generate_markdown(projects_data, base_dir):
                 "stars": current_stars,
                 "growth": growth,
                 "category": title,
+                "category_id": category_key,
                 "status_tag": data_status
             }
             
@@ -127,6 +170,12 @@ def generate_markdown(projects_data, base_dir):
             e["svg_asset"] = f"assets/{svg_filename}"
             enriched_repos.append(e)
             all_enriched_repos.append(e)
+            search_index["sections"][-1]["repos"].append({
+                "name": e["name"],
+                "url_path": e["repo_path"],
+                "html_url": e["html_url"],
+                "description": (e["description"][:200] + "..." if len(e["description"]) > 200 else e["description"]),
+            })
             
         enriched_repos.sort(key=lambda x: x["stars"], reverse=True)
         
@@ -134,7 +183,7 @@ def generate_markdown(projects_data, base_dir):
             desc_limited = e['description']
             if len(desc_limited) > 120:
                 desc_limited = desc_limited[:117] + "..."
-                
+            section_anchor = e["category_id"]
             card_html = f"""
 <table width="100%">
   <tr>
@@ -150,14 +199,14 @@ def generate_markdown(projects_data, base_dir):
     </td>
   </tr>
 </table>
-<p align="right"><a href="#table-of-contents">🔼 Back to Top</a></p>
+<p align="right"><a href="#{section_anchor}">🔼 Back to Section</a></p>
 """
             sec_lines.append(card_html)
             
         sec_lines.append("\n---\n")
         dynamic_sections.append("\n".join(sec_lines))
 
-    return "\n".join(dynamic_sections)
+    return "\n".join(dynamic_sections), search_index
 
 def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -169,17 +218,26 @@ def main():
     projects_data = load_projects(projects_file)
     
     print("Fetching statistics & generating visualization...")
-    dynamic_md = generate_markdown(projects_data, base_dir)
+    dynamic_md, search_index = generate_markdown(projects_data, base_dir)
     
     print("Saving updated projects.json...")
     save_projects(projects_file, projects_data)
+    
+    toc_html = generate_toc(projects_data)
+    docs_dir = os.path.join(os.path.dirname(base_dir), "docs")
+    os.makedirs(docs_dir, exist_ok=True)
+    search_index_path = os.path.join(docs_dir, "search-index.json")
+    with open(search_index_path, "w", encoding="utf-8") as f:
+        json.dump(search_index, f, ensure_ascii=False, indent=2)
+    print(f"Search index written: {search_index_path}")
     
     print("Generating README.md...")
     with open(template_file, "r", encoding="utf-8") as f:
         template_content = f.read()
     
     now_utc = datetime.now(timezone.utc).strftime("%B %d, %Y - %H:%M UTC")
-    final_readme = template_content.replace("<!-- DYNAMIC_CONTENT -->", dynamic_md)
+    final_readme = template_content.replace("<!-- TOC_PLACEHOLDER -->", toc_html)
+    final_readme = final_readme.replace("<!-- DYNAMIC_CONTENT -->", dynamic_md)
     final_readme = final_readme.replace("{{ timestamp }}", now_utc)
     
     final_readme = final_readme.replace('src="assets/', 'src="GitTrendHub/assets/')

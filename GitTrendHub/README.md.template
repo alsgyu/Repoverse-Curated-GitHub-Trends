@@ -12,28 +12,13 @@
 
 > **💡 Specializing in AI:** This dashboard focuses exclusively on the rapidly evolving AI ecosystem, trackging the most impactful projects across engines, agents, and generative tools.
 
+<p align="center"><strong>🔍 <a href="docs/index.html">검색 페이지</a></strong>에서 키워드로 컨텐츠를 찾을 수 있습니다.</p>
+
 ---
 
 ## 📑 Table of Contents
 
-<table width="100%">
-  <tr>
-    <td width="50%"><b>🤖 <a href="#llm_engines">LLM Engines & Platforms</a></b></td>
-    <td width="50%"><b>🧠 <a href="#frameworks">Research & Core Frameworks</a></b></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>🛠️ <a href="#agents">AI Agents & Orchestration</a></b></td>
-    <td width="50%"><b>🌐 <a href="#ai-resource-navigator">AI Resource Navigator</a></b></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>💻 <a href="#cli_tools">AI CLI & Developer Tools</a></b></td>
-    <td width="50%"><b>🤝 <a href="#how-to-contribute">Community & Participation</a></b></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>🎨 <a href="#art_vision">Generative Art & Vision</a></b></td>
-    <td width="50%"><b>📝 <a href="#-data--contributions">Data Summary</a></b></td>
-  </tr>
-</table>
+<!-- TOC_PLACEHOLDER -->
 
 <br />
 
@@ -129,7 +114,7 @@ Stay ahead of the curve with these curated AI specialized resources.
 
 ---
 
-## 📝 Data Summary
+<h2 id="data-summary">📝 Data Summary</h2>
 
 Data is retrieved using the GitHub REST API and GitHub Actions.
 

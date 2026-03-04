@@ -1,98 +1,102 @@
 {
   "llm_engines": {
     "title": "\ud83e\udd16 LLM Engines & Platforms",
+    "description": "\ub85c\uceec\u00b7\ud074\ub77c\uc6b0\ub4dc LLM \uc2e4\ud589 \uc5d4\uc9c4, \ucd94\ub860 \uc11c\ubc84, \uc624\ud508\uc18c\uc2a4 \ubaa8\ub378 \ub7f0\ucc98",
     "repos": [
       {
         "url_path": "ollama/ollama",
-        "last_stars": 163952,
+        "last_stars": 163991,
         "last_desc": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
         "last_lang": "Go",
-        "last_forks": 14747
+        "last_forks": 14753
       },
       {
         "url_path": "ggerganov/llama.cpp",
-        "last_stars": 96462,
+        "last_stars": 96520,
         "last_desc": "LLM inference in C/C++",
         "last_lang": "C++",
-        "last_forks": 15208
+        "last_forks": 15211
       },
       {
         "url_path": "vllm-project/vllm",
-        "last_stars": 71796,
+        "last_stars": 71838,
         "last_desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
         "last_lang": "Python",
-        "last_forks": 13896
+        "last_forks": 13918
       },
       {
         "url_path": "deepseek-ai/DeepSeek-V3",
-        "last_stars": 101861,
+        "last_stars": 101867,
         "last_desc": "No description provided",
         "last_lang": "Python",
-        "last_forks": 16541
+        "last_forks": 16544
       }
     ]
   },
   "agents": {
     "title": "\ud83d\udee0\ufe0f AI Agents & Orchestration",
+    "description": "\uc790\uc728 \uc5d0\uc774\uc804\ud2b8, \uba40\ud2f0\uc5d0\uc774\uc804\ud2b8 \uc624\ucf00\uc2a4\ud2b8\ub808\uc774\uc158, \ube0c\ub77c\uc6b0\uc800/\ub3c4\uad6c \uc5f0\ub3d9",
     "repos": [
       {
         "url_path": "openclaw/openclaw",
-        "last_stars": 253550,
+        "last_stars": 255828,
         "last_desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
         "last_lang": "TypeScript",
-        "last_forks": 48698
+        "last_forks": 49132
       },
       {
         "url_path": "Significant-Gravitas/AutoGPT",
-        "last_stars": 182180,
+        "last_stars": 182183,
         "last_desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
         "last_lang": "Python",
-        "last_forks": 46213
+        "last_forks": 46206
       },
       {
         "url_path": "joaomdmoura/crewAI",
-        "last_stars": 45049,
+        "last_stars": 45075,
         "last_desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "last_lang": "Python",
-        "last_forks": 6045
+        "last_forks": 6048
       },
       {
         "url_path": "browser-use/browser-use",
-        "last_stars": 79473,
+        "last_stars": 79512,
         "last_desc": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
         "last_lang": "Python",
-        "last_forks": 9397
+        "last_forks": 9401
       }
     ]
   },
   "cli_tools": {
     "title": "\ud83d\udcbb AI-Powered CLI & DevTools",
+    "description": "\ud130\ubbf8\ub110\u00b7IDE\uc6a9 AI \ud398\uc5b4 \ud504\ub85c\uadf8\ub798\ubc0d, \ucf54\ub4dc \uc790\ub3d9\ud654, CLI \ub3c4\uad6c",
     "repos": [
       {
         "url_path": "paul-gauthier/aider",
-        "last_stars": 41168,
+        "last_stars": 41250,
         "last_desc": "aider is AI pair programming in your terminal",
         "last_lang": "Python",
-        "last_forks": 3937
+        "last_forks": 3945
       },
       {
         "url_path": "OpenInterpreter/open-interpreter",
-        "last_stars": 62510,
+        "last_stars": 62516,
         "last_desc": "A natural language interface for computers",
         "last_lang": "Python",
-        "last_forks": 5387
+        "last_forks": 5386
       },
       {
         "url_path": "anthropics/claude-code",
-        "last_stars": 73174,
+        "last_stars": 73355,
         "last_desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "last_lang": "Shell",
-        "last_forks": 5801
+        "last_forks": 5826
       }
     ]
   },
   "art_vision": {
     "title": "\ud83c\udfa8 Generative Art & Vision",
+    "description": "\uc774\ubbf8\uc9c0\u00b7\ube44\ub514\uc624 \uc0dd\uc131, \ub514\ud4e8\uc804 \ubaa8\ub378, \uc0dd\uc131\ud615 AI UI/API",
     "repos": [
       {
         "url_path": "black-forest-labs/flux",
@@ -106,33 +110,34 @@
         "last_stars": 161452,
         "last_desc": "Stable Diffusion web UI",
         "last_lang": "Python",
-        "last_forks": 30115
+        "last_forks": 30114
       },
       {
         "url_path": "comfyanonymous/ComfyUI",
-        "last_stars": 104735,
+        "last_stars": 104775,
         "last_desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
         "last_lang": "Python",
-        "last_forks": 11998
+        "last_forks": 12000
       }
     ]
   },
   "frameworks": {
     "title": "\ud83e\udde0 Research & Core Frameworks",
+    "description": "ML/NLP \ud504\ub808\uc784\uc6cc\ud06c, \uc5d0\uc774\uc804\ud2b8 \ud50c\ub7ab\ud3fc, \uc5f0\uad6c\uc6a9 \ucf54\uc5b4 \ub77c\uc774\ube0c\ub7ec\ub9ac",
     "repos": [
       {
         "url_path": "huggingface/transformers",
-        "last_stars": 157296,
+        "last_stars": 157315,
         "last_desc": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
         "last_lang": "Python",
-        "last_forks": 32272
+        "last_forks": 32273
       },
       {
         "url_path": "langchain-ai/langchain",
-        "last_stars": 128069,
+        "last_stars": 128102,
         "last_desc": "The agent engineering platform",
         "last_lang": "Python",
-        "last_forks": 21039
+        "last_forks": 21046
       }
     ]
   }
