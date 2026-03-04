@@ -5,28 +5,28 @@
     "repos": [
       {
         "url_path": "ollama/ollama",
-        "last_stars": 164013,
+        "last_stars": 164026,
         "last_desc": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
         "last_lang": "Go",
-        "last_forks": 14754
+        "last_forks": 14757
       },
       {
         "url_path": "ggerganov/llama.cpp",
-        "last_stars": 96557,
+        "last_stars": 96574,
         "last_desc": "LLM inference in C/C++",
         "last_lang": "C++",
-        "last_forks": 15217
+        "last_forks": 15220
       },
       {
         "url_path": "vllm-project/vllm",
-        "last_stars": 71877,
+        "last_stars": 71895,
         "last_desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
         "last_lang": "Python",
-        "last_forks": 13933
+        "last_forks": 13941
       },
       {
         "url_path": "deepseek-ai/DeepSeek-V3",
-        "last_stars": 101880,
+        "last_stars": 101877,
         "last_desc": "No description provided",
         "last_lang": "Python",
         "last_forks": 16545
@@ -39,31 +39,31 @@
     "repos": [
       {
         "url_path": "openclaw/openclaw",
-        "last_stars": 258050,
+        "last_stars": 258810,
         "last_desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
         "last_lang": "TypeScript",
-        "last_forks": 49450
+        "last_forks": 49595
       },
       {
         "url_path": "Significant-Gravitas/AutoGPT",
-        "last_stars": 182182,
+        "last_stars": 182188,
         "last_desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
         "last_lang": "Python",
-        "last_forks": 46210
+        "last_forks": 46207
       },
       {
         "url_path": "joaomdmoura/crewAI",
-        "last_stars": 45093,
+        "last_stars": 45098,
         "last_desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "last_lang": "Python",
-        "last_forks": 6050
+        "last_forks": 6053
       },
       {
         "url_path": "browser-use/browser-use",
-        "last_stars": 79545,
+        "last_stars": 79564,
         "last_desc": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
         "last_lang": "Python",
-        "last_forks": 9405
+        "last_forks": 9404
       }
     ]
   },
@@ -73,24 +73,24 @@
     "repos": [
       {
         "url_path": "paul-gauthier/aider",
-        "last_stars": 41287,
+        "last_stars": 41326,
         "last_desc": "aider is AI pair programming in your terminal",
         "last_lang": "Python",
-        "last_forks": 3950
+        "last_forks": 3951
       },
       {
         "url_path": "OpenInterpreter/open-interpreter",
-        "last_stars": 62518,
+        "last_stars": 62517,
         "last_desc": "A natural language interface for computers",
         "last_lang": "Python",
         "last_forks": 5386
       },
       {
         "url_path": "anthropics/claude-code",
-        "last_stars": 73474,
+        "last_stars": 73540,
         "last_desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "last_lang": "Shell",
-        "last_forks": 5839
+        "last_forks": 5845
       }
     ]
   },
@@ -100,24 +100,24 @@
     "repos": [
       {
         "url_path": "black-forest-labs/flux",
-        "last_stars": 25247,
+        "last_stars": 25249,
         "last_desc": "Official inference repo for FLUX.1 models",
         "last_lang": "Python",
         "last_forks": 1855
       },
       {
         "url_path": "AUTOMATIC1111/stable-diffusion-webui",
-        "last_stars": 161455,
+        "last_stars": 161458,
         "last_desc": "Stable Diffusion web UI",
         "last_lang": "Python",
         "last_forks": 30115
       },
       {
         "url_path": "comfyanonymous/ComfyUI",
-        "last_stars": 104802,
+        "last_stars": 104815,
         "last_desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
         "last_lang": "Python",
-        "last_forks": 12007
+        "last_forks": 12008
       }
     ]
   },
@@ -127,17 +127,17 @@
     "repos": [
       {
         "url_path": "huggingface/transformers",
-        "last_stars": 157334,
+        "last_stars": 157337,
         "last_desc": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
         "last_lang": "Python",
-        "last_forks": 32277
+        "last_forks": 32278
       },
       {
         "url_path": "langchain-ai/langchain",
-        "last_stars": 128154,
+        "last_stars": 128172,
         "last_desc": "The agent engineering platform",
         "last_lang": "Python",
-        "last_forks": 21048
+        "last_forks": 21051
       }
     ]
   }

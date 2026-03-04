@@ -1,6 +1,8 @@
 import os
 import json
 import requests
+import struct
+import zlib
 from datetime import datetime, timezone
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
@@ -76,10 +78,29 @@ def generate_svg_card(e):
 </svg>"""
     return svg
 
-def generate_section_bar_svg(color, width=8, height=140):
-    return f"""<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="{width}" height="{height}" fill="{color}"/>
-</svg>"""
+def generate_section_bar_png(filepath, color, width=8, height=140):
+    # Minimal PNG writer (no external deps). Color is hex like "#ff6b6b".
+    hex_color = color.lstrip("#")
+    r = int(hex_color[0:2], 16)
+    g = int(hex_color[2:4], 16)
+    b = int(hex_color[4:6], 16)
+    # Each row: filter byte 0 + RGB pixels
+    row = bytes([0] + [r, g, b] * width)
+    raw = row * height
+    compressed = zlib.compress(raw, level=9)
+
+    def chunk(chunk_type, data):
+        return (
+            struct.pack(">I", len(data))
+            + chunk_type
+            + data
+            + struct.pack(">I", zlib.crc32(chunk_type + data) & 0xFFFFFFFF)
+        )
+
+    ihdr = struct.pack(">IIBBBBB", width, height, 8, 2, 0, 0, 0)
+    png = b"\x89PNG\r\n\x1a\n" + chunk(b"IHDR", ihdr) + chunk(b"IDAT", compressed) + chunk(b"IEND", b"")
+    with open(filepath, "wb") as f:
+        f.write(png)
 
 # Static TOC entries (id, title, description) for template
 STATIC_TOC_ENTRIES = [
@@ -143,10 +164,9 @@ def generate_markdown(projects_data, base_dir):
     for category_key, category_data in projects_data.items():
         title = category_data.get("title", category_key.title())
         accent = accent_by_category.get(category_key, "#4dabf7")
-        bar_filename = f"section_bar_{category_key}.svg"
+        bar_filename = f"section_bar_{category_key}.png"
         bar_path = os.path.join(assets_dir, bar_filename)
-        with open(bar_path, "w", encoding="utf-8") as f:
-            f.write(generate_section_bar_svg(accent))
+        generate_section_bar_png(bar_path, accent)
         bar_asset = f"assets/{bar_filename}"
         sec_lines = []
         sec_lines.append(f"<h2 id='{category_key}'>{title}</h2>")
