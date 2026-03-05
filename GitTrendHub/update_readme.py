@@ -245,22 +245,18 @@ def generate_markdown(projects_data, base_dir):
         
         for e in enriched_repos:
             desc_limited = e['description']
-            if len(desc_limited) > 120:
-                desc_limited = desc_limited[:117] + "..."
+            if len(desc_limited) > 160:
+                desc_limited = desc_limited[:157] + "..."
             section_anchor = e["category_id"]
-            badge_text = title.replace('"', "&quot;")
             card_html = f"""
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="58%" valign="top">
       <h3><a href="{e['html_url']}">{e['name']}</a>{e['status_tag']}</h3>
-      <img src="{e['svg_asset']}" alt="{e['name']} stats" width="400">
-    </td>
-    <td width="40%" valign="top" align="center">
-      <a href="https://star-history.com/#{e['repo_path']}&Date">
-        <img src="https://api.star-history.com/svg?repos={e['repo_path']}&type=Date" alt="Star History" width="100%">
-      </a>
       <p>{desc_limited}</p>
+    </td>
+    <td width="42%" valign="top" align="center">
+      <img src="{e['svg_asset']}" alt="{e['name']} stats" width="400">
     </td>
   </tr>
 </table>
