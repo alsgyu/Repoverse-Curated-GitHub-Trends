@@ -82,6 +82,19 @@ def generate_transparent_png(filepath, width=1, height=1):
     with open(filepath, "wb") as f:
         f.write(png)
 
+def generate_title_badge_svg(text, accent, width=420, height=90):
+    safe_text = (text or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    return f"""<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="{accent}"/>
+      <stop offset="100%" stop-color="#3a7bd5"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="{width-1}" height="{height-1}" rx="16" fill="url(#g)" stroke="#1f242a"/>
+  <text x="24" y="{height/2+10}" font-family="Arial, sans-serif" font-size="48" font-weight="800" fill="#ffffff">{safe_text}</text>
+</svg>"""
+
 def language_color(name):
     if not name:
         return "#6e7681"
@@ -229,6 +242,9 @@ def generate_markdown(projects_data, base_dir):
     assets_dir = os.path.join(base_dir, "assets")
     if not os.path.exists(assets_dir):
         os.makedirs(assets_dir)
+    title_dir = os.path.join(assets_dir, "title_badges")
+    if not os.path.exists(title_dir):
+        os.makedirs(title_dir)
     spacer_path = os.path.join(assets_dir, "spacer.png")
     if not os.path.exists(spacer_path):
         generate_transparent_png(spacer_path, width=1, height=1)
@@ -334,6 +350,12 @@ def generate_markdown(projects_data, base_dir):
                 f.write(generate_svg_card(e))
             
             e["svg_asset"] = f"assets/{svg_filename}"
+            title_width = min(1100, max(420, 28 * len(e["name"]) + 240))
+            title_filename = f"title_{e['repo_path'].replace('/', '_')}_{category_key}.svg"
+            title_path = os.path.join(title_dir, title_filename)
+            with open(title_path, "w", encoding="utf-8") as f:
+                f.write(generate_title_badge_svg(e["name"], accent, width=title_width, height=120))
+            e["title_badge"] = f"assets/title_badges/{title_filename}"
             enriched_repos.append(e)
             all_enriched_repos.append(e)
             search_index["sections"][-1]["repos"].append({
@@ -352,12 +374,8 @@ def generate_markdown(projects_data, base_dir):
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="{e['html_url']}">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, {accent}, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            {e['name']}
-          </span>
-        </a>{e['status_tag']}
+      <div>
+        <a href="{e['html_url']}"><img src="{e['title_badge']}" alt="{e['name']}" height="120"></a>{e['status_tag']}
       </div>
       <p style="line-height: 1.5;">{desc_limited}</p>
     </td>

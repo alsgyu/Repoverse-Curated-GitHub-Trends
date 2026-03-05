@@ -37,12 +37,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/vllm-project/vllm">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            vllm
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/vllm-project/vllm"><img src="GitTrendHub/assets/title_badges/title_vllm-project_vllm_llm_engines.svg" alt="vllm" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A high-throughput and memory-efficient inference and serving<br>engine for LLMs<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -62,12 +58,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/ray-project/ray">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            ray
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/ray-project/ray"><img src="GitTrendHub/assets/title_badges/title_ray-project_ray_llm_engines.svg" alt="ray" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Ray is an AI compute engine. Ray consists of a core<br>distributed runtime and a set of AI Libraries for<br>accelerating ML workloads.<br>&nbsp;</p>
     </td>
@@ -87,12 +79,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/labring/FastGPT">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            FastGPT
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/labring/FastGPT"><img src="GitTrendHub/assets/title_badges/title_labring_FastGPT_llm_engines.svg" alt="FastGPT" height="120"></a>
       </div>
       <p style="line-height: 1.5;">FastGPT is a knowledge-based platform built on the LLMs,<br>offers a comprehensive suite of out-of-the-box capabilities<br>such as data processing, RAG retrieval, and visual AI<br>workfl...</p>
     </td>
@@ -112,12 +100,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/sgl-project/sglang">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            sglang
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/sgl-project/sglang"><img src="GitTrendHub/assets/title_badges/title_sgl-project_sglang_llm_engines.svg" alt="sglang" height="120"></a>
       </div>
       <p style="line-height: 1.5;">SGLang is a high-performance serving framework for large<br>language models and multimodal models.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -137,12 +121,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/mlc-ai/mlc-llm">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            mlc-llm
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/mlc-ai/mlc-llm"><img src="GitTrendHub/assets/title_badges/title_mlc-ai_mlc-llm_llm_engines.svg" alt="mlc-llm" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Universal LLM Deployment Engine with ML Compilation<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -162,12 +142,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/google/adk-python">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            adk-python
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/google/adk-python"><img src="GitTrendHub/assets/title_badges/title_google_adk-python_llm_engines.svg" alt="adk-python" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An open-source, code-first Python toolkit for building,<br>evaluating, and deploying sophisticated AI agents with<br>flexibility and control.<br>&nbsp;</p>
     </td>
@@ -187,12 +163,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/botpress/botpress">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            botpress
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/botpress/botpress"><img src="GitTrendHub/assets/title_badges/title_botpress_botpress_llm_engines.svg" alt="botpress" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The open-source hub to build & deploy GPT/LLM Agents ⚡️<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -212,12 +184,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Lightning-AI/litgpt">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            litgpt
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Lightning-AI/litgpt"><img src="GitTrendHub/assets/title_badges/title_Lightning-AI_litgpt_llm_engines.svg" alt="litgpt" height="120"></a>
       </div>
       <p style="line-height: 1.5;">20+ high-performance LLMs with recipes to pretrain, finetune<br>and deploy at scale.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -237,12 +205,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/NVIDIA/TensorRT-LLM">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            TensorRT-LLM
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/NVIDIA/TensorRT-LLM"><img src="GitTrendHub/assets/title_badges/title_NVIDIA_TensorRT-LLM_llm_engines.svg" alt="TensorRT-LLM" height="120"></a>
       </div>
       <p style="line-height: 1.5;">TensorRT LLM provides users with an easy-to-use Python API<br>to define Large Language Models (LLMs) and supports<br>state-of-the-art optimizations to perform inference<br>efficiently on...</p>
     </td>
@@ -262,12 +226,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/microsoft/promptflow">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            promptflow
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/microsoft/promptflow"><img src="GitTrendHub/assets/title_badges/title_microsoft_promptflow_llm_engines.svg" alt="promptflow" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Build high-quality LLM apps - from prototyping, testing to<br>production deployment and monitoring.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -287,12 +247,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Netflix/metaflow">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            metaflow
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Netflix/metaflow"><img src="GitTrendHub/assets/title_badges/title_Netflix_metaflow_llm_engines.svg" alt="metaflow" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Netflix-grade infrastructure for humans who just want to<br>code. Scale your ML from a laptop to the cloud without<br>losing your mind or your data.<br>&nbsp;</p>
     </td>
@@ -312,12 +268,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/krillinai/KrillinAI">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            KrillinAI
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/krillinai/KrillinAI"><img src="GitTrendHub/assets/title_badges/title_krillinai_KrillinAI_llm_engines.svg" alt="KrillinAI" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Video translation and dubbing tool powered by LLMs. The<br>video translator offers 100 language translations and<br>one-click full-process deployment. The video translation<br>output is...</p>
     </td>
@@ -337,12 +289,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/xorbitsai/inference">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            inference
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/xorbitsai/inference"><img src="GitTrendHub/assets/title_badges/title_xorbitsai_inference_llm_engines.svg" alt="inference" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Swap GPT for any LLM by changing a single line of code.<br>Xinference lets you run open-source, speech, and multimodal<br>models on cloud, on-prem, or your laptop — all through one<br>un...</p>
     </td>
@@ -362,12 +310,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/oumi-ai/oumi">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            oumi
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/oumi-ai/oumi"><img src="GitTrendHub/assets/title_badges/title_oumi-ai_oumi_llm_engines.svg" alt="oumi" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Easily fine-tune, evaluate and deploy gpt-oss, Qwen3,<br>DeepSeek-R1, or any open source LLM / VLM!<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -387,12 +331,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Tiiny-AI/PowerInfer">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            PowerInfer
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Tiiny-AI/PowerInfer"><img src="GitTrendHub/assets/title_badges/title_Tiiny-AI_PowerInfer_llm_engines.svg" alt="PowerInfer" height="120"></a>
       </div>
       <p style="line-height: 1.5;">High-speed Large Language Model Serving for Local Deployment<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -412,12 +352,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/NexaAI/nexa-sdk">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            nexa-sdk
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/NexaAI/nexa-sdk"><img src="GitTrendHub/assets/title_badges/title_NexaAI_nexa-sdk_llm_engines.svg" alt="nexa-sdk" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Run frontier LLMs and VLMs with day-0 model support across<br>GPU, NPU, and CPU, with comprehensive runtime coverage for<br>PC (Python/C++), mobile (Android & iOS), and Linux/IoT<br>(Arm...</p>
     </td>
@@ -437,12 +373,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/InternLM/lmdeploy">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            lmdeploy
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/InternLM/lmdeploy"><img src="GitTrendHub/assets/title_badges/title_InternLM_lmdeploy_llm_engines.svg" alt="lmdeploy" height="120"></a>
       </div>
       <p style="line-height: 1.5;">LMDeploy is a toolkit for compressing, deploying, and<br>serving LLMs.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -462,12 +394,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/google/adk-go">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            adk-go
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/google/adk-go"><img src="GitTrendHub/assets/title_badges/title_google_adk-go_llm_engines.svg" alt="adk-go" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An open-source, code-first Go toolkit for building,<br>evaluating, and deploying sophisticated AI agents with<br>flexibility and control.<br>&nbsp;</p>
     </td>
@@ -487,12 +415,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/julep-ai/julep">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            julep
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/julep-ai/julep"><img src="GitTrendHub/assets/title_badges/title_julep-ai_julep_llm_engines.svg" alt="julep" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Deploy serverless AI workflows at scale. Firebase for AI<br>agents<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -512,12 +436,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Zipstack/unstract">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            unstract
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Zipstack/unstract"><img src="GitTrendHub/assets/title_badges/title_Zipstack_unstract_llm_engines.svg" alt="unstract" height="120"></a>
       </div>
       <p style="line-height: 1.5;">LLM-Driven Extraction of Unstructured Data — Built for API<br>Deployments & ETL Pipeline Workflows<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -537,12 +457,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/PacktPublishing/LLM-Engineers-Handbook">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            LLM-Engineers-Handbook
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/PacktPublishing/LLM-Engineers-Handbook"><img src="GitTrendHub/assets/title_badges/title_PacktPublishing_LLM-Engineers-Handbook_llm_engines.svg" alt="LLM-Engineers-Handbook" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The LLM's practical guide: From the fundamentals to<br>deploying advanced LLM and RAG apps to AWS using LLMOps best<br>practices<br>&nbsp;</p>
     </td>
@@ -562,12 +478,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/osaurus-ai/osaurus">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            osaurus
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/osaurus-ai/osaurus"><img src="GitTrendHub/assets/title_badges/title_osaurus-ai_osaurus_llm_engines.svg" alt="osaurus" height="120"></a>
       </div>
       <p style="line-height: 1.5;">AI edge infrastructure for macOS. Run local or cloud models,<br>share tools across apps via MCP, and power AI workflows with<br>a native, always-on runtime.<br>&nbsp;</p>
     </td>
@@ -587,12 +499,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/ModelTC/LightLLM">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            LightLLM
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/ModelTC/LightLLM"><img src="GitTrendHub/assets/title_badges/title_ModelTC_LightLLM_llm_engines.svg" alt="LightLLM" height="120"></a>
       </div>
       <p style="line-height: 1.5;">LightLLM is a Python-based LLM (Large Language Model)<br>inference and serving framework, notable for its lightweight<br>design, easy scalability, and high-speed performance.<br>&nbsp;</p>
     </td>
@@ -612,12 +520,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/PaddlePaddle/FastDeploy">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            FastDeploy
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/PaddlePaddle/FastDeploy"><img src="GitTrendHub/assets/title_badges/title_PaddlePaddle_FastDeploy_llm_engines.svg" alt="FastDeploy" height="120"></a>
       </div>
       <p style="line-height: 1.5;">High-performance Inference and Deployment Toolkit for LLMs<br>and VLMs based on PaddlePaddle<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -637,12 +541,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/NVIDIA/TransformerEngine">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            TransformerEngine
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/NVIDIA/TransformerEngine"><img src="GitTrendHub/assets/title_badges/title_NVIDIA_TransformerEngine_llm_engines.svg" alt="TransformerEngine" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A library for accelerating Transformer models on NVIDIA<br>GPUs, including using 8-bit and 4-bit floating point (FP8<br>and FP4) precision on Hopper, Ada and Blackwell GPUs, to<br>provid...</p>
     </td>
@@ -662,12 +562,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Intelligent-Internet/ii-agent">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            ii-agent
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Intelligent-Internet/ii-agent"><img src="GitTrendHub/assets/title_badges/title_Intelligent-Internet_ii-agent_llm_engines.svg" alt="ii-agent" height="120"></a>
       </div>
       <p style="line-height: 1.5;">II-Agent: a new open-source framework to build and deploy<br>intelligent agents<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -687,12 +583,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/vllm-project/llm-compressor">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            llm-compressor
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/vllm-project/llm-compressor"><img src="GitTrendHub/assets/title_badges/title_vllm-project_llm-compressor_llm_engines.svg" alt="llm-compressor" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Transformers-compatible library for applying various<br>compression algorithms to LLMs for optimized deployment with<br>vLLM<br>&nbsp;</p>
     </td>
@@ -712,12 +604,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/michaelfeil/infinity">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            infinity
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/michaelfeil/infinity"><img src="GitTrendHub/assets/title_badges/title_michaelfeil_infinity_llm_engines.svg" alt="infinity" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Infinity is a high-throughput, low-latency serving engine<br>for text-embeddings, reranking models, clip, clap and<br>colpali<br>&nbsp;</p>
     </td>
@@ -737,12 +625,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/OpenMind/OM1">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            OM1
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/OpenMind/OM1"><img src="GitTrendHub/assets/title_badges/title_OpenMind_OM1_llm_engines.svg" alt="OM1" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The open-source answer to autonomous general-purpose agents.<br>Raw, unbridled power for those who want to build the<br>everything agent.<br>&nbsp;</p>
     </td>
@@ -762,12 +646,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/containers/ramalama">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            ramalama
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/containers/ramalama"><img src="GitTrendHub/assets/title_badges/title_containers_ramalama_llm_engines.svg" alt="ramalama" height="120"></a>
       </div>
       <p style="line-height: 1.5;">RamaLama is an open-source developer tool that simplifies<br>the local serving of AI models from any source and<br>facilitates their use for inference in production, all<br>through the f...</p>
     </td>
@@ -787,12 +667,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/xdit-project/xDiT">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            xDiT
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/xdit-project/xDiT"><img src="GitTrendHub/assets/title_badges/title_xdit-project_xDiT_llm_engines.svg" alt="xDiT" height="120"></a>
       </div>
       <p style="line-height: 1.5;">xDiT: A Scalable Inference Engine for Diffusion Transformers<br>(DiTs) with Massive Parallelism<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -812,12 +688,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/langchain-ai/langserve">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            langserve
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/langchain-ai/langserve"><img src="GitTrendHub/assets/title_badges/title_langchain-ai_langserve_llm_engines.svg" alt="langserve" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Turn your LangChain logic into a production API before your<br>coffee gets cold. The bridge between it works on my machine<br>and it's live for the world.<br>&nbsp;</p>
     </td>
@@ -837,12 +709,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/NVIDIA/Model-Optimizer">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Model-Optimizer
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/NVIDIA/Model-Optimizer"><img src="GitTrendHub/assets/title_badges/title_NVIDIA_Model-Optimizer_llm_engines.svg" alt="Model-Optimizer" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A unified library of SOTA model optimization techniques like<br>quantization, pruning, distillation, speculative decoding,<br>etc. It compresses deep learning models for downstream de...<br>&nbsp;</p>
     </td>
@@ -862,12 +730,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/run-llama/llama_deploy">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            llama_deploy
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/run-llama/llama_deploy"><img src="GitTrendHub/assets/title_badges/title_run-llama_llama_deploy_llm_engines.svg" alt="llama_deploy" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Microservices for your LlamaIndex agents to live their best<br>lives. Scaling your LLM workflows from a single script to a<br>distributed powerhouse.<br>&nbsp;</p>
     </td>
@@ -887,12 +751,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/nottelabs/notte">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            notte
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/nottelabs/notte"><img src="GitTrendHub/assets/title_badges/title_nottelabs_notte_llm_engines.svg" alt="notte" height="120"></a>
       </div>
       <p style="line-height: 1.5;">🌸 Best framework to build web agents, and deploy serverless<br>web automation functions on reliable browser infra.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -912,12 +772,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/google/adk-java">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            adk-java
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/google/adk-java"><img src="GitTrendHub/assets/title_badges/title_google_adk-java_llm_engines.svg" alt="adk-java" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An open-source, code-first Java toolkit for building,<br>evaluating, and deploying sophisticated AI agents with<br>flexibility and control.<br>&nbsp;</p>
     </td>
@@ -937,12 +793,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/BlackSnufkin/LitterBox">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            LitterBox
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/BlackSnufkin/LitterBox"><img src="GitTrendHub/assets/title_badges/title_BlackSnufkin_LitterBox_llm_engines.svg" alt="LitterBox" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A secure sandbox environment for malware developers and red<br>teamers to test payloads against detection mechanisms before<br>deployment. Integrates with LLM agents via MCP for enhan...<br>&nbsp;</p>
     </td>
@@ -962,12 +814,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/SmythOS/sre">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            sre
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/SmythOS/sre"><img src="GitTrendHub/assets/title_badges/title_SmythOS_sre_llm_engines.svg" alt="sre" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The SmythOS Runtime Environment (SRE) is an open-source,<br>cloud-native runtime for agentic AI. Secure, modular, and<br>production-ready, it lets developers build, run, and manage<br>in...</p>
     </td>
@@ -987,12 +835,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/GradientHQ/parallax">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            parallax
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/GradientHQ/parallax"><img src="GitTrendHub/assets/title_badges/title_GradientHQ_parallax_llm_engines.svg" alt="parallax" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Parallax is a distributed model serving framework that lets<br>you build your own AI cluster anywhere<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -1012,12 +856,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/google/adk-js">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            adk-js
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/google/adk-js"><img src="GitTrendHub/assets/title_badges/title_google_adk-js_llm_engines.svg" alt="adk-js" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An open-source, code-first Typescript toolkit for building,<br>evaluating, and deploying sophisticated AI agents with<br>flexibility and control.<br>&nbsp;</p>
     </td>
@@ -1037,12 +877,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/docker/compose-for-agents">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            compose-for-agents
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/docker/compose-for-agents"><img src="GitTrendHub/assets/title_badges/title_docker_compose-for-agents_llm_engines.svg" alt="compose-for-agents" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Build and run AI agents using Docker Compose. A collection<br>of ready-to-use examples for orchestrating open-source LLMs,<br>tools, and agent runtimes.<br>&nbsp;</p>
     </td>
@@ -1062,12 +898,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/xpander-ai/xpander.ai">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            xpander.ai
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/xpander-ai/xpander.ai"><img src="GitTrendHub/assets/title_badges/title_xpander-ai_xpander.ai_llm_engines.svg" alt="xpander.ai" height="120"></a>
       </div>
       <p style="line-height: 1.5;">xpander.ai is the runtime and control plane to build, run,<br>and ship reliable AI agents fast and anywhere<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -1087,12 +919,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/kossakovsky/n8n-install">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            n8n-install
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/kossakovsky/n8n-install"><img src="GitTrendHub/assets/title_badges/title_kossakovsky_n8n-install_llm_engines.svg" alt="n8n-install" height="120"></a>
       </div>
       <p style="line-height: 1.5;">🚀 Self-hosted AI automation platform. Deploy n8n, Ollama,<br>Flowise, RAG, Supabase & 30+ tools with one command. Auto<br>HTTPS. Free Zapier/Make alternative.<br>&nbsp;</p>
     </td>
@@ -1112,12 +940,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/sgl-project/SpecForge">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            SpecForge
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/sgl-project/SpecForge"><img src="GitTrendHub/assets/title_badges/title_sgl-project_SpecForge_llm_engines.svg" alt="SpecForge" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Train speculative decoding models effortlessly and port them<br>smoothly to SGLang serving.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -1137,12 +961,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/tile-ai/TileRT">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            TileRT
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/tile-ai/TileRT"><img src="GitTrendHub/assets/title_badges/title_tile-ai_TileRT_llm_engines.svg" alt="TileRT" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Tile-Based Runtime for Ultra-Low-Latency LLM Inference<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -1162,12 +982,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Haohao-end/LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Haohao-end/LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents"><img src="GitTrendHub/assets/title_badges/title_Haohao-end_LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents_llm_engines.svg" alt="LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents" height="120"></a>
       </div>
       <p style="line-height: 1.5;">AI Agent Development Platform - Supports multiple models<br>(OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management,<br>workflow automation, and enterprise-grade security. Built<br>wi...</p>
     </td>
@@ -1187,12 +1003,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/alirezarezvani/claude-code-skill-factory">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            claude-code-skill-factory
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/alirezarezvani/claude-code-skill-factory"><img src="GitTrendHub/assets/title_badges/title_alirezarezvani_claude-code-skill-factory_llm_engines.svg" alt="claude-code-skill-factory" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Claude Code Skill Factory — A powerful open-source toolkit<br>for building and deploying production-ready Claude Skills,<br>Code Agents, custom Slash Commands, and LLM Prompts at<br>scal...</p>
     </td>
@@ -1212,12 +1024,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/yassa9/qwen600">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            qwen600
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/yassa9/qwen600"><img src="GitTrendHub/assets/title_badges/title_yassa9_qwen600_llm_engines.svg" alt="qwen600" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Static suckless single batch CUDA-only qwen3-0.6B mini<br>inference engine<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -1237,12 +1045,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/waybarrios/vllm-mlx">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            vllm-mlx
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/waybarrios/vllm-mlx"><img src="GitTrendHub/assets/title_badges/title_waybarrios_vllm-mlx_llm_engines.svg" alt="vllm-mlx" height="120"></a>
       </div>
       <p style="line-height: 1.5;">OpenAI and Anthropic compatible server for Apple Silicon.<br>Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA)<br>with continuous batching, MCP tool calling, and<br>multimodal...</p>
     </td>
@@ -1262,12 +1066,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/milanm/AutoGrad-Engine">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            AutoGrad-Engine
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/milanm/AutoGrad-Engine"><img src="GitTrendHub/assets/title_badges/title_milanm_AutoGrad-Engine_llm_engines.svg" alt="AutoGrad-Engine" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A complete GPT language model (training and inference) in<br>~600 lines of pure C#, zero dependencies<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -1293,12 +1093,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/langchain-ai/langchain">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            langchain
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/langchain-ai/langchain"><img src="GitTrendHub/assets/title_badges/title_langchain-ai_langchain_agents.svg" alt="langchain" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The original Swiss Army Knife that turned every developer<br>into an AI engineer overnight. With more integrations than<br>your favorite app store, if it has an API, we’ve already<br>wra...</p>
     </td>
@@ -1318,12 +1114,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/FoundationAgents/MetaGPT">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            MetaGPT
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/FoundationAgents/MetaGPT"><img src="GitTrendHub/assets/title_badges/title_FoundationAgents_MetaGPT_agents.svg" alt="MetaGPT" height="120"></a>
       </div>
       <p style="line-height: 1.5;">🌟 The Multi-Agent Framework: First AI Software Company,<br>Towards Natural Language Programming<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -1343,12 +1135,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/cline/cline">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            cline
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/cline/cline"><img src="GitTrendHub/assets/title_badges/title_cline_cline_agents.svg" alt="cline" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Autonomous coding agent right in your IDE, capable of<br>creating/editing files, executing commands, using the<br>browser, and more with your permission every step of the<br>way.</p>
     </td>
@@ -1368,12 +1156,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/microsoft/autogen">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            autogen
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/microsoft/autogen"><img src="GitTrendHub/assets/title_badges/title_microsoft_autogen_agents.svg" alt="autogen" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Why work alone when your AI agents can have a meeting about<br>it? The ultimate multi-agent playground where LLMs<br>collaborate to do your chores.<br>&nbsp;</p>
     </td>
@@ -1393,12 +1177,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/crewAIInc/crewAI">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            crewAI
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/crewAIInc/crewAI"><img src="GitTrendHub/assets/title_badges/title_crewAIInc_crewAI_agents.svg" alt="crewAI" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Framework for orchestrating role-playing, autonomous AI<br>agents. By fostering collaborative intelligence, CrewAI<br>empowers agents to work together seamlessly, tackling<br>complex tasks.</p>
     </td>
@@ -1418,12 +1198,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/CherryHQ/cherry-studio">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            cherry-studio
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/CherryHQ/cherry-studio"><img src="GitTrendHub/assets/title_badges/title_CherryHQ_cherry-studio_agents.svg" alt="cherry-studio" height="120"></a>
       </div>
       <p style="line-height: 1.5;">AI productivity studio with smart chat, autonomous agents,<br>and 300+ assistants. Unified access to frontier LLMs<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -1443,12 +1219,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/khoj-ai/khoj">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            khoj
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/khoj-ai/khoj"><img src="GitTrendHub/assets/title_badges/title_khoj-ai_khoj_agents.svg" alt="khoj" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Your AI second brain. Self-hostable. Get answers from the<br>web or your docs. Build custom agents, schedule automations,<br>do deep research. Turn any online or local LLM into your<br>p...</p>
     </td>
@@ -1468,12 +1240,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/wshobson/agents">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            agents
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/wshobson/agents"><img src="GitTrendHub/assets/title_badges/title_wshobson_agents_agents.svg" alt="agents" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Intelligent automation and multi-agent orchestration for<br>Claude Code<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -1493,12 +1261,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/langchain-ai/langgraph">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            langgraph
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/langchain-ai/langgraph"><img src="GitTrendHub/assets/title_badges/title_langchain-ai_langgraph_agents.svg" alt="langgraph" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Giving your agents a map and a memory for complex, loopy<br>workflows. Because real-world logic isn't a straight line;<br>it’s a state machine.<br>&nbsp;</p>
     </td>
@@ -1518,12 +1282,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/assafelovic/gpt-researcher">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            gpt-researcher
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/assafelovic/gpt-researcher"><img src="GitTrendHub/assets/title_badges/title_assafelovic_gpt-researcher_agents.svg" alt="gpt-researcher" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An autonomous agent that conducts deep research on any data<br>using any LLM providers<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -1543,12 +1303,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Fosowl/agenticSeek">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            agenticSeek
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Fosowl/agenticSeek"><img src="GitTrendHub/assets/title_badges/title_Fosowl_agenticSeek_agents.svg" alt="agenticSeek" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy<br>an autonomous agent that thinks, browses the web, and code<br>for the sole cost of electricity. 🔔 Official updates only...<br>&nbsp;</p>
     </td>
@@ -1568,12 +1324,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/zai-org/Open-AutoGLM">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Open-AutoGLM
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/zai-org/Open-AutoGLM"><img src="GitTrendHub/assets/title_badges/title_zai-org_Open-AutoGLM_agents.svg" alt="Open-AutoGLM" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An Open Phone Agent Model & Framework. Unlocking the AI<br>Phone for Everyone<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -1593,12 +1345,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/zeroclaw-labs/zeroclaw">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            zeroclaw
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/zeroclaw-labs/zeroclaw"><img src="GitTrendHub/assets/title_badges/title_zeroclaw-labs_zeroclaw_agents.svg" alt="zeroclaw" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Fast, small, and fully autonomous AI assistant<br>infrastructure — deploy anywhere, swap anything 🦀<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -1618,12 +1366,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/mastra-ai/mastra">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            mastra
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/mastra-ai/mastra"><img src="GitTrendHub/assets/title_badges/title_mastra-ai_mastra_agents.svg" alt="mastra" height="120"></a>
       </div>
       <p style="line-height: 1.5;">From the team behind Gatsby, Mastra is a framework for<br>building AI-powered applications and agents with a modern<br>TypeScript stack.<br>&nbsp;</p>
     </td>
@@ -1643,12 +1387,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/openai/openai-agents-python">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            openai-agents-python
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/openai/openai-agents-python"><img src="GitTrendHub/assets/title_badges/title_openai_openai-agents-python_agents.svg" alt="openai-agents-python" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A lightweight, powerful framework for multi-agent workflows<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -1668,12 +1408,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/vercel-labs/agent-browser">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            agent-browser
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/vercel-labs/agent-browser"><img src="GitTrendHub/assets/title_badges/title_vercel-labs_agent-browser_agents.svg" alt="agent-browser" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Giving your AI eyes and fingers to navigate the wild, open<br>web. Automating the internet one click at a time, no API<br>required.<br>&nbsp;</p>
     </td>
@@ -1693,12 +1429,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/ruvnet/ruflo">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            ruflo
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/ruvnet/ruflo"><img src="GitTrendHub/assets/title_badges/title_ruvnet_ruflo_agents.svg" alt="ruflo" height="120"></a>
       </div>
       <p style="line-height: 1.5;">🌊 The leading agent orchestration platform for Claude.<br>Deploy intelligent multi-agent swarms, coordinate autonomous<br>workflows, and build conversational AI systems. Features<br>e...</p>
     </td>
@@ -1718,12 +1450,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/humanlayer/12-factor-agents">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            12-factor-agents
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/humanlayer/12-factor-agents"><img src="GitTrendHub/assets/title_badges/title_humanlayer_12-factor-agents_agents.svg" alt="12-factor-agents" height="120"></a>
       </div>
       <p style="line-height: 1.5;">What are the principles we can use to build LLM-powered<br>software that is actually good enough to put in the hands of<br>production customers?<br>&nbsp;</p>
     </td>
@@ -1743,12 +1471,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/emcie-co/parlant">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            parlant
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/emcie-co/parlant"><img src="GitTrendHub/assets/title_badges/title_emcie-co_parlant_agents.svg" alt="parlant" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The conversational control layer for customer-facing AI<br>agents - Parlant is a context-engineering framework<br>optimized for controlling customer interactions.<br>&nbsp;</p>
     </td>
@@ -1768,12 +1492,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/elizaOS/eliza">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            eliza
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/elizaOS/eliza"><img src="GitTrendHub/assets/title_badges/title_elizaOS_eliza_agents.svg" alt="eliza" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Not just a bot, but an autonomous agent with a soul and a<br>social life. Building the next generation of on-chain<br>personalities that actually talk back.<br>&nbsp;</p>
     </td>
@@ -1793,12 +1513,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/virattt/dexter">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            dexter
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/virattt/dexter"><img src="GitTrendHub/assets/title_badges/title_virattt_dexter_agents.svg" alt="dexter" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An autonomous agent for deep financial research<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -1818,12 +1534,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/raga-ai-hub/RagaAI-Catalyst">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            RagaAI-Catalyst
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/raga-ai-hub/RagaAI-Catalyst"><img src="GitTrendHub/assets/title_badges/title_raga-ai-hub_RagaAI-Catalyst_agents.svg" alt="RagaAI-Catalyst" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Python SDK for Agent AI Observability, Monitoring and<br>Evaluation Framework. Includes features like agent, llm and<br>tools tracing, debugging multi-agentic system, self-hosted<br>dash...</p>
     </td>
@@ -1843,12 +1555,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/agent0ai/agent-zero">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            agent-zero
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/agent0ai/agent-zero"><img src="GitTrendHub/assets/title_badges/title_agent0ai_agent-zero_agents.svg" alt="agent-zero" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The AI that treats your terminal like its own personal<br>playground.Full OS access for agents who aren't afraid to<br>get their hands dirty.<br>&nbsp;</p>
     </td>
@@ -1868,12 +1576,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/pydantic/pydantic-ai">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            pydantic-ai
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/pydantic/pydantic-ai"><img src="GitTrendHub/assets/title_badges/title_pydantic_pydantic-ai_agents.svg" alt="pydantic-ai" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Agentic logic for developers who actually care about<br>type-safety. Strict validation meets loose AI dreams—the<br>"Senior Dev" of agent frameworks.<br>&nbsp;</p>
     </td>
@@ -1893,12 +1597,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Tencent/WeKnora">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            WeKnora
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Tencent/WeKnora"><img src="GitTrendHub/assets/title_badges/title_Tencent_WeKnora_agents.svg" alt="WeKnora" height="120"></a>
       </div>
       <p style="line-height: 1.5;">LLM-powered framework for deep document understanding,<br>semantic retrieval, and context-aware answers using RAG<br>paradigm.<br>&nbsp;</p>
     </td>
@@ -1918,12 +1618,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/nanobrowser/nanobrowser">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            nanobrowser
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/nanobrowser/nanobrowser"><img src="GitTrendHub/assets/title_badges/title_nanobrowser_nanobrowser_agents.svg" alt="nanobrowser" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Open-Source Chrome extension for AI-powered web automation.<br>Run multi-agent workflows using your own LLM API key.<br>Alternative to OpenAI Operator.<br>&nbsp;</p>
     </td>
@@ -1943,12 +1639,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/snarktank/ralph">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            ralph
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/snarktank/ralph"><img src="GitTrendHub/assets/title_badges/title_snarktank_ralph_agents.svg" alt="ralph" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Ralph is an autonomous AI agent loop that runs repeatedly<br>until all PRD items are complete.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -1968,12 +1660,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/iflytek/astron-agent">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            astron-agent
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/iflytek/astron-agent"><img src="GitTrendHub/assets/title_badges/title_iflytek_astron-agent_agents.svg" alt="astron-agent" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Enterprise-grade, commercial-friendly agentic workflow<br>platform for building next-generation SuperAgents.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -1993,12 +1681,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/mcp-use/mcp-use">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            mcp-use
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/mcp-use/mcp-use"><img src="GitTrendHub/assets/title_badges/title_mcp-use_mcp-use_agents.svg" alt="mcp-use" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The fullstack MCP framework to develop MCP Apps for ChatGPT<br>/ Claude & MCP Servers for AI Agents.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2018,12 +1702,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/vxcontrol/pentagi">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            pentagi
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/vxcontrol/pentagi"><img src="GitTrendHub/assets/title_badges/title_vxcontrol_pentagi_agents.svg" alt="pentagi" height="120"></a>
       </div>
       <p style="line-height: 1.5;">✨ Fully autonomous AI Agents system capable of performing<br>complex penetration testing tasks<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2043,12 +1723,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Yeachan-Heo/oh-my-claudecode">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            oh-my-claudecode
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Yeachan-Heo/oh-my-claudecode"><img src="GitTrendHub/assets/title_badges/title_Yeachan-Heo_oh-my-claudecode_agents.svg" alt="oh-my-claudecode" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Teams-first Multi-agent orchestration for Claude Code<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2068,12 +1744,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/microsoft/agent-framework">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            agent-framework
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/microsoft/agent-framework"><img src="GitTrendHub/assets/title_badges/title_microsoft_agent-framework_agents.svg" alt="agent-framework" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A framework for building, orchestrating and deploying AI<br>agents and multi-agent workflows with support for Python and<br>.NET.<br>&nbsp;</p>
     </td>
@@ -2093,12 +1765,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/0x4m4/hexstrike-ai">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            hexstrike-ai
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/0x4m4/hexstrike-ai"><img src="GitTrendHub/assets/title_badges/title_0x4m4_hexstrike-ai_agents.svg" alt="hexstrike-ai" height="120"></a>
       </div>
       <p style="line-height: 1.5;">HexStrike AI MCP Agents is an advanced MCP server that lets<br>AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+<br>cybersecurity tools for automated pentesting, vulnerabil...<br>&nbsp;</p>
     </td>
@@ -2118,12 +1786,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/VoltAgent/voltagent">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            voltagent
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/VoltAgent/voltagent"><img src="GitTrendHub/assets/title_badges/title_VoltAgent_voltagent_agents.svg" alt="voltagent" height="120"></a>
       </div>
       <p style="line-height: 1.5;">AI Agent Engineering Platform built on an Open Source<br>TypeScript AI Agent Framework<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2143,12 +1807,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/MemMachine/MemMachine">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            MemMachine
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/MemMachine/MemMachine"><img src="GitTrendHub/assets/title_badges/title_MemMachine_MemMachine_agents.svg" alt="MemMachine" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Universal memory layer for AI Agents. It provides scalable,<br>extensible, and interoperable memory storage and retrieval<br>to streamline AI agent state management for<br>next-generatio...</p>
     </td>
@@ -2168,12 +1828,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/ruc-datalab/DeepAnalyze">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            DeepAnalyze
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/ruc-datalab/DeepAnalyze"><img src="GitTrendHub/assets/title_badges/title_ruc-datalab_DeepAnalyze_agents.svg" alt="DeepAnalyze" height="120"></a>
       </div>
       <p style="line-height: 1.5;">DeepAnalyze is the first agentic LLM for autonomous data<br>science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2193,12 +1849,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/ComposioHQ/agent-orchestrator">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            agent-orchestrator
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/ComposioHQ/agent-orchestrator"><img src="GitTrendHub/assets/title_badges/title_ComposioHQ_agent-orchestrator_agents.svg" alt="agent-orchestrator" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Agentic orchestrator for parallel coding agents — plans<br>tasks, spawns agents, and autonomously handles CI fixes,<br>merge conflicts, and code reviews.<br>&nbsp;</p>
     </td>
@@ -2218,12 +1870,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/VibiumDev/vibium">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            vibium
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/VibiumDev/vibium"><img src="GitTrendHub/assets/title_badges/title_VibiumDev_vibium_agents.svg" alt="vibium" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The Fast & Furious of AI runtimes for low-latency junkies.<br>Built for agents that need to move as fast as your users<br>think.<br>&nbsp;</p>
     </td>
@@ -2243,12 +1891,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/michaelshimeles/ralphy">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            ralphy
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/michaelshimeles/ralphy"><img src="GitTrendHub/assets/title_badges/title_michaelshimeles_ralphy_agents.svg" alt="ralphy" height="120"></a>
       </div>
       <p style="line-height: 1.5;">My Ralph Wiggum setup, an autonomous bash script that runs<br>Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in<br>a loop until your PRD is complete.<br>&nbsp;</p>
     </td>
@@ -2268,12 +1912,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/openai/symphony">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            symphony
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/openai/symphony"><img src="GitTrendHub/assets/title_badges/title_openai_symphony_agents.svg" alt="symphony" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Symphony turns project work into isolated, autonomous<br>implementation runs, allowing teams to manage work instead<br>of supervising coding agents.<br>&nbsp;</p>
     </td>
@@ -2293,12 +1933,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/abhi1693/openclaw-mission-control">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            openclaw-mission-control
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/abhi1693/openclaw-mission-control"><img src="GitTrendHub/assets/title_badges/title_abhi1693_openclaw-mission-control_agents.svg" alt="openclaw-mission-control" height="120"></a>
       </div>
       <p style="line-height: 1.5;">AI Agent Orchestration Dashboard - Manage AI agents, assign<br>tasks, and coordinate multi-agent collaboration via OpenClaw<br>Gateway.<br>&nbsp;</p>
     </td>
@@ -2318,12 +1954,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/samugit83/redamon">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            redamon
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/samugit83/redamon"><img src="GitTrendHub/assets/title_badges/title_samugit83_redamon_agents.svg" alt="redamon" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An AI-powered agentic red team framework that automates<br>offensive security operations, from reconnaissance to<br>exploitation to post-exploitation, with zero human<br>intervention.</p>
     </td>
@@ -2343,12 +1975,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/cft0808/edict">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            edict
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/cft0808/edict"><img src="GitTrendHub/assets/title_badges/title_cft0808_edict_agents.svg" alt="edict" height="120"></a>
       </div>
       <p style="line-height: 1.5;">🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9<br>specialized AI agents with real-time dashboard, model<br>config, and full audit trails<br>&nbsp;</p>
     </td>
@@ -2368,12 +1996,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/crshdn/mission-control">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            mission-control
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/crshdn/mission-control"><img src="GitTrendHub/assets/title_badges/title_crshdn_mission-control_agents.svg" alt="mission-control" height="120"></a>
       </div>
       <p style="line-height: 1.5;">AI Agent Orchestration Dashboard - Manage AI agents, assign<br>tasks, and coordinate multi-agent collaboration via OpenClaw<br>Gateway.<br>&nbsp;</p>
     </td>
@@ -2393,12 +2017,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/yohey-w/multi-agent-shogun">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            multi-agent-shogun
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/yohey-w/multi-agent-shogun"><img src="GitTrendHub/assets/title_badges/title_yohey-w_multi-agent-shogun_agents.svg" alt="multi-agent-shogun" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Samurai-inspired multi-agent system for Claude Code.<br>Orchestrate parallel AI tasks via tmux with shogun → karo →<br>ashigaru hierarchy.<br>&nbsp;</p>
     </td>
@@ -2418,12 +2038,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/deanpeters/Product-Manager-Skills">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Product-Manager-Skills
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/deanpeters/Product-Manager-Skills"><img src="GitTrendHub/assets/title_badges/title_deanpeters_Product-Manager-Skills_agents.svg" alt="Product-Manager-Skills" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Product Management skills framework built on battle-tested<br>methods for Claude Code, Cowork, Codex, and AI agents.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2443,12 +2059,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/stephengpope/thepopebot">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            thepopebot
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/stephengpope/thepopebot"><img src="GitTrendHub/assets/title_badges/title_stephengpope_thepopebot_agents.svg" alt="thepopebot" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The Pope Bot is an autonomous AI agent that you can<br>configure and build to do just about anything you want, all<br>day, everyday, 24/7.<br>&nbsp;</p>
     </td>
@@ -2468,12 +2080,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/openakita/openakita">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            openakita
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/openakita/openakita"><img src="GitTrendHub/assets/title_badges/title_openakita_openakita_agents.svg" alt="openakita" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An open-source AI assistant framework with skills and agent<br>architecture<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2493,12 +2101,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/ygwyg/MAHORAGA">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            MAHORAGA
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/ygwyg/MAHORAGA"><img src="GitTrendHub/assets/title_badges/title_ygwyg_MAHORAGA_agents.svg" alt="MAHORAGA" height="120"></a>
       </div>
       <p style="line-height: 1.5;">autonomous trading agent powered by social sentiment<br>analysis and ai that learns, grows, and adapts<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2518,12 +2122,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/jayminwest/overstory">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #4dabf7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            overstory
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/jayminwest/overstory"><img src="GitTrendHub/assets/title_badges/title_jayminwest_overstory_agents.svg" alt="overstory" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Multi-agent orchestration for AI coding agents — pluggable<br>runtime adapters for Claude Code, Pi, and more<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2549,12 +2149,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/warpdotdev/Warp">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Warp
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/warpdotdev/Warp"><img src="GitTrendHub/assets/title_badges/title_warpdotdev_Warp_cli_tools.svg" alt="Warp" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Warp is the agentic development environment, built for<br>coding with multiple AI agents.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2574,12 +2170,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/farion1231/cc-switch">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            cc-switch
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/farion1231/cc-switch"><img src="GitTrendHub/assets/title_badges/title_farion1231_cc-switch_cli_tools.svg" alt="cc-switch" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A cross-platform desktop All-in-One assistant tool for<br>Claude Code, Codex, OpenCode, openclaw & Gemini CLI.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2599,12 +2191,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/plandex-ai/plandex">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            plandex
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/plandex-ai/plandex"><img src="GitTrendHub/assets/title_badges/title_plandex-ai_plandex_cli_tools.svg" alt="plandex" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Open source AI coding agent. Designed for large projects and<br>real world tasks.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2624,12 +2212,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/sigoden/aichat">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            aichat
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/sigoden/aichat"><img src="GitTrendHub/assets/title_badges/title_sigoden_aichat_cli_tools.svg" alt="aichat" height="120"></a>
       </div>
       <p style="line-height: 1.5;">All-in-one LLM CLI tool featuring Shell Assistant,<br>Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI,<br>Claude, Gemini, Ollama, Groq, and more.<br>&nbsp;</p>
     </td>
@@ -2649,12 +2233,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/GoogleCloudPlatform/kubectl-ai">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            kubectl-ai
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/GoogleCloudPlatform/kubectl-ai"><img src="GitTrendHub/assets/title_badges/title_GoogleCloudPlatform_kubectl-ai_cli_tools.svg" alt="kubectl-ai" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Stop wrestling with YAML and start talking to your clusters.<br>Kubernetes management for people who prefer English over<br>500-page docs.<br>&nbsp;</p>
     </td>
@@ -2674,12 +2254,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Claude-Code-Usage-Monitor
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor"><img src="GitTrendHub/assets/title_badges/title_Maciek-roboblog_Claude-Code-Usage-Monitor_cli_tools.svg" alt="Claude-Code-Usage-Monitor" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Real-time Claude Code usage monitor with predictions and<br>warnings<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2699,12 +2275,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/purocean/yn">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            yn
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/purocean/yn"><img src="GitTrendHub/assets/title_badges/title_purocean_yn_cli_tools.svg" alt="yn" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A highly extensible Markdown editor. Version control, AI<br>Copilot, mind map, documents encryption, code snippet<br>running, integrated terminal, chart embedding, HTML applets,<br>Revea...</p>
     </td>
@@ -2724,12 +2296,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/smtg-ai/claude-squad">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            claude-squad
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/smtg-ai/claude-squad"><img src="GitTrendHub/assets/title_badges/title_smtg-ai_claude-squad_cli_tools.svg" alt="claude-squad" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Manage multiple AI terminal agents like Claude Code, Aider,<br>Codex, OpenCode, and Amp.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2749,12 +2317,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/superset-sh/superset">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            superset
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/superset-sh/superset"><img src="GitTrendHub/assets/title_badges/title_superset-sh_superset_cli_tools.svg" alt="superset" height="120"></a>
       </div>
       <p style="line-height: 1.5;">IDE for the AI Agents Era - Run an army of Claude Code,<br>Codex, etc. on your machine<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2774,12 +2338,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/manaflow-ai/cmux">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            cmux
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/manaflow-ai/cmux"><img src="GitTrendHub/assets/title_badges/title_manaflow-ai_cmux_cli_tools.svg" alt="cmux" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Ghostty-based macOS terminal with vertical tabs and<br>notifications for AI coding agents<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2799,12 +2359,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/jamesmurdza/awesome-ai-devtools">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            awesome-ai-devtools
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/jamesmurdza/awesome-ai-devtools"><img src="GitTrendHub/assets/title_badges/title_jamesmurdza_awesome-ai-devtools_cli_tools.svg" alt="awesome-ai-devtools" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The only bookmarks folder you’ll ever need for building the<br>future. A curated map through the chaotic, fast-moving world<br>of AI tooling.<br>&nbsp;</p>
     </td>
@@ -2824,12 +2380,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/smallcloudai/refact">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            refact
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/smallcloudai/refact"><img src="GitTrendHub/assets/title_badges/title_smallcloudai_refact_cli_tools.svg" alt="refact" height="120"></a>
       </div>
       <p style="line-height: 1.5;">AI Agent that handles engineering tasks end-to-end:<br>integrates with developers’ tools, plans, executes, and<br>iterates until it achieves a successful result.<br>&nbsp;</p>
     </td>
@@ -2849,12 +2401,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/PeonPing/peon-ping">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            peon-ping
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/PeonPing/peon-ping"><img src="GitTrendHub/assets/title_badges/title_PeonPing_peon-ping_cli_tools.svg" alt="peon-ping" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Warcraft III Peon voice notifications (+ more!) for Claude<br>Code, Codex, IDEs, and any AI agent. Stop babysitting your<br>terminal. Employ a Peon today.<br>&nbsp;</p>
     </td>
@@ -2874,12 +2422,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/cirosantilli/china-dictatorship">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            china-dictatorship
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/cirosantilli/china-dictatorship"><img src="GitTrendHub/assets/title_badges/title_cirosantilli_china-dictatorship_cli_tools.svg" alt="china-dictatorship" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Documenting the digital receipts of history that some would<br>rather forget. Because the truth shouldn't have an<br>expiration date in the age of information.<br>&nbsp;</p>
     </td>
@@ -2899,12 +2443,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/tw93/Kaku">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Kaku
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/tw93/Kaku"><img src="GitTrendHub/assets/title_badges/title_tw93_Kaku_cli_tools.svg" alt="Kaku" height="120"></a>
       </div>
       <p style="line-height: 1.5;">🎃 A fast, out-of-the-box terminal built for AI coding.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2924,12 +2464,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/generalaction/emdash">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            emdash
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/generalaction/emdash"><img src="GitTrendHub/assets/title_badges/title_generalaction_emdash_cli_tools.svg" alt="emdash" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Emdash is the Open-Source Agentic Development Environment (🧡<br>YC W26). Run multiple coding agents in parallel. Use any<br>provider.<br>&nbsp;</p>
     </td>
@@ -2949,12 +2485,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/yaolifeng0629/Awesome-independent-tools">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Awesome-independent-tools
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/yaolifeng0629/Awesome-independent-tools"><img src="GitTrendHub/assets/title_badges/title_yaolifeng0629_Awesome-independent-tools_cli_tools.svg" alt="Awesome-independent-tools" height="120"></a>
       </div>
       <p style="line-height: 1.5;">收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools）<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -2974,12 +2506,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/jamubc/gemini-mcp-tool">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            gemini-mcp-tool
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/jamubc/gemini-mcp-tool"><img src="GitTrendHub/assets/title_badges/title_jamubc_gemini-mcp-tool_cli_tools.svg" alt="gemini-mcp-tool" height="120"></a>
       </div>
       <p style="line-height: 1.5;">MCP server that enables AI assistants to interact with<br>Google Gemini CLI, leveraging Gemini's massive token window<br>for large file analysis and codebase understanding<br>&nbsp;</p>
     </td>
@@ -2999,12 +2527,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/greggh/claude-code.nvim">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            claude-code.nvim
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/greggh/claude-code.nvim"><img src="GitTrendHub/assets/title_badges/title_greggh_claude-code.nvim_cli_tools.svg" alt="claude-code.nvim" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Seamless integration between Claude Code AI assistant and<br>Neovim<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -3024,12 +2548,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/microsoft/responsible-ai-toolbox">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            responsible-ai-toolbox
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/microsoft/responsible-ai-toolbox"><img src="GitTrendHub/assets/title_badges/title_microsoft_responsible-ai-toolbox_cli_tools.svg" alt="responsible-ai-toolbox" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Responsible AI Toolbox is a suite of tools providing model<br>and data exploration and assessment user interfaces and<br>libraries that enable a better understanding of AI systems.<br>Th...</p>
     </td>
@@ -3049,12 +2569,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/can1357/oh-my-pi">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            oh-my-pi
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/can1357/oh-my-pi"><img src="GitTrendHub/assets/title_badges/title_can1357_oh-my-pi_cli_tools.svg" alt="oh-my-pi" height="120"></a>
       </div>
       <p style="line-height: 1.5;">⌥ AI Coding agent for the terminal — hash-anchored edits,<br>optimized tool harness, LSP, Python, browser, subagents, and<br>more<br>&nbsp;</p>
     </td>
@@ -3074,12 +2590,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/XiaomingX/indie-hacker-tools-plus">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            indie-hacker-tools-plus
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/XiaomingX/indie-hacker-tools-plus"><img src="GitTrendHub/assets/title_badges/title_XiaomingX_indie-hacker-tools-plus_cli_tools.svg" alt="indie-hacker-tools-plus" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Breaking the Lost in Translation curse for developers and AI<br>alike. Your global passport for code and content that speaks<br>every language fluently.<br>&nbsp;</p>
     </td>
@@ -3099,12 +2611,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Nano-Collective/nanocoder">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            nanocoder
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Nano-Collective/nanocoder"><img src="GitTrendHub/assets/title_badges/title_Nano-Collective_nanocoder_cli_tools.svg" alt="nanocoder" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A beautiful local-first coding agent running in your<br>terminal - built by the community for the community ⚒<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -3124,12 +2632,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/asheshgoplani/agent-deck">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            agent-deck
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/asheshgoplani/agent-deck"><img src="GitTrendHub/assets/title_badges/title_asheshgoplani_agent-deck_cli_tools.svg" alt="agent-deck" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Terminal session manager for AI coding agents. One TUI for<br>Claude, Gemini, OpenCode, Codex, and more.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -3149,12 +2653,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/cyberark/FuzzyAI">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            FuzzyAI
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/cyberark/FuzzyAI"><img src="GitTrendHub/assets/title_badges/title_cyberark_FuzzyAI_cli_tools.svg" alt="FuzzyAI" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A powerful tool for automated LLM fuzzing. It is designed to<br>help developers and security researchers identify and<br>mitigate potential jailbreaks in their LLM APIs.<br>&nbsp;</p>
     </td>
@@ -3174,12 +2674,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/CodeGraphContext/CodeGraphContext">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            CodeGraphContext
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/CodeGraphContext/CodeGraphContext"><img src="GitTrendHub/assets/title_badges/title_CodeGraphContext_CodeGraphContext_cli_tools.svg" alt="CodeGraphContext" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An MCP server plus a CLI tool that indexes local code into a<br>graph database to provide context to AI assistants.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -3199,12 +2695,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/SaladDay/cc-switch-cli">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            cc-switch-cli
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/SaladDay/cc-switch-cli"><img src="GitTrendHub/assets/title_badges/title_SaladDay_cc-switch-cli_cli_tools.svg" alt="cc-switch-cli" height="120"></a>
       </div>
       <p style="line-height: 1.5;">⭐️ A cross-platform CLI All-in-One assistant tool for Claude<br>Code, Codex & Gemini CLI.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -3224,12 +2716,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/theNetworkChuck/ai-in-the-terminal">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            ai-in-the-terminal
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/theNetworkChuck/ai-in-the-terminal"><img src="GitTrendHub/assets/title_badges/title_theNetworkChuck_ai-in-the-terminal_cli_tools.svg" alt="ai-in-the-terminal" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Complete companion guide for NetworkChuck's 'AI in the<br>Terminal' video - Gemini CLI, Claude Code, Codex, and<br>opencode workflows<br>&nbsp;</p>
     </td>
@@ -3249,12 +2737,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/ClickHouse/mcp-clickhouse">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            mcp-clickhouse
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/ClickHouse/mcp-clickhouse"><img src="GitTrendHub/assets/title_badges/title_ClickHouse_mcp-clickhouse_cli_tools.svg" alt="mcp-clickhouse" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Real-time analytics meets the Model Context Protocol for<br>instant insights. Feeding your AI the data it needs at the<br>legendary speed of ClickHouse.<br>&nbsp;</p>
     </td>
@@ -3274,12 +2758,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/vybestack/llxprt-code">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            llxprt-code
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/vybestack/llxprt-code"><img src="GitTrendHub/assets/title_badges/title_vybestack_llxprt-code_cli_tools.svg" alt="llxprt-code" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An open-source multi-provider AI assisted CLI development<br>tool. Use whatever LLM you want to code in your terminal.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -3299,12 +2779,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/sudo-tee/opencode.nvim">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            opencode.nvim
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/sudo-tee/opencode.nvim"><img src="GitTrendHub/assets/title_badges/title_sudo-tee_opencode.nvim_cli_tools.svg" alt="opencode.nvim" height="120"></a>
       </div>
       <p style="line-height: 1.5;">neovim frontend for opencode - a terminal-based AI coding<br>agent<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -3324,12 +2800,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/ovh/shai">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            shai
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/ovh/shai"><img src="GitTrendHub/assets/title_badges/title_ovh_shai_cli_tools.svg" alt="shai" height="120"></a>
       </div>
       <p style="line-height: 1.5;">shai is a coding agent, your pair programming buddy that<br>lives in the terminal. Written in rust with love <3<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -3349,12 +2821,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/jonigl/mcp-client-for-ollama">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            mcp-client-for-ollama
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/jonigl/mcp-client-for-ollama"><img src="GitTrendHub/assets/title_badges/title_jonigl_mcp-client-for-ollama_cli_tools.svg" alt="mcp-client-for-ollama" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A text-based user interface (TUI) client for interacting<br>with MCP servers using Ollama. Features include agent mode,<br>multi-server, model switching, streaming responses, tool<br>man...</p>
     </td>
@@ -3374,12 +2842,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/probelabs/probe">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            probe
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/probelabs/probe"><img src="GitTrendHub/assets/title_badges/title_probelabs_probe_cli_tools.svg" alt="probe" height="120"></a>
       </div>
       <p style="line-height: 1.5;">AI-friendly semantic code search engine for large codebases.<br>Combines ripgrep speed with tree-sitter AST parsing. Powers<br>AI coding assistants with precise, context-aware code un...<br>&nbsp;</p>
     </td>
@@ -3399,12 +2863,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/harshkedia177/axon">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            axon
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/harshkedia177/axon"><img src="GitTrendHub/assets/title_badges/title_harshkedia177_axon_cli_tools.svg" alt="axon" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Graph-powered code intelligence engine — indexes codebases<br>into a knowledge graph, exposed via MCP tools for AI agents<br>and a CLI for developers.<br>&nbsp;</p>
     </td>
@@ -3424,12 +2884,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/SPThole/CoexistAI">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            CoexistAI
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/SPThole/CoexistAI"><img src="GitTrendHub/assets/title_badges/title_SPThole_CoexistAI_cli_tools.svg" alt="CoexistAI" height="120"></a>
       </div>
       <p style="line-height: 1.5;">CoexistAI is a modular, developer-friendly research<br>assistant framework . It enables you to build, search,<br>summarize, and automate research workflows using LLMs, web<br>search, Red...</p>
     </td>
@@ -3449,12 +2905,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/vinhnx/VTCode">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            VTCode
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/vinhnx/VTCode"><img src="GitTrendHub/assets/title_badges/title_vinhnx_VTCode_cli_tools.svg" alt="VTCode" height="120"></a>
       </div>
       <p style="line-height: 1.5;">VS Code, evolved for a world where agents do the heavy<br>lifting. An IDE that doesn't just highlight your code—it<br>helps write the story.<br>&nbsp;</p>
     </td>
@@ -3474,12 +2926,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/0xranx/OpenContext">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            OpenContext
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/0xranx/OpenContext"><img src="GitTrendHub/assets/title_badges/title_0xranx_OpenContext_cli_tools.svg" alt="OpenContext" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A personal context store for AI agents and assistants—reuse<br>your existing coding agent CLI (Codex/Claude/OpenCode) with<br>built‑in Skills/tools and a desktop GUI to capture, searc...<br>&nbsp;</p>
     </td>
@@ -3499,12 +2947,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/neiii/bridle">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            bridle
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/neiii/bridle"><img src="GitTrendHub/assets/title_badges/title_neiii_bridle_cli_tools.svg" alt="bridle" height="120"></a>
       </div>
       <p style="line-height: 1.5;">TUI / CLI config manager for agentic harnesses (Amp, Claude<br>Code, Opencode, Goose, Copilot CLI, Crush, Droid)<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -3524,12 +2968,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/CelaDaniel/free-ai-resources-x">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            free-ai-resources-x
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/CelaDaniel/free-ai-resources-x"><img src="GitTrendHub/assets/title_badges/title_CelaDaniel_free-ai-resources-x_cli_tools.svg" alt="free-ai-resources-x" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Teaching AI to adapt on the fly without the heavy-duty<br>retraining process. Personalized creativity that remembers<br>your style perfectly, every single time.<br>&nbsp;</p>
     </td>
@@ -3549,12 +2989,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/shuyu-labs/WebCode">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            WebCode
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/shuyu-labs/WebCode"><img src="GitTrendHub/assets/title_badges/title_shuyu-labs_WebCode_cli_tools.svg" alt="WebCode" height="120"></a>
       </div>
       <p style="line-height: 1.5;">WebCode is a browser-based AI coding platform that lets you<br>remotely run CLI assistants like Claude Code and Codex. Code<br>anywhere with just a web browser. We’re also adding an o...<br>&nbsp;</p>
     </td>
@@ -3574,12 +3010,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/chenhg5/cc-connect">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            cc-connect
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/chenhg5/cc-connect"><img src="GitTrendHub/assets/title_badges/title_chenhg5_cc-connect_cli_tools.svg" alt="cc-connect" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Bridge local AI coding agents (Claude Code, Cursor, Gemini<br>CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk,<br>Slack, Telegram, Discord, LINE, WeChat Work). Chat with<br>you...</p>
     </td>
@@ -3599,12 +3031,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/cporter202/ai-agent-tools">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            ai-agent-tools
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/cporter202/ai-agent-tools"><img src="GitTrendHub/assets/title_badges/title_cporter202_ai-agent-tools_cli_tools.svg" alt="ai-agent-tools" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A curated collection of AI tools, utilities, and resources<br>for developers and creators<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -3624,12 +3052,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/nwiizo/tfmcp">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            tfmcp
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/nwiizo/tfmcp"><img src="GitTrendHub/assets/title_badges/title_nwiizo_tfmcp_cli_tools.svg" alt="tfmcp" height="120"></a>
       </div>
       <p style="line-height: 1.5;">🌍 Terraform Model Context Protocol (MCP) Tool - An<br>experimental CLI tool that enables AI assistants to manage<br>and operate Terraform environments. Supports reading<br>Terraform conf...</p>
     </td>
@@ -3649,12 +3073,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/inmve/awesome-ai-coding-techniques">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            awesome-ai-coding-techniques
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/inmve/awesome-ai-coding-techniques"><img src="GitTrendHub/assets/title_badges/title_inmve_awesome-ai-coding-techniques_cli_tools.svg" alt="awesome-ai-coding-techniques" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Vector search at the speed of thought, keeping your data<br>in-memory and out of the slow lane. Because waiting for a<br>database response is so 2024.<br>&nbsp;</p>
     </td>
@@ -3674,12 +3094,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/fynnfluegge/agtx">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            agtx
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/fynnfluegge/agtx"><img src="GitTrendHub/assets/title_badges/title_fynnfluegge_agtx_cli_tools.svg" alt="agtx" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Autonomous multi-session spec-driven AI coding orchestration<br>in the terminal<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -3699,12 +3115,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/context-hub/generator">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            generator
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/context-hub/generator"><img src="GitTrendHub/assets/title_badges/title_context-hub_generator_cli_tools.svg" alt="generator" height="120"></a>
       </div>
       <p style="line-height: 1.5;">CTX: a tool that solves the context management gap when<br>working with LLMs like ChatGPT or Claude. It helps<br>developers organize and automatically collect information<br>from their c...</p>
     </td>
@@ -3724,12 +3136,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/awslabs/iam-policy-autopilot">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            iam-policy-autopilot
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/awslabs/iam-policy-autopilot"><img src="GitTrendHub/assets/title_badges/title_awslabs_iam-policy-autopilot_cli_tools.svg" alt="iam-policy-autopilot" height="120"></a>
       </div>
       <p style="line-height: 1.5;">IAM Policy Autopilot is an open source static code analysis<br>tool that helps you quickly create baseline AWS IAM policies<br>that you can refine as your application evolves. This to...<br>&nbsp;</p>
     </td>
@@ -3749,12 +3157,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/amrit110/oli">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            oli
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/amrit110/oli"><img src="GitTrendHub/assets/title_badges/title_amrit110_oli_cli_tools.svg" alt="oli" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The AI teammate that actually reads your documentation and<br>remembers it. Solving GitHub issues while you're still<br>trying to name the branch.<br>&nbsp;</p>
     </td>
@@ -3774,12 +3178,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/scarletkc/vexor">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #51cf66, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            vexor
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/scarletkc/vexor"><img src="GitTrendHub/assets/title_badges/title_scarletkc_vexor_cli_tools.svg" alt="vexor" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Vector operations made lean, mean, and incredibly easy to<br>manage. Handling your embeddings without the overhead of a<br>legacy enterprise database.<br>&nbsp;</p>
     </td>
@@ -3805,12 +3205,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            stable-diffusion-webui
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui"><img src="GitTrendHub/assets/title_badges/title_AUTOMATIC1111_stable-diffusion-webui_art_vision.svg" alt="stable-diffusion-webui" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The Swiss Army knife of AI art—if a feature isn't here, it<br>probably doesn't exist yet. A UI so powerful it makes your<br>GPU sweat and your creativity explode.<br>&nbsp;</p>
     </td>
@@ -3830,12 +3226,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/mudler/LocalAI">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            LocalAI
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/mudler/LocalAI"><img src="GitTrendHub/assets/title_badges/title_mudler_LocalAI_art_vision.svg" alt="LocalAI" height="120"></a>
       </div>
       <p style="line-height: 1.5;">:robot: The free, Open Source alternative to OpenAI, Claude<br>and others. Self-hosted and local-first. Drop-in<br>replacement, running on consumer-grade hardware. No GPU<br>required. R...</p>
     </td>
@@ -3855,12 +3247,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/ShareX/ShareX">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            ShareX
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/ShareX/ShareX"><img src="GitTrendHub/assets/title_badges/title_ShareX_ShareX_art_vision.svg" alt="ShareX" height="120"></a>
       </div>
       <p style="line-height: 1.5;">ShareX is a free and open-source application that enables<br>users to capture or record any area of their screen with a<br>single keystroke. It also supports uploading images, text,<br>a...</p>
     </td>
@@ -3880,12 +3268,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/huggingface/diffusers">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            diffusers
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/huggingface/diffusers"><img src="GitTrendHub/assets/title_badges/title_huggingface_diffusers_art_vision.svg" alt="diffusers" height="120"></a>
       </div>
       <p style="line-height: 1.5;">🤗 Diffusers: State-of-the-art diffusion models for image,<br>video, and audio generation in PyTorch.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -3905,12 +3289,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/KurtBestor/Hitomi-Downloader">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Hitomi-Downloader
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/KurtBestor/Hitomi-Downloader"><img src="GitTrendHub/assets/title_badges/title_KurtBestor_Hitomi-Downloader_art_vision.svg" alt="Hitomi-Downloader" height="120"></a>
       </div>
       <p style="line-height: 1.5;">:cake: Desktop utility to download images/videos/music/text<br>from various websites, and more.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -3930,12 +3310,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/invoke-ai/InvokeAI">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            InvokeAI
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/invoke-ai/InvokeAI"><img src="GitTrendHub/assets/title_badges/title_invoke-ai_InvokeAI_art_vision.svg" alt="InvokeAI" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Invoke is a leading creative engine for Stable Diffusion<br>models, empowering professionals, artists, and enthusiasts<br>to generate and create visual media using the latest<br>AI-drive...</p>
     </td>
@@ -3955,12 +3331,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/PicoTrex/Awesome-Nano-Banana-images">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Awesome-Nano-Banana-images
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/PicoTrex/Awesome-Nano-Banana-images"><img src="GitTrendHub/assets/title_badges/title_PicoTrex_Awesome-Nano-Banana-images_art_vision.svg" alt="Awesome-Nano-Banana-images" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A curated collection of fun and creative examples generated<br>with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image<br>based model. We also release Nano-consistent-150K openly...<br>&nbsp;</p>
     </td>
@@ -3980,12 +3352,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/camenduru/stable-diffusion-webui-colab">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            stable-diffusion-webui-colab
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/camenduru/stable-diffusion-webui-colab"><img src="GitTrendHub/assets/title_badges/title_camenduru_stable-diffusion-webui-colab_art_vision.svg" alt="stable-diffusion-webui-colab" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Borrowing Google’s GPUs because your laptop sounds like a<br>jet engine trying to take off. High-end diffusion for the<br>hardware-challenged artist.<br>&nbsp;</p>
     </td>
@@ -4005,12 +3373,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/zai-org/CogVideo">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            CogVideo
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/zai-org/CogVideo"><img src="GitTrendHub/assets/title_badges/title_zai-org_CogVideo_art_vision.svg" alt="CogVideo" height="120"></a>
       </div>
       <p style="line-height: 1.5;">text and image to video generation: CogVideoX (2024) and<br>CogVideo (ICLR 2023)<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -4030,12 +3394,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/duixcom/Duix-Avatar">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Duix-Avatar
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/duixcom/Duix-Avatar"><img src="GitTrendHub/assets/title_badges/title_duixcom_Duix-Avatar_art_vision.svg" alt="Duix-Avatar" height="120"></a>
       </div>
       <p style="line-height: 1.5;">🚀 Truly open-source AI avatar(digital human) toolkit for<br>offline video generation and digital human cloning.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -4055,12 +3415,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Tencent-Hunyuan/HunyuanVideo">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            HunyuanVideo
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Tencent-Hunyuan/HunyuanVideo"><img src="GitTrendHub/assets/title_badges/title_Tencent-Hunyuan_HunyuanVideo_art_vision.svg" alt="HunyuanVideo" height="120"></a>
       </div>
       <p style="line-height: 1.5;">HunyuanVideo: A Systematic Framework For Large Video<br>Generation Model<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -4080,12 +3436,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/easydiffusion/easydiffusion">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            easydiffusion
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/easydiffusion/easydiffusion"><img src="GitTrendHub/assets/title_badges/title_easydiffusion_easydiffusion_art_vision.svg" alt="easydiffusion" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An easy 1-click way to create beautiful artwork on your PC<br>using AI, with no tech knowledge. Provides a browser UI for<br>generating images from text prompts and images. Just<br>enter...</p>
     </td>
@@ -4105,12 +3457,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/FoundationVision/VAR">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            VAR
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/FoundationVision/VAR"><img src="GitTrendHub/assets/title_badges/title_FoundationVision_VAR_art_vision.svg" alt="VAR" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Why diffuse when you can predict? Generative images that<br>think in visual next-tokens. The autoregressive revolution<br>that makes pixels feel as smart as language.<br>&nbsp;</p>
     </td>
@@ -4130,12 +3478,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/brycedrennan/imaginAIry">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            imaginAIry
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/brycedrennan/imaginAIry"><img src="GitTrendHub/assets/title_badges/title_brycedrennan_imaginAIry_art_vision.svg" alt="imaginAIry" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The batteries-included Pythonic way to generate art without<br>the UI clutter. Just pip install and watch your terminal<br>start dreaming in color.<br>&nbsp;</p>
     </td>
@@ -4155,12 +3499,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Sygil-Dev/sygil-webui">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            sygil-webui
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Sygil-Dev/sygil-webui"><img src="GitTrendHub/assets/title_badges/title_Sygil-Dev_sygil-webui_art_vision.svg" alt="sygil-webui" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Stable Diffusion with a focus on clean UX and a no-headache<br>workflow. All the generative power you crave, packaged in a<br>UI that actually makes sense.<br>&nbsp;</p>
     </td>
@@ -4180,12 +3520,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/TheLastBen/fast-stable-diffusion">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            fast-stable-diffusion
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/TheLastBen/fast-stable-diffusion"><img src="GitTrendHub/assets/title_badges/title_TheLastBen_fast-stable-diffusion_art_vision.svg" alt="fast-stable-diffusion" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Because waiting shouldn't be part of your creative process.<br>Squeezing every millisecond out of your latent space for<br>near-instant gratification.<br>&nbsp;</p>
     </td>
@@ -4205,12 +3541,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/MochiDiffusion/MochiDiffusion">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            MochiDiffusion
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/MochiDiffusion/MochiDiffusion"><img src="GitTrendHub/assets/title_badges/title_MochiDiffusion_MochiDiffusion_art_vision.svg" alt="MochiDiffusion" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Native Stable Diffusion that makes your Mac’s Neural Engine<br>actually work for its living. Generating art so cool it<br>keeps your MacBook’s fans completely silent.<br>&nbsp;</p>
     </td>
@@ -4230,12 +3562,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/LykosAI/StabilityMatrix">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            StabilityMatrix
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/LykosAI/StabilityMatrix"><img src="GitTrendHub/assets/title_badges/title_LykosAI_StabilityMatrix_art_vision.svg" alt="StabilityMatrix" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Multi-Platform Package Manager for Stable Diffusion<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -4255,12 +3583,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/QwenLM/Qwen-Image">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Qwen-Image
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/QwenLM/Qwen-Image"><img src="GitTrendHub/assets/title_badges/title_QwenLM_Qwen-Image_art_vision.svg" alt="Qwen-Image" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Qwen-Image is a powerful image generation foundation model<br>capable of complex text rendering and precise image editing.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -4280,12 +3604,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/mylxsw/aidea">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            aidea
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/mylxsw/aidea"><img src="GitTrendHub/assets/title_badges/title_mylxsw_aidea_art_vision.svg" alt="aidea" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An APP that integrates mainstream large language models and<br>image generation models, built with Flutter, with fully<br>open-source code.<br>&nbsp;</p>
     </td>
@@ -4305,12 +3625,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/enricoros/big-AGI">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            big-AGI
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/enricoros/big-AGI"><img src="GitTrendHub/assets/title_badges/title_enricoros_big-AGI_art_vision.svg" alt="big-AGI" height="120"></a>
       </div>
       <p style="line-height: 1.5;">AI suite powered by state-of-the-art models and providing<br>advanced AI/AGI functions. Includes AI personas, AGI<br>functions, world-class Beam multi-model chats,<br>text-to-image, voic...</p>
     </td>
@@ -4330,12 +3646,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/leejet/stable-diffusion.cpp">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            stable-diffusion.cpp
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/leejet/stable-diffusion.cpp"><img src="GitTrendHub/assets/title_badges/title_leejet_stable-diffusion.cpp_art_vision.svg" alt="stable-diffusion.cpp" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...)<br>inference in pure C/C++<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -4355,12 +3667,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/showlab/Awesome-Video-Diffusion">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Awesome-Video-Diffusion
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/showlab/Awesome-Video-Diffusion"><img src="GitTrendHub/assets/title_badges/title_showlab_Awesome-Video-Diffusion_art_vision.svg" alt="Awesome-Video-Diffusion" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Your ultimate roadmap through the chaotic world of moving<br>pixels. The only bookmark you need to keep track of the AI<br>cinema revolution.<br>&nbsp;</p>
     </td>
@@ -4380,12 +3688,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/promptslab/Awesome-Prompt-Engineering">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Awesome-Prompt-Engineering
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/promptslab/Awesome-Prompt-Engineering"><img src="GitTrendHub/assets/title_badges/title_promptslab_Awesome-Prompt-Engineering_art_vision.svg" alt="Awesome-Prompt-Engineering" height="120"></a>
       </div>
       <p style="line-height: 1.5;">This repository contains a hand-curated resources for Prompt<br>Engineering with a focus on Generative Pre-trained<br>Transformer (GPT), ChatGPT, PaLM etc<br>&nbsp;</p>
     </td>
@@ -4405,12 +3709,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/MeiGen-AI/InfiniteTalk">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            InfiniteTalk
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/MeiGen-AI/InfiniteTalk"><img src="GitTrendHub/assets/title_badges/title_MeiGen-AI_InfiniteTalk_art_vision.svg" alt="InfiniteTalk" height="120"></a>
       </div>
       <p style="line-height: 1.5;">​​Unlimited-length talking video generation​​ that supports<br>image-to-video and video-to-video generation<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -4430,12 +3730,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            HunyuanVideo-1.5
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5"><img src="GitTrendHub/assets/title_badges/title_Tencent-Hunyuan_HunyuanVideo-1.5_art_vision.svg" alt="HunyuanVideo-1.5" height="120"></a>
       </div>
       <p style="line-height: 1.5;">HunyuanVideo-1.5: A leading lightweight video generation<br>model<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -4455,12 +3751,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/VectorSpaceLab/OmniGen">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            OmniGen
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/VectorSpaceLab/OmniGen"><img src="GitTrendHub/assets/title_badges/title_VectorSpaceLab_OmniGen_art_vision.svg" alt="OmniGen" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The everything bagel of diffusion models—one model for<br>generation, editing, and more. Why switch models when you<br>have a unified genius that does it all?<br>&nbsp;</p>
     </td>
@@ -4480,12 +3772,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/mcmonkeyprojects/SwarmUI">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            SwarmUI
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/mcmonkeyprojects/SwarmUI"><img src="GitTrendHub/assets/title_badges/title_mcmonkeyprojects_SwarmUI_art_vision.svg" alt="SwarmUI" height="120"></a>
       </div>
       <p style="line-height: 1.5;">SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion<br>Web-User-Interface, with an emphasis on making powertools<br>easily accessible, high performance, and extensibility.<br>&nbsp;</p>
     </td>
@@ -4505,12 +3793,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/genmoai/mochi">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            mochi
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/genmoai/mochi"><img src="GitTrendHub/assets/title_badges/title_genmoai_mochi_art_vision.svg" alt="mochi" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The best OSS video generation models, created by Genmo<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -4530,12 +3814,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            PromptEnhancer
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer"><img src="GitTrendHub/assets/title_badges/title_Hunyuan-PromptEnhancer_PromptEnhancer_art_vision.svg" alt="PromptEnhancer" height="120"></a>
       </div>
       <p style="line-height: 1.5;">PromptEnhancer is a prompt-rewriting tool, refining prompts<br>into clearer, structured versions for better image<br>generation.<br>&nbsp;</p>
     </td>
@@ -4555,12 +3835,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/YILS-LIN/short-video-factory">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            short-video-factory
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/YILS-LIN/short-video-factory"><img src="GitTrendHub/assets/title_badges/title_YILS-LIN_short-video-factory_art_vision.svg" alt="short-video-factory" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The assembly line for viral content—just feed it an idea and<br>watch the TikToks roll out. Becoming a content creator while<br>you sleep; because the factory never takes a coffee break.<br>&nbsp;</p>
     </td>
@@ -4580,12 +3856,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/QwenLM/Qwen3-Omni">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Qwen3-Omni
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/QwenLM/Qwen3-Omni"><img src="GitTrendHub/assets/title_badges/title_QwenLM_Qwen3-Omni_art_vision.svg" alt="Qwen3-Omni" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Qwen3-omni is a natively end-to-end, omni-modal LLM<br>developed by the Qwen team at Alibaba Cloud, capable of<br>understanding text, audio, images, and video, as well as<br>generating s...</p>
     </td>
@@ -4605,12 +3877,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-1">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Hunyuan3D-1
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-1"><img src="GitTrendHub/assets/title_badges/title_Tencent-Hunyuan_Hunyuan3D-1_art_vision.svg" alt="Hunyuan3D-1" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D<br>and Image-to-3D Generation<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -4630,12 +3898,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Lightricks/ComfyUI-LTXVideo">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            ComfyUI-LTXVideo
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Lightricks/ComfyUI-LTXVideo"><img src="GitTrendHub/assets/title_badges/title_Lightricks_ComfyUI-LTXVideo_art_vision.svg" alt="ComfyUI-LTXVideo" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Wiring up the future of cinematic AI with node-based<br>precision. Maximum control for those who like their video<br>workflows like their pasta: spaghetti-style.<br>&nbsp;</p>
     </td>
@@ -4655,12 +3919,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/hao-ai-lab/FastVideo">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            FastVideo
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/hao-ai-lab/FastVideo"><img src="GitTrendHub/assets/title_badges/title_hao-ai-lab_FastVideo_art_vision.svg" alt="FastVideo" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A unified inference and post-training framework for<br>accelerated video generation.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -4680,12 +3940,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            AI-Youtube-Shorts-Generator
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator"><img src="GitTrendHub/assets/title_badges/title_SamurAIGPT_AI-Youtube-Shorts-Generator_art_vision.svg" alt="AI-Youtube-Shorts-Generator" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A python tool that uses GPT-4, FFmpeg, and OpenCV to<br>automatically analyze videos, extract the most interesting<br>sections, and crop them for an improved viewing experience.<br>&nbsp;</p>
     </td>
@@ -4705,12 +3961,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Tencent-Hunyuan/HunyuanImage-3.0">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            HunyuanImage-3.0
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Tencent-Hunyuan/HunyuanImage-3.0"><img src="GitTrendHub/assets/title_badges/title_Tencent-Hunyuan_HunyuanImage-3.0_art_vision.svg" alt="HunyuanImage-3.0" height="120"></a>
       </div>
       <p style="line-height: 1.5;">HunyuanImage-3.0: A Powerful Native Multimodal Model for<br>Image Generation<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -4730,12 +3982,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/NVIDIA/NeMo-Retriever">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            NeMo-Retriever
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/NVIDIA/NeMo-Retriever"><img src="GitTrendHub/assets/title_badges/title_NVIDIA_NeMo-Retriever_art_vision.svg" alt="NeMo-Retriever" height="120"></a>
       </div>
       <p style="line-height: 1.5;">NeMo Retriever Library is a scalable, performance-oriented<br>document content and metadata extraction microservice. NeMo<br>Retriever extraction uses specialized NVIDIA NIM<br>microserv...</p>
     </td>
@@ -4755,12 +4003,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/MeiGen-AI/MultiTalk">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            MultiTalk
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/MeiGen-AI/MultiTalk"><img src="GitTrendHub/assets/title_badges/title_MeiGen-AI_MultiTalk_art_vision.svg" alt="MultiTalk" height="120"></a>
       </div>
       <p style="line-height: 1.5;">[NeurIPS 2025] Let Them Talk: Audio-Driven Multi-Person<br>Conversational Video Generation<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -4780,12 +4024,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/HKUDS/ViMax">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            ViMax
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/HKUDS/ViMax"><img src="GitTrendHub/assets/title_badges/title_HKUDS_ViMax_art_vision.svg" alt="ViMax" height="120"></a>
       </div>
       <p style="line-height: 1.5;">"ViMax: Agentic Video Generation (Director, Screenwriter,<br>Producer, and Video Generator All-in-One)"<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -4805,12 +4045,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/test-time-training/ttt-video-dit">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            ttt-video-dit
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/test-time-training/ttt-video-dit"><img src="GitTrendHub/assets/title_badges/title_test-time-training_ttt-video-dit_art_vision.svg" alt="ttt-video-dit" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Official PyTorch implementation of One-Minute Video<br>Generation with Test-Time Training<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -4830,12 +4066,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/showlab/Paper2Video">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Paper2Video
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/showlab/Paper2Video"><img src="GitTrendHub/assets/title_badges/title_showlab_Paper2Video_art_vision.svg" alt="Paper2Video" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Turning dry academic PDFs into dynamic visual stories people<br>actually want to watch. Because reading 20 pages is hard,<br>but watching a 20-second summary is easy.<br>&nbsp;</p>
     </td>
@@ -4855,12 +4087,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/vita-epfl/Stable-Video-Infinity">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Stable-Video-Infinity
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/vita-epfl/Stable-Video-Infinity"><img src="GitTrendHub/assets/title_badges/title_vita-epfl_Stable-Video-Infinity_art_vision.svg" alt="Stable-Video-Infinity" height="120"></a>
       </div>
       <p style="line-height: 1.5;">[ICLR 26 Oral] Stable Video Infinity: Infinite-Length Video<br>Generation with Error Recycling<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -4880,12 +4108,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/ModelTC/LightX2V">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            LightX2V
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/ModelTC/LightX2V"><img src="GitTrendHub/assets/title_badges/title_ModelTC_LightX2V_art_vision.svg" alt="LightX2V" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Breathing life into static images at the speed of light. The<br>lightweight champion for turning still into cinematic<br>without the heavy overhead.<br>&nbsp;</p>
     </td>
@@ -4905,12 +4129,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/antirez/iris.c">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            iris.c
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/antirez/iris.c"><img src="GitTrendHub/assets/title_badges/title_antirez_iris.c_art_vision.svg" alt="iris.c" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Neural networks in raw C for the minimalist who finds Python<br>too bloated. Small enough to understand every byte, fast<br>enough to put libraries to shame.<br>&nbsp;</p>
     </td>
@@ -4930,12 +4150,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/zhouxiaoka/autoclip">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            autoclip
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/zhouxiaoka/autoclip"><img src="GitTrendHub/assets/title_badges/title_zhouxiaoka_autoclip_art_vision.svg" alt="autoclip" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Your AI film editor that has an uncanny knack for finding<br>the viral gold in your long footage. Extracting the best<br>moments without the ego of a Hollywood director.<br>&nbsp;</p>
     </td>
@@ -4955,12 +4171,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/showlab/Code2Video">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Code2Video
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/showlab/Code2Video"><img src="GitTrendHub/assets/title_badges/title_showlab_Code2Video_art_vision.svg" alt="Code2Video" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Turning boring logic into visual spectacles that explain<br>what your code actually does. Finally, a way to show<br>non-coders your beautiful backend logic in motion.<br>&nbsp;</p>
     </td>
@@ -4980,12 +4192,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            HunyuanWorld-Voyager
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager"><img src="GitTrendHub/assets/title_badges/title_Tencent-Hunyuan_HunyuanWorld-Voyager_art_vision.svg" alt="HunyuanWorld-Voyager" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Voyager is an interactive RGBD video generation model<br>conditioned on camera input, and supports real-time 3D<br>reconstruction.<br>&nbsp;</p>
     </td>
@@ -5005,12 +4213,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            HunyuanVideo-Foley
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley"><img src="GitTrendHub/assets/title_badges/title_Tencent-Hunyuan_HunyuanVideo-Foley_art_vision.svg" alt="HunyuanVideo-Foley" height="120"></a>
       </div>
       <p style="line-height: 1.5;">HunyuanVideo-Foley: Multimodal Diffusion with Representation<br>Alignment for High-Fidelity Foley Audio Generation.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5030,12 +4234,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Francis-Rings/StableAvatar">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            StableAvatar
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Francis-Rings/StableAvatar"><img src="GitTrendHub/assets/title_badges/title_Francis-Rings_StableAvatar_art_vision.svg" alt="StableAvatar" height="120"></a>
       </div>
       <p style="line-height: 1.5;">We present StableAvatar, the first end-to-end video<br>diffusion transformer, which synthesizes infinite-length<br>high-quality audio-driven avatar videos without any<br>post-processing,...</p>
     </td>
@@ -5055,12 +4255,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Phantom-video/HuMo">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            HuMo
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Phantom-video/HuMo"><img src="GitTrendHub/assets/title_badges/title_Phantom-video_HuMo_art_vision.svg" alt="HuMo" height="120"></a>
       </div>
       <p style="line-height: 1.5;">HuMo: Human-Centric Video Generation via Collaborative<br>Multi-Modal Conditioning<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5080,12 +4276,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/NVlabs/LongLive">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            LongLive
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/NVlabs/LongLive"><img src="GitTrendHub/assets/title_badges/title_NVlabs_LongLive_art_vision.svg" alt="LongLive" height="120"></a>
       </div>
       <p style="line-height: 1.5;">[ICLR 2026] LongLive: Real-time Interactive Long Video<br>Generation<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5105,12 +4297,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/llmsresearch/paperbanana">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            paperbanana
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/llmsresearch/paperbanana"><img src="GitTrendHub/assets/title_badges/title_llmsresearch_paperbanana_art_vision.svg" alt="paperbanana" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Open source implementation and extension of Google<br>Research’s PaperBanana for automated academic figures,<br>diagrams, and research visuals, expanded to new domains like<br>slide gene...</p>
     </td>
@@ -5130,12 +4318,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Dreamy-rain/gemini-business2api">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            gemini-business2api
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Dreamy-rain/gemini-business2api"><img src="GitTrendHub/assets/title_badges/title_Dreamy-rain_gemini-business2api_art_vision.svg" alt="gemini-business2api" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Breaking Gemini out of its business suit and into a<br>developer-friendly API. The bridge that lets your custom<br>tools tap into Google's biggest brain without the red tape.<br>&nbsp;</p>
     </td>
@@ -5155,12 +4339,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/alichherawalla/off-grid-mobile-ai">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            off-grid-mobile-ai
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/alichherawalla/off-grid-mobile-ai"><img src="GitTrendHub/assets/title_badges/title_alichherawalla_off-grid-mobile-ai_art_vision.svg" alt="off-grid-mobile-ai" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The Swiss Army Knife of Offline AI. Chat, Speak, and<br>Generate Images - Privacy First, Zero Internet. Download an<br>LLM and use it on your mobile device. No data ever leaves<br>your p...</p>
     </td>
@@ -5180,12 +4360,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/OpenMOSS/MOVA">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            MOVA
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/OpenMOSS/MOVA"><img src="GitTrendHub/assets/title_badges/title_OpenMOSS_MOVA_art_vision.svg" alt="MOVA" height="120"></a>
       </div>
       <p style="line-height: 1.5;">MOVA: Towards Scalable and Synchronized Video–Audio<br>Generation<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5205,12 +4381,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/0xsline/StoryGen-Atelier">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            StoryGen-Atelier
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/0xsline/StoryGen-Atelier"><img src="GitTrendHub/assets/title_badges/title_0xsline_StoryGen-Atelier_art_vision.svg" alt="StoryGen-Atelier" height="120"></a>
       </div>
       <p style="line-height: 1.5;">AI-assisted storyboard and video generation tool. Uses<br>Gemini for generating storyboard text and frames, Vertex AI<br>Veo for generating transition clips, and ffmpeg for<br>stitching...</p>
     </td>
@@ -5230,12 +4402,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/DAVIAN-Robotics/EgoX">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            EgoX
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/DAVIAN-Robotics/EgoX"><img src="GitTrendHub/assets/title_badges/title_DAVIAN-Robotics_EgoX_art_vision.svg" alt="EgoX" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Code for "EgoX: Egocentric Video Generation from a Single<br>Exocentric Video"<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5255,12 +4423,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/cporter202/automate-for-growth">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            automate-for-growth
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/cporter202/automate-for-growth"><img src="GitTrendHub/assets/title_badges/title_cporter202_automate-for-growth_art_vision.svg" alt="automate-for-growth" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Complete guide to automating content for growth: Sora 2<br>video generation, brand authority automation, multi-platform<br>posting, bulk content creation, and API integration.<br>&nbsp;</p>
     </td>
@@ -5280,12 +4444,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/ZeroLu/awesome-seedance">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            awesome-seedance
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/ZeroLu/awesome-seedance"><img src="GitTrendHub/assets/title_badges/title_ZeroLu_awesome-seedance_art_vision.svg" alt="awesome-seedance" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The ultimate collection of high-fidelity Seedance 2.0<br>prompts and Seedance AI resources. Discover Seedance 2.0 how<br>to use for cinematic film, anime, UGC, social media, meme<br>and...</p>
     </td>
@@ -5305,12 +4465,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Amery2010/peinture">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            peinture
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Amery2010/peinture"><img src="GitTrendHub/assets/title_badges/title_Amery2010_peinture_art_vision.svg" alt="peinture" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A general-purpose AI image generation framework that<br>supports Hugging Face, Gitee, Model Scope, and more.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5330,12 +4486,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/ali-vilab/Wan-Move">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Wan-Move
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/ali-vilab/Wan-Move"><img src="GitTrendHub/assets/title_badges/title_ali-vilab_Wan-Move_art_vision.svg" alt="Wan-Move" height="120"></a>
       </div>
       <p style="line-height: 1.5;">[NeurIPS 2025] Wan-Move: Motion-controllable Video<br>Generation via Latent Trajectory Guidance<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5355,12 +4507,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Soul-AILab/SoulX-FlashHead">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            SoulX-FlashHead
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Soul-AILab/SoulX-FlashHead"><img src="GitTrendHub/assets/title_badges/title_Soul-AILab_SoulX-FlashHead_art_vision.svg" alt="SoulX-FlashHead" height="120"></a>
       </div>
       <p style="line-height: 1.5;">SoulX-FlashHead: A unified 1.3B-parameter framework designed<br>for high-fidelity, infinite-length, and real-time streaming<br>portrait video generation.<br>&nbsp;</p>
     </td>
@@ -5380,12 +4528,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/thu-ml/Causal-Forcing">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Causal-Forcing
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/thu-ml/Causal-Forcing"><img src="GitTrendHub/assets/title_badges/title_thu-ml_Causal-Forcing_art_vision.svg" alt="Causal-Forcing" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Official codebase for "Causal Forcing: Autoregressive<br>Diffusion Distillation Done Right for High-Quality Real-Time<br>Interactive Video Generation"<br>&nbsp;</p>
     </td>
@@ -5405,12 +4549,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/OmniCustom-project/OmniCustom">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            OmniCustom
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/OmniCustom-project/OmniCustom"><img src="GitTrendHub/assets/title_badges/title_OmniCustom-project_OmniCustom_art_vision.svg" alt="OmniCustom" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Official Implementation of 'OmniCustom: Sync Audio-Video<br>Customization Via Joint Audio-Video Generation Model'<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5430,12 +4570,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/SkyworkAI/SkyReels-V3">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            SkyReels-V3
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/SkyworkAI/SkyReels-V3"><img src="GitTrendHub/assets/title_badges/title_SkyworkAI_SkyReels-V3_art_vision.svg" alt="SkyReels-V3" height="120"></a>
       </div>
       <p style="line-height: 1.5;">SkyReels V3: Multimodal Video Generation Model<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5455,12 +4591,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/PKU-YuanGroup/Helios">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Helios
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/PKU-YuanGroup/Helios"><img src="GitTrendHub/assets/title_badges/title_PKU-YuanGroup_Helios_art_vision.svg" alt="Helios" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Helios: Real Real-Time Long Video Generation Model<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5480,12 +4612,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/NickPittas/DirectorsConsole">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            DirectorsConsole
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/NickPittas/DirectorsConsole"><img src="GitTrendHub/assets/title_badges/title_NickPittas_DirectorsConsole_art_vision.svg" alt="DirectorsConsole" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A web application for prompt generation and multiple ComfyUI<br>remote and local connections for image and video generation<br>in parallel in an infinite canvas<br>&nbsp;</p>
     </td>
@@ -5505,12 +4633,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/openai/GABRIEL">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            GABRIEL
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/openai/GABRIEL"><img src="GitTrendHub/assets/title_badges/title_openai_GABRIEL_art_vision.svg" alt="GABRIEL" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An official OpenAI toolkit for social scientists and data<br>scientists to measure quantitative attributes in text,<br>images, or audio using the GPT API.<br>&nbsp;</p>
     </td>
@@ -5530,12 +4654,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #ffa94d, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            awesome-seedance-2-prompts
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"><img src="GitTrendHub/assets/title_badges/title_YouMind-OpenLab_awesome-seedance-2-prompts_art_vision.svg" alt="awesome-seedance-2-prompts" height="120"></a>
       </div>
       <p style="line-height: 1.5;">🎬 500+ curated Seedance 2.0 video generation prompts —<br>cinematic, anime, UGC, ads, meme styles. Includes Seedance<br>API guides, character consistency tips, and advanced video<br>work...</p>
     </td>
@@ -5561,12 +4681,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/tensorflow/tensorflow">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            tensorflow
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/tensorflow/tensorflow"><img src="GitTrendHub/assets/title_badges/title_tensorflow_tensorflow_frameworks.svg" alt="tensorflow" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An Open Source Machine Learning Framework for Everyone<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5586,12 +4702,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/huggingface/transformers">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            transformers
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/huggingface/transformers"><img src="GitTrendHub/assets/title_badges/title_huggingface_transformers_frameworks.svg" alt="transformers" height="120"></a>
       </div>
       <p style="line-height: 1.5;">🤗 Transformers: the model-definition framework for<br>state-of-the-art machine learning models in text, vision,<br>audio, and multimodal models, for both inference and<br>training.</p>
     </td>
@@ -5611,12 +4723,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/langchain-ai/langchain">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            langchain
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/langchain-ai/langchain"><img src="GitTrendHub/assets/title_badges/title_langchain-ai_langchain_frameworks.svg" alt="langchain" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The original Swiss Army Knife that turned every developer<br>into an AI engineer overnight. With more integrations than<br>your favorite app store, if it has an API, we’ve already<br>wra...</p>
     </td>
@@ -5636,12 +4744,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/josephmisiti/awesome-machine-learning">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            awesome-machine-learning
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/josephmisiti/awesome-machine-learning"><img src="GitTrendHub/assets/title_badges/title_josephmisiti_awesome-machine-learning_frameworks.svg" alt="awesome-machine-learning" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A curated list of awesome Machine Learning frameworks,<br>libraries and software.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5661,12 +4765,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/obra/superpowers">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            superpowers
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/obra/superpowers"><img src="GitTrendHub/assets/title_badges/title_obra_superpowers_frameworks.svg" alt="superpowers" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An agentic skills framework & software development<br>methodology that works.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5686,12 +4786,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/FoundationAgents/MetaGPT">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            MetaGPT
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/FoundationAgents/MetaGPT"><img src="GitTrendHub/assets/title_badges/title_FoundationAgents_MetaGPT_frameworks.svg" alt="MetaGPT" height="120"></a>
       </div>
       <p style="line-height: 1.5;">🌟 The Multi-Agent Framework: First AI Software Company,<br>Towards Natural Language Programming<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5711,12 +4807,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/pathwaycom/pathway">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            pathway
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/pathwaycom/pathway"><img src="GitTrendHub/assets/title_badges/title_pathwaycom_pathway_frameworks.svg" alt="pathway" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Python ETL framework for stream processing, real-time<br>analytics, LLM pipelines, and RAG.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5736,12 +4828,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/microsoft/autogen">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            autogen
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/microsoft/autogen"><img src="GitTrendHub/assets/title_badges/title_microsoft_autogen_frameworks.svg" alt="autogen" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Why work alone when your AI agents can have a meeting about<br>it? The ultimate multi-agent playground where LLMs<br>collaborate to do your chores.<br>&nbsp;</p>
     </td>
@@ -5761,12 +4849,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/run-llama/llama_index">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            llama_index
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/run-llama/llama_index"><img src="GitTrendHub/assets/title_badges/title_run-llama_llama_index_frameworks.svg" alt="llama_index" height="120"></a>
       </div>
       <p style="line-height: 1.5;">LlamaIndex is the leading document agent and OCR platform<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5786,12 +4870,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/crewAIInc/crewAI">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            crewAI
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/crewAIInc/crewAI"><img src="GitTrendHub/assets/title_badges/title_crewAIInc_crewAI_frameworks.svg" alt="crewAI" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Framework for orchestrating role-playing, autonomous AI<br>agents. By fostering collaborative intelligence, CrewAI<br>empowers agents to work together seamlessly, tackling<br>complex tasks.</p>
     </td>
@@ -5811,12 +4891,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/deepspeedai/DeepSpeed">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            DeepSpeed
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/deepspeedai/DeepSpeed"><img src="GitTrendHub/assets/title_badges/title_deepspeedai_DeepSpeed_frameworks.svg" alt="DeepSpeed" height="120"></a>
       </div>
       <p style="line-height: 1.5;">DeepSpeed is a deep learning optimization library that makes<br>distributed training and inference easy, efficient, and<br>effective.<br>&nbsp;</p>
     </td>
@@ -5836,12 +4912,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/TauricResearch/TradingAgents">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            TradingAgents
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/TauricResearch/TradingAgents"><img src="GitTrendHub/assets/title_badges/title_TauricResearch_TradingAgents_frameworks.svg" alt="TradingAgents" height="120"></a>
       </div>
       <p style="line-height: 1.5;">TradingAgents: Multi-Agents LLM Financial Trading Framework<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5861,12 +4933,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/microsoft/BitNet">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            BitNet
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/microsoft/BitNet"><img src="GitTrendHub/assets/title_badges/title_microsoft_BitNet_frameworks.svg" alt="BitNet" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Putting LLMs on a 1-bit diet for extreme efficiency and<br>speed. Proving that 0 and 1 are all you really need to be<br>incredibly smart.<br>&nbsp;</p>
     </td>
@@ -5886,12 +4954,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/langchain-ai/langgraph">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            langgraph
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/langchain-ai/langgraph"><img src="GitTrendHub/assets/title_badges/title_langchain-ai_langgraph_frameworks.svg" alt="langgraph" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Giving your agents a map and a memory for complex, loopy<br>workflows. Because real-world logic isn't a straight line;<br>it’s a state machine.<br>&nbsp;</p>
     </td>
@@ -5911,12 +4975,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/sgl-project/sglang">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            sglang
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/sgl-project/sglang"><img src="GitTrendHub/assets/title_badges/title_sgl-project_sglang_frameworks.svg" alt="sglang" height="120"></a>
       </div>
       <p style="line-height: 1.5;">SGLang is a high-performance serving framework for large<br>language models and multimodal models.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5936,12 +4996,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/zai-org/Open-AutoGLM">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Open-AutoGLM
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/zai-org/Open-AutoGLM"><img src="GitTrendHub/assets/title_badges/title_zai-org_Open-AutoGLM_frameworks.svg" alt="Open-AutoGLM" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An Open Phone Agent Model & Framework. Unlocking the AI<br>Phone for Everyone<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -5961,12 +5017,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/facebookresearch/audiocraft">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            audiocraft
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/facebookresearch/audiocraft"><img src="GitTrendHub/assets/title_badges/title_facebookresearch_audiocraft_frameworks.svg" alt="audiocraft" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Audiocraft is a library for audio processing and generation<br>with deep learning. It features the state-of-the-art EnCodec<br>audio compressor / tokenizer, along with MusicGen, a sim...<br>&nbsp;</p>
     </td>
@@ -5986,12 +5038,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/mastra-ai/mastra">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            mastra
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/mastra-ai/mastra"><img src="GitTrendHub/assets/title_badges/title_mastra-ai_mastra_frameworks.svg" alt="mastra" height="120"></a>
       </div>
       <p style="line-height: 1.5;">From the team behind Gatsby, Mastra is a framework for<br>building AI-powered applications and agents with a modern<br>TypeScript stack.<br>&nbsp;</p>
     </td>
@@ -6011,12 +5059,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/openai/openai-agents-python">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            openai-agents-python
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/openai/openai-agents-python"><img src="GitTrendHub/assets/title_badges/title_openai_openai-agents-python_frameworks.svg" alt="openai-agents-python" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A lightweight, powerful framework for multi-agent workflows<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6036,12 +5080,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/humanlayer/12-factor-agents">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            12-factor-agents
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/humanlayer/12-factor-agents"><img src="GitTrendHub/assets/title_badges/title_humanlayer_12-factor-agents_frameworks.svg" alt="12-factor-agents" height="120"></a>
       </div>
       <p style="line-height: 1.5;">What are the principles we can use to build LLM-powered<br>software that is actually good enough to put in the hands of<br>production customers?<br>&nbsp;</p>
     </td>
@@ -6061,12 +5101,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/eosphoros-ai/DB-GPT">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            DB-GPT
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/eosphoros-ai/DB-GPT"><img src="GitTrendHub/assets/title_badges/title_eosphoros-ai_DB-GPT_frameworks.svg" alt="DB-GPT" height="120"></a>
       </div>
       <p style="line-height: 1.5;">AI Native Data App Development framework with AWEL(Agentic<br>Workflow Expression Language) and Agents<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6086,12 +5122,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/openai/evals">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            evals
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/openai/evals"><img src="GitTrendHub/assets/title_badges/title_openai_evals_frameworks.svg" alt="evals" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Evals is a framework for evaluating LLMs and LLM systems,<br>and an open-source registry of benchmarks.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6111,12 +5143,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/emcie-co/parlant">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            parlant
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/emcie-co/parlant"><img src="GitTrendHub/assets/title_badges/title_emcie-co_parlant_frameworks.svg" alt="parlant" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The conversational control layer for customer-facing AI<br>agents - Parlant is a context-engineering framework<br>optimized for controlling customer interactions.<br>&nbsp;</p>
     </td>
@@ -6136,12 +5164,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/elizaOS/eliza">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            eliza
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/elizaOS/eliza"><img src="GitTrendHub/assets/title_badges/title_elizaOS_eliza_frameworks.svg" alt="eliza" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Not just a bot, but an autonomous agent with a soul and a<br>social life. Building the next generation of on-chain<br>personalities that actually talk back.<br>&nbsp;</p>
     </td>
@@ -6161,12 +5185,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/kvcache-ai/ktransformers">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            ktransformers
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/kvcache-ai/ktransformers"><img src="GitTrendHub/assets/title_badges/title_kvcache-ai_ktransformers_frameworks.svg" alt="ktransformers" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A Flexible Framework for Experiencing Heterogeneous LLM<br>Inference/Fine-tune Optimizations<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6186,12 +5206,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/camel-ai/camel">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            camel
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/camel-ai/camel"><img src="GitTrendHub/assets/title_badges/title_camel-ai_camel_frameworks.svg" alt="camel" height="120"></a>
       </div>
       <p style="line-height: 1.5;">🐫 CAMEL: The first and the best multi-agent framework.<br>Finding the Scaling Law of Agents. https://www.camel-ai.org<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6211,12 +5227,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/raga-ai-hub/RagaAI-Catalyst">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            RagaAI-Catalyst
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/raga-ai-hub/RagaAI-Catalyst"><img src="GitTrendHub/assets/title_badges/title_raga-ai-hub_RagaAI-Catalyst_frameworks.svg" alt="RagaAI-Catalyst" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Python SDK for Agent AI Observability, Monitoring and<br>Evaluation Framework. Includes features like agent, llm and<br>tools tracing, debugging multi-agentic system, self-hosted<br>dash...</p>
     </td>
@@ -6236,12 +5248,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/agent0ai/agent-zero">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            agent-zero
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/agent0ai/agent-zero"><img src="GitTrendHub/assets/title_badges/title_agent0ai_agent-zero_frameworks.svg" alt="agent-zero" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The AI that treats your terminal like its own personal<br>playground. Full OS access for agents who aren't afraid to<br>get their hands dirty.<br>&nbsp;</p>
     </td>
@@ -6261,12 +5269,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/pydantic/pydantic-ai">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            pydantic-ai
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/pydantic/pydantic-ai"><img src="GitTrendHub/assets/title_badges/title_pydantic_pydantic-ai_frameworks.svg" alt="pydantic-ai" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Agentic logic for developers who actually care about<br>type-safety. Strict validation meets loose AI dreams—the<br>"Senior Dev" of agent frameworks.<br>&nbsp;</p>
     </td>
@@ -6286,12 +5290,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/llmware-ai/llmware">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            llmware
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/llmware-ai/llmware"><img src="GitTrendHub/assets/title_badges/title_llmware-ai_llmware_frameworks.svg" alt="llmware" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Unified framework for building enterprise RAG pipelines with<br>small, specialized models<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6311,12 +5311,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/confident-ai/deepeval">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            deepeval
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/confident-ai/deepeval"><img src="GitTrendHub/assets/title_badges/title_confident-ai_deepeval_frameworks.svg" alt="deepeval" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Unit testing for LLMs because vibes-based testing isn't a<br>real production strategy. Quantitative sanity for your<br>qualitative prompts—don't ship without it.<br>&nbsp;</p>
     </td>
@@ -6336,12 +5332,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/QwenLM/Qwen-Agent">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Qwen-Agent
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/QwenLM/Qwen-Agent"><img src="GitTrendHub/assets/title_badges/title_QwenLM_Qwen-Agent_frameworks.svg" alt="Qwen-Agent" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Agent framework and applications built upon Qwen>=3.0,<br>featuring Function Calling, MCP, Code Interpreter, RAG,<br>Chrome extension, etc.<br>&nbsp;</p>
     </td>
@@ -6361,12 +5353,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Tencent/WeKnora">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            WeKnora
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Tencent/WeKnora"><img src="GitTrendHub/assets/title_badges/title_Tencent_WeKnora_frameworks.svg" alt="WeKnora" height="120"></a>
       </div>
       <p style="line-height: 1.5;">LLM-powered framework for deep document understanding,<br>semantic retrieval, and context-aware answers using RAG<br>paradigm.<br>&nbsp;</p>
     </td>
@@ -6386,12 +5374,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/langchain4j/langchain4j">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            langchain4j
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/langchain4j/langchain4j"><img src="GitTrendHub/assets/title_badges/title_langchain4j_langchain4j_frameworks.svg" alt="langchain4j" height="120"></a>
       </div>
       <p style="line-height: 1.5;">LangChain4j is an open-source Java library that simplifies<br>the integration of LLMs into Java applications through a<br>unified API, providing access to popular LLMs and vector<br>data...</p>
     </td>
@@ -6411,12 +5395,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/TEN-framework/ten-framework">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            ten-framework
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/TEN-framework/ten-framework"><img src="GitTrendHub/assets/title_badges/title_TEN-framework_ten-framework_frameworks.svg" alt="ten-framework" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Open-source framework for conversational voice AI agents<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6436,12 +5416,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/The-Pocket/PocketFlow">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            PocketFlow
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/The-Pocket/PocketFlow"><img src="GitTrendHub/assets/title_badges/title_The-Pocket_PocketFlow_frameworks.svg" alt="PocketFlow" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Pocket Flow: 100-line LLM framework. Let Agents build<br>Agents!<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6461,12 +5437,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/simular-ai/Agent-S">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Agent-S
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/simular-ai/Agent-S"><img src="GitTrendHub/assets/title_badges/title_simular-ai_Agent-S_frameworks.svg" alt="Agent-S" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Agent S: an open agentic framework that uses computers like<br>a human<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6486,12 +5458,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/cloudwego/eino">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            eino
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/cloudwego/eino"><img src="GitTrendHub/assets/title_badges/title_cloudwego_eino_frameworks.svg" alt="eino" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The ultimate LLM/AI application development framework in Go.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6511,12 +5479,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/livekit/agents">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            agents
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/livekit/agents"><img src="GitTrendHub/assets/title_badges/title_livekit_agents_frameworks.svg" alt="agents" height="120"></a>
       </div>
       <p style="line-height: 1.5;">AI that doesn't just process—it listens, speaks, and vibes<br>with you in real-time. The heartbeat of conversational AI,<br>built for those who find latency to be a four-letter word.<br>&nbsp;</p>
     </td>
@@ -6536,12 +5500,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/mcp-use/mcp-use">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            mcp-use
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/mcp-use/mcp-use"><img src="GitTrendHub/assets/title_badges/title_mcp-use_mcp-use_frameworks.svg" alt="mcp-use" height="120"></a>
       </div>
       <p style="line-height: 1.5;">The fullstack MCP framework to develop MCP Apps for ChatGPT<br>/ Claude & MCP Servers for AI Agents.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6561,12 +5521,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/aden-hive/hive">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            hive
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/aden-hive/hive"><img src="GitTrendHub/assets/title_badges/title_aden-hive_hive_frameworks.svg" alt="hive" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Outcome driven agent development framework that evolves<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6586,12 +5542,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/HKUDS/AutoAgent">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            AutoAgent
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/HKUDS/AutoAgent"><img src="GitTrendHub/assets/title_badges/title_HKUDS_AutoAgent_frameworks.svg" alt="AutoAgent" height="120"></a>
       </div>
       <p style="line-height: 1.5;">"AutoAgent: Fully-Automated and Zero-Code LLM Agent<br>Framework"<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6611,12 +5563,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/OpenSPG/KAG">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            KAG
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/OpenSPG/KAG"><img src="GitTrendHub/assets/title_badges/title_OpenSPG_KAG_frameworks.svg" alt="KAG" height="120"></a>
       </div>
       <p style="line-height: 1.5;">KAG is a logical form-guided reasoning and retrieval<br>framework based on OpenSPG engine and LLMs. It is used to<br>build logical reasoning and factual Q&A solutions for<br>professiona...</p>
     </td>
@@ -6636,12 +5584,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/alibaba/spring-ai-alibaba">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            spring-ai-alibaba
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/alibaba/spring-ai-alibaba"><img src="GitTrendHub/assets/title_badges/title_alibaba_spring-ai-alibaba_frameworks.svg" alt="spring-ai-alibaba" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Bringing the power of Alibaba's AI ecosystem to the world of<br>Enterprise Java. Serious AI for serious Spring developers<br>who mean business.<br>&nbsp;</p>
     </td>
@@ -6661,12 +5605,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Upsonic/Upsonic">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Upsonic
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Upsonic/Upsonic"><img src="GitTrendHub/assets/title_badges/title_Upsonic_Upsonic_frameworks.svg" alt="Upsonic" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Orchestrating agents at scale without the infrastructure<br>nightmare. The conductor for your AI agent symphony,<br>ensuring everyone stays in sync.<br>&nbsp;</p>
     </td>
@@ -6686,12 +5626,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/microsoft/agent-framework">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            agent-framework
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/microsoft/agent-framework"><img src="GitTrendHub/assets/title_badges/title_microsoft_agent-framework_frameworks.svg" alt="agent-framework" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A framework for building, orchestrating and deploying AI<br>agents and multi-agent workflows with support for Python and<br>.NET.<br>&nbsp;</p>
     </td>
@@ -6711,12 +5647,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/awslabs/agent-squad">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            agent-squad
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/awslabs/agent-squad"><img src="GitTrendHub/assets/title_badges/title_awslabs_agent-squad_frameworks.svg" alt="agent-squad" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Flexible and powerful framework for managing multiple AI<br>agents and handling complex conversations<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6736,12 +5668,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/aliasrobotics/cai">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            cai
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/aliasrobotics/cai"><img src="GitTrendHub/assets/title_badges/title_aliasrobotics_cai_frameworks.svg" alt="cai" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Cybersecurity AI (CAI), the framework for AI Security<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6761,12 +5689,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/VoltAgent/voltagent">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            voltagent
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/VoltAgent/voltagent"><img src="GitTrendHub/assets/title_badges/title_VoltAgent_voltagent_frameworks.svg" alt="voltagent" height="120"></a>
       </div>
       <p style="line-height: 1.5;">AI Agent Engineering Platform built on an Open Source<br>TypeScript AI Agent Framework<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6786,12 +5710,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/cocoindex-io/cocoindex">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            cocoindex
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/cocoindex-io/cocoindex"><img src="GitTrendHub/assets/title_badges/title_cocoindex-io_cocoindex_frameworks.svg" alt="cocoindex" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Data transformation framework for AI. Ultra performant, with<br>incremental processing. 🌟 Star if you like it!<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6811,12 +5731,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/OpenBMB/UltraRAG">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            UltraRAG
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/OpenBMB/UltraRAG"><img src="GitTrendHub/assets/title_badges/title_OpenBMB_UltraRAG_frameworks.svg" alt="UltraRAG" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A Low-Code MCP Framework for Building Complex and Innovative<br>RAG Pipelines<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6836,12 +5752,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/sentient-agi/ROMA">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            ROMA
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/sentient-agi/ROMA"><img src="GitTrendHub/assets/title_badges/title_sentient-agi_ROMA_frameworks.svg" alt="ROMA" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent<br>framework to build high-performance multi-agent systems.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6861,12 +5773,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/hiyouga/EasyR1">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            EasyR1
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/hiyouga/EasyR1"><img src="GitTrendHub/assets/title_badges/title_hiyouga_EasyR1_frameworks.svg" alt="EasyR1" height="120"></a>
       </div>
       <p style="line-height: 1.5;">EasyR1: An Efficient, Scalable, Multi-Modality RL Training<br>Framework based on veRL<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6886,12 +5794,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/THUDM/slime">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            slime
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/THUDM/slime"><img src="GitTrendHub/assets/title_badges/title_THUDM_slime_frameworks.svg" alt="slime" height="120"></a>
       </div>
       <p style="line-height: 1.5;">slime is an LLM post-training framework for RL Scaling.<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6911,12 +5815,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/antvis/Infographic">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Infographic
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/antvis/Infographic"><img src="GitTrendHub/assets/title_badges/title_antvis_Infographic_frameworks.svg" alt="Infographic" height="120"></a>
       </div>
       <p style="line-height: 1.5;">🦋 An Infographic Generation and Rendering Framework, bring<br>words to life with AI!<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6936,12 +5836,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/TencentCloudADP/youtu-agent">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            youtu-agent
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/TencentCloudADP/youtu-agent"><img src="GitTrendHub/assets/title_badges/title_TencentCloudADP_youtu-agent_frameworks.svg" alt="youtu-agent" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A simple yet powerful agent framework that delivers with<br>open-source models<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6961,12 +5857,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/cactus-compute/cactus">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            cactus
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/cactus-compute/cactus"><img src="GitTrendHub/assets/title_badges/title_cactus-compute_cactus_frameworks.svg" alt="cactus" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Low-latency AI engine for mobile devices & wearables<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6986,12 +5878,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/magnitudedev/browser-agent">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            browser-agent
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/magnitudedev/browser-agent"><img src="GitTrendHub/assets/title_badges/title_magnitudedev_browser-agent_frameworks.svg" alt="browser-agent" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An agent that surfs the web so you don't have to deal with<br>cookies and pop-ups. It clicks the buttons you’re too lazy<br>to find and navigates the web like a pro.<br>&nbsp;</p>
     </td>
@@ -7011,12 +5899,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/JetBrains/koog">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            koog
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/JetBrains/koog"><img src="GitTrendHub/assets/title_badges/title_JetBrains_koog_frameworks.svg" alt="koog" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Koog is the official Kotlin framework for building<br>predictable, fault-tolerant and enterprise-ready AI agents<br>across all platforms – from backend services to Android and<br>iOS, JV...</p>
     </td>
@@ -7036,12 +5920,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/SkyworkAI/DeepResearchAgent">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            DeepResearchAgent
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/SkyworkAI/DeepResearchAgent"><img src="GitTrendHub/assets/title_badges/title_SkyworkAI_DeepResearchAgent_frameworks.svg" alt="DeepResearchAgent" height="120"></a>
       </div>
       <p style="line-height: 1.5;">DeepResearchAgent is a hierarchical multi-agent system<br>designed not only for deep research tasks but also for<br>general-purpose task solving. The framework leverages a<br>top-level p...</p>
     </td>
@@ -7061,12 +5941,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/Sumanth077/ai-engineering-toolkit">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            ai-engineering-toolkit
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/Sumanth077/ai-engineering-toolkit"><img src="GitTrendHub/assets/title_badges/title_Sumanth077_ai-engineering-toolkit_frameworks.svg" alt="ai-engineering-toolkit" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A curated list of 100+ libraries and frameworks for AI<br>engineers building with LLMs<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -7086,12 +5962,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/MiroMindAI/miroflow">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            miroflow
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/MiroMindAI/miroflow"><img src="GitTrendHub/assets/title_badges/title_MiroMindAI_miroflow_frameworks.svg" alt="miroflow" height="120"></a>
       </div>
       <p style="line-height: 1.5;">MiroFlow is an agent framework that enables tool-use agent<br>tasks, featuring a reproducible GAIA score of 82.4%.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -7111,12 +5983,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/BIT-DataLab/Edit-Banana">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Edit-Banana
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/BIT-DataLab/Edit-Banana"><img src="GitTrendHub/assets/title_badges/title_BIT-DataLab_Edit-Banana_frameworks.svg" alt="Edit-Banana" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Edit Banana: A framework for converting statistical formats<br>into editable.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -7136,12 +6004,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/darrenhinde/OpenAgentsControl">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            OpenAgentsControl
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/darrenhinde/OpenAgentsControl"><img src="GitTrendHub/assets/title_badges/title_darrenhinde_OpenAgentsControl_frameworks.svg" alt="OpenAgentsControl" height="120"></a>
       </div>
       <p style="line-height: 1.5;">AI agent framework for plan-first development workflows with<br>approval-based execution. Multi-language support<br>(TypeScript, Python, Go, Rust) with automatic testing, code<br>review,...</p>
     </td>
@@ -7161,12 +6025,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/samugit83/redamon">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            redamon
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/samugit83/redamon"><img src="GitTrendHub/assets/title_badges/title_samugit83_redamon_frameworks.svg" alt="redamon" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An AI-powered agentic red team framework that automates<br>offensive security operations, from reconnaissance to<br>exploitation to post-exploitation, with zero human<br>intervention.</p>
     </td>
@@ -7186,12 +6046,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/polyuiislab/infiAgent">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            infiAgent
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/polyuiislab/infiAgent"><img src="GitTrendHub/assets/title_badges/title_polyuiislab_infiAgent_frameworks.svg" alt="infiAgent" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Build your own Cowork, AI Scientist and other SoTA Agents<br>just by editing config files. Support anthropic skills. An<br>infinite-horizon agent framework designed for<br>long-running,...</p>
     </td>
@@ -7211,12 +6067,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/deanpeters/Product-Manager-Skills">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            Product-Manager-Skills
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/deanpeters/Product-Manager-Skills"><img src="GitTrendHub/assets/title_badges/title_deanpeters_Product-Manager-Skills_frameworks.svg" alt="Product-Manager-Skills" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Product Management skills framework built on battle-tested<br>methods for Claude Code, Cowork, Codex, and AI agents.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -7236,12 +6088,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/openakita/openakita">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            openakita
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/openakita/openakita"><img src="GitTrendHub/assets/title_badges/title_openakita_openakita_frameworks.svg" alt="openakita" height="120"></a>
       </div>
       <p style="line-height: 1.5;">An open-source AI assistant framework with skills and agent<br>architecture<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -7261,12 +6109,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/sangrokjung/claude-forge">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            claude-forge
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/sangrokjung/claude-forge"><img src="GitTrendHub/assets/title_badges/title_sangrokjung_claude-forge_frameworks.svg" alt="claude-forge" height="120"></a>
       </div>
       <p style="line-height: 1.5;">Supercharge Claude Code with 11 AI agents, 36 commands & 15<br>skills — the claude-code plugin framework inspired by<br>oh-my-zsh. 6-layer security hooks included. 5-min install.<br>&nbsp;</p>
     </td>
@@ -7286,12 +6130,8 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.05;">
-        <a href="https://github.com/opencmit/alphora">
-          <span style="display: inline-block; padding: 6px 16px; border-radius: 12px; background: linear-gradient(135deg, #845ef7, #3a7bd5); color: #ffffff; font-size: 90px; font-weight: 800; letter-spacing: -0.5px; border: 1px solid #1f242a;">
-            alphora
-          </span>
-        </a>
+      <div>
+        <a href="https://github.com/opencmit/alphora"><img src="GitTrendHub/assets/title_badges/title_opencmit_alphora_frameworks.svg" alt="alphora" height="120"></a>
       </div>
       <p style="line-height: 1.5;">A Production-Ready Framework for Building Composable AI<br>Agents<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -7349,5 +6189,5 @@ Stay ahead of the curve with these curated AI resources.
 Data is retrieved using the GitHub REST API and GitHub Actions.
 
 <div align="right">
-  <i>✨ Last Generated: March 05, 2026 - 17:29 UTC</i>
+  <i>✨ Last Generated: March 05, 2026 - 17:33 UTC</i>
 </div>
