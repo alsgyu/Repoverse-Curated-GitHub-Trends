@@ -5,8 +5,8 @@
   <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#8b949e">ovh/shai</text>
   
   <g transform="translate(20, 80)">
-    <polygon points="5,0 6.2,3.2 9.6,3.6 7,5.7 7.8,9 5,7.2 2.2,9 3,5.7 0.4,3.6 3.8,3.2" fill="#e3b341"/>
-    <text x="15" y="4" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9">584 stars</text>
+    <text x="0" y="4" font-family="Arial, sans-serif" font-size="14" fill="#e3b341" dominant-baseline="central">★</text>
+    <text x="14" y="4" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9" dominant-baseline="central">584 stars</text>
   </g>
   
   <g transform="translate(150, 80)">

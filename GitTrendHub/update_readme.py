@@ -35,7 +35,7 @@ def parse_stars(val):
     except:
         return 0
 
-def format_desc_fixed(desc, max_chars=180, line_len=60, min_lines=1):
+def format_desc_fixed(desc, max_chars=180, line_len=60, min_lines=2):
     if not desc:
         desc = "No description provided"
     text = desc.replace("\n", " ").strip()
@@ -138,8 +138,8 @@ def generate_svg_card(e):
   <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#8b949e">{e['repo_path']}</text>
   
   <g transform="translate(20, 80)">
-    <polygon points="5,0 6.2,3.2 9.6,3.6 7,5.7 7.8,9 5,7.2 2.2,9 3,5.7 0.4,3.6 3.8,3.2" fill="#e3b341"/>
-    <text x="15" y="4" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9">{e['stars']:,} stars</text>
+    <text x="0" y="4" font-family="Arial, sans-serif" font-size="14" fill="#e3b341" dominant-baseline="central">★</text>
+    <text x="14" y="4" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9" dominant-baseline="central">{e['stars']:,} stars</text>
   </g>
   
   <g transform="translate(150, 80)">
