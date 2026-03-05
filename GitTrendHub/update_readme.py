@@ -138,7 +138,7 @@ def generate_svg_card(e):
   <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#8b949e">{e['repo_path']}</text>
   
   <g transform="translate(20, 80)">
-    <circle cx="5" cy="0" r="5" fill="#e3b341"/>
+    <polygon points="5,0 6.2,3.2 9.6,3.6 7,5.7 7.8,9 5,7.2 2.2,9 3,5.7 0.4,3.6 3.8,3.2" fill="#e3b341"/>
     <text x="15" y="4" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9">{e['stars']:,} stars</text>
   </g>
   
@@ -339,10 +339,9 @@ def generate_markdown(projects_data, base_dir):
     <td width="58%" valign="top">
       <h3><a href="{e['html_url']}">{e['name']}</a>{e['status_tag']}</h3>
       <p>{desc_limited}</p>
-      <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="140">
+      <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="120">
     </td>
     <td width="42%" valign="middle" align="center">
-      <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="180">
       <img src="{e['svg_asset']}" alt="{e['name']} stats" width="400">
     </td>
   </tr>
