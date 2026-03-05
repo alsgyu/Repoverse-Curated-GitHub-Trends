@@ -430,7 +430,7 @@
   <tr>
     <td width="58%" valign="top">
       <div style="line-height: 1.1;"><a href="https://github.com/OpenMind/OM1"><kbd><span style="font-size: 30px; font-weight: 800;">OM1</span></kbd></a></div>
-      <p style="line-height: 1.5;">Modular AI runtime for robots<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+      <p style="line-height: 1.5;">The open-source answer to autonomous general-purpose agents.<br>Raw, unbridled power for those who want to build the<br>everything agent.<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <img src="GitTrendHub/assets/OpenMind_OM1_llm_engines.svg" alt="OM1 stats" width="400">
@@ -472,7 +472,7 @@
   <tr>
     <td width="58%" valign="top">
       <div style="line-height: 1.1;"><a href="https://github.com/langchain-ai/langserve"><kbd><span style="font-size: 30px; font-weight: 800;">langserve</span></kbd></a></div>
-      <p style="line-height: 1.5;">LangServe 🦜️🏓<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Turn your LangChain logic into a production API before your<br>coffee gets cold. The bridge between it works on my machine<br>and it's live for the world.<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <img src="GitTrendHub/assets/langchain-ai_langserve_llm_engines.svg" alt="langserve stats" width="400">
@@ -500,7 +500,7 @@
   <tr>
     <td width="58%" valign="top">
       <div style="line-height: 1.1;"><a href="https://github.com/run-llama/llama_deploy"><kbd><span style="font-size: 30px; font-weight: 800;">llama_deploy</span></kbd></a></div>
-      <p style="line-height: 1.5;">Deploy your agentic worfklows to production<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+      <p style="line-height: 1.5;">Microservices for your LlamaIndex agents to live their best<br>lives. Scaling your LLM workflows from a single script to a<br>distributed powerhouse.<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <img src="GitTrendHub/assets/run-llama_llama_deploy_llm_engines.svg" alt="llama_deploy stats" width="400">
@@ -953,11 +953,11 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.1;"><a href="https://github.com/vercel-labs/agent-browser"><kbd><span style="font-size: 30px; font-weight: 800;">agent-browser</span></kbd></a></div>
-      <p style="line-height: 1.5;">Browser automation CLI for AI agents<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
+      <div style="line-height: 1.1;"><a href="https://github.com/ruvnet/ruflo"><kbd><span style="font-size: 30px; font-weight: 800;">ruflo</span></kbd></a></div>
+      <p style="line-height: 1.5;">🌊 The leading agent orchestration platform for Claude.<br>Deploy intelligent multi-agent swarms, coordinate autonomous<br>workflows, and build conversational AI systems. Features<br>e...</p>
     </td>
     <td width="42%" valign="middle" align="center">
-      <img src="GitTrendHub/assets/vercel-labs_agent-browser_agents.svg" alt="agent-browser stats" width="400">
+      <img src="GitTrendHub/assets/ruvnet_ruflo_agents.svg" alt="ruflo stats" width="400">
     </td>
   </tr>
 </table>
@@ -967,11 +967,11 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="line-height: 1.1;"><a href="https://github.com/ruvnet/ruflo"><kbd><span style="font-size: 30px; font-weight: 800;">ruflo</span></kbd></a></div>
-      <p style="line-height: 1.5;">🌊 The leading agent orchestration platform for Claude.<br>Deploy intelligent multi-agent swarms, coordinate autonomous<br>workflows, and build conversational AI systems. Features<br>e...</p>
+      <div style="line-height: 1.1;"><a href="https://github.com/vercel-labs/agent-browser"><kbd><span style="font-size: 30px; font-weight: 800;">agent-browser</span></kbd></a></div>
+      <p style="line-height: 1.5;">Giving your AI eyes and fingers to navigate the wild, open<br>web. Automating the internet one click at a time, no API<br>required.<br>&nbsp;</p>
     </td>
     <td width="42%" valign="middle" align="center">
-      <img src="GitTrendHub/assets/ruvnet_ruflo_agents.svg" alt="ruflo stats" width="400">
+      <img src="GitTrendHub/assets/vercel-labs_agent-browser_agents.svg" alt="agent-browser stats" width="400">
     </td>
   </tr>
 </table>
@@ -4166,5 +4166,5 @@ Stay ahead of the curve with these curated AI resources.
 Data is retrieved using the GitHub REST API and GitHub Actions.
 
 <div align="right">
-  <i>✨ Last Generated: March 05, 2026 - 12:50 UTC</i>
+  <i>✨ Last Generated: March 05, 2026 - 13:04 UTC</i>
 </div>

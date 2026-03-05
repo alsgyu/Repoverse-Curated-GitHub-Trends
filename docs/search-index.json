@@ -147,7 +147,7 @@
           "name": "OM1",
           "url_path": "OpenMind/OM1",
           "html_url": "https://github.com/OpenMind/OM1",
-          "description": "Modular AI runtime for robots"
+          "description": "The open-source answer to autonomous general-purpose agents. Raw, unbridled power for those who want to build the everything agent."
         },
         {
           "name": "TileRT",
@@ -231,7 +231,7 @@
           "name": "llama_deploy",
           "url_path": "run-llama/llama_deploy",
           "html_url": "https://github.com/run-llama/llama_deploy",
-          "description": "Deploy your agentic worfklows to production"
+          "description": "Microservices for your LlamaIndex agents to live their best lives. Scaling your LLM workflows from a single script to a distributed powerhouse."
         },
         {
           "name": "Model-Optimizer",
@@ -279,7 +279,7 @@
           "name": "langserve",
           "url_path": "langchain-ai/langserve",
           "html_url": "https://github.com/langchain-ai/langserve",
-          "description": "LangServe 🦜️🏓"
+          "description": "Turn your LangChain logic into a production API before your coffee gets cold. The bridge between it works on my machine and it's live for the world."
         },
         {
           "name": "TransformerEngine",
@@ -322,7 +322,7 @@
           "name": "agent-browser",
           "url_path": "vercel-labs/agent-browser",
           "html_url": "https://github.com/vercel-labs/agent-browser",
-          "description": "Browser automation CLI for AI agents"
+          "description": "Giving your AI eyes and fingers to navigate the wild, open web. Automating the internet one click at a time, no API required."
         },
         {
           "name": "Open-AutoGLM",
