@@ -35,7 +35,7 @@ def parse_stars(val):
     except:
         return 0
 
-def format_desc_fixed(desc, max_chars=180, line_len=60, min_lines=4):
+def format_desc_fixed(desc, max_chars=180, line_len=60, min_lines=4, max_lines=4):
     if not desc:
         desc = "No description provided"
     text = desc.replace("\n", " ").strip()
@@ -52,8 +52,11 @@ def format_desc_fixed(desc, max_chars=180, line_len=60, min_lines=4):
         else:
             chunks.append(current)
             current = w
-    if current:
+        if len(chunks) >= max_lines:
+            break
+    if current and len(chunks) < max_lines:
         chunks.append(current)
+    chunks = chunks[:max_lines]
     if len(chunks) < min_lines:
         chunks.extend(["&nbsp;"] * (min_lines - len(chunks)))
     return "<br>".join(chunks)
@@ -331,15 +334,14 @@ def generate_markdown(projects_data, base_dir):
         enriched_repos.sort(key=lambda x: x["stars"], reverse=True)
         
         for e in enriched_repos:
-            desc_limited = format_desc_fixed(e['description'], max_chars=180, line_len=60, min_lines=4)
+            desc_limited = format_desc_fixed(e['description'], max_chars=180, line_len=60, min_lines=4, max_lines=4)
             section_anchor = e["category_id"]
             card_html = f"""
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="58%" valign="top">
-      <div style="font-size: 20px; font-weight: 700;"><a href="{e['html_url']}"><kbd>{e['name']}</kbd></a>{e['status_tag']}</div>
-      <p>{desc_limited}</p>
-      <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="36">
+      <div style="font-size: 26px; font-weight: 800; line-height: 1.1;"><a href="{e['html_url']}"><kbd>{e['name']}</kbd></a>{e['status_tag']}</div>
+      <p style="line-height: 1.5;">{desc_limited}</p>
     </td>
     <td width="42%" valign="middle" align="center">
       <img src="{e['svg_asset']}" alt="{e['name']} stats" width="400">
