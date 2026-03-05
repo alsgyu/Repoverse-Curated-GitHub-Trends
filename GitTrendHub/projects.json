@@ -5,39 +5,39 @@
     "repos": [
       {
         "url_path": "vllm-project/vllm",
-        "last_stars": 72077,
+        "last_stars": 72118,
         "last_desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
         "last_lang": "Python",
-        "last_forks": 13976,
+        "last_forks": 13988,
         "manual_desc": "A high-throughput and memory-efficient inference and serving engine for LLMs"
       },
       {
         "url_path": "google/adk-python",
-        "last_stars": 18173,
+        "last_stars": 18176,
         "last_desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "last_lang": "Python",
-        "last_forks": 3009,
+        "last_forks": 3014,
         "manual_desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
       },
       {
         "url_path": "sgl-project/sglang",
-        "last_stars": 24111,
+        "last_stars": 24125,
         "last_desc": "SGLang is a high-performance serving framework for large language models and multimodal models.",
         "last_lang": "Python",
-        "last_forks": 4658,
+        "last_forks": 4667,
         "manual_desc": "SGLang is a high-performance serving framework for large language models and multimodal models."
       },
       {
         "url_path": "labring/FastGPT",
-        "last_stars": 27276,
+        "last_stars": 27282,
         "last_desc": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
         "last_lang": "TypeScript",
-        "last_forks": 6948,
+        "last_forks": 6946,
         "manual_desc": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration."
       },
       {
         "url_path": "google/adk-go",
-        "last_stars": 7077,
+        "last_stars": 7084,
         "last_desc": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "last_lang": "Go",
         "last_forks": 563,
@@ -45,7 +45,7 @@
       },
       {
         "url_path": "krillinai/KrillinAI",
-        "last_stars": 9672,
+        "last_stars": 9674,
         "last_desc": "Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube\uff0cTikTok.   AI\u89c6\u9891\u7ffb\u8bd1\u914d\u97f3\u5de5\u5177\uff0c100\u79cd\u8bed\u8a00\u53cc\u5411\u7ffb\u8bd1\uff0c\u4e00\u952e\u90e8\u7f72\u5168\u6d41\u7a0b\uff0c\u53ef\u4ee5\u751f\u6296\u97f3\uff0c\u5c0f\u7ea2\u4e66\uff0c\u54d4\u54e9\u54d4\u54e9\uff0c\u89c6\u9891\u53f7\uff0cTikTok\uff0cYoutube\u7b49\u5f62\u6001\u7684\u5185\u5bb9\u6210\u9002\u914d",
         "last_lang": "Go",
         "last_forks": 840,
@@ -53,15 +53,15 @@
       },
       {
         "url_path": "mlc-ai/mlc-llm",
-        "last_stars": 22116,
+        "last_stars": 22120,
         "last_desc": "Universal LLM Deployment Engine with ML Compilation",
         "last_lang": "Python",
-        "last_forks": 1948,
+        "last_forks": 1949,
         "manual_desc": "Universal LLM Deployment Engine with ML Compilation"
       },
       {
         "url_path": "osaurus-ai/osaurus",
-        "last_stars": 3948,
+        "last_stars": 3958,
         "last_desc": "AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.",
         "last_lang": "Swift",
         "last_forks": 163,
@@ -69,7 +69,7 @@
       },
       {
         "url_path": "NVIDIA/TensorRT-LLM",
-        "last_stars": 13004,
+        "last_stars": 13008,
         "last_desc": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
         "last_lang": "Python",
         "last_forks": 2144,
@@ -77,7 +77,7 @@
       },
       {
         "url_path": "NexaAI/nexa-sdk",
-        "last_stars": 7761,
+        "last_stars": 7763,
         "last_desc": "Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Supporting OpenAI GPT-OSS, IBM Granite-4, Qwen-3-VL, Gemma-3n, Ministral-3, and more.",
         "last_lang": "Kotlin",
         "last_forks": 955,
@@ -85,7 +85,7 @@
       },
       {
         "url_path": "oumi-ai/oumi",
-        "last_stars": 8901,
+        "last_stars": 8902,
         "last_desc": "Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!",
         "last_lang": "Python",
         "last_forks": 706,
@@ -93,18 +93,18 @@
       },
       {
         "url_path": "Lightning-AI/litgpt",
-        "last_stars": 13209,
+        "last_stars": 13210,
         "last_desc": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
         "last_lang": "Python",
-        "last_forks": 1405,
+        "last_forks": 1406,
         "manual_desc": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale."
       },
       {
         "url_path": "ray-project/ray",
-        "last_stars": 41594,
+        "last_stars": 41598,
         "last_desc": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
         "last_lang": "Python",
-        "last_forks": 7289,
+        "last_forks": 7291,
         "manual_desc": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
       },
       {
@@ -125,7 +125,7 @@
       },
       {
         "url_path": "Tiiny-AI/PowerInfer",
-        "last_stars": 8757,
+        "last_stars": 8759,
         "last_desc": "High-speed Large Language Model Serving for Local Deployment",
         "last_lang": "C++",
         "last_forks": 491,
@@ -133,7 +133,7 @@
       },
       {
         "url_path": "Intelligent-Internet/ii-agent",
-        "last_stars": 3170,
+        "last_stars": 3169,
         "last_desc": "II-Agent: a new open-source framework to build and deploy intelligent agents",
         "last_lang": "Python",
         "last_forks": 487,
@@ -149,7 +149,7 @@
       },
       {
         "url_path": "xorbitsai/inference",
-        "last_stars": 9095,
+        "last_stars": 9096,
         "last_desc": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop \u2014 all through one unified, production-ready inference API.",
         "last_lang": "Python",
         "last_forks": 799,
@@ -157,7 +157,7 @@
       },
       {
         "url_path": "Zipstack/unstract",
-        "last_stars": 6468,
+        "last_stars": 6469,
         "last_desc": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
         "last_lang": "Python",
         "last_forks": 614,
@@ -165,7 +165,7 @@
       },
       {
         "url_path": "InternLM/lmdeploy",
-        "last_stars": 7651,
+        "last_stars": 7653,
         "last_desc": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.",
         "last_lang": "Python",
         "last_forks": 659,
@@ -173,15 +173,15 @@
       },
       {
         "url_path": "PacktPublishing/LLM-Engineers-Handbook",
-        "last_stars": 4805,
+        "last_stars": 4806,
         "last_desc": "The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices",
         "last_lang": "Python",
-        "last_forks": 1148,
+        "last_forks": 1149,
         "manual_desc": "The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices"
       },
       {
         "url_path": "GradientHQ/parallax",
-        "last_stars": 1143,
+        "last_stars": 1144,
         "last_desc": "Parallax is a distributed model serving framework that lets you build your own AI cluster anywhere",
         "last_lang": "Python",
         "last_forks": 115,
@@ -189,7 +189,7 @@
       },
       {
         "url_path": "OpenMind/OM1",
-        "last_stars": 2667,
+        "last_stars": 2670,
         "last_desc": "The open-source answer to autonomous general-purpose agents. Raw, unbridled power for those who want to build the everything agent.",
         "last_lang": "Python",
         "last_forks": 962,
@@ -205,15 +205,15 @@
       },
       {
         "url_path": "waybarrios/vllm-mlx",
-        "last_stars": 497,
+        "last_stars": 503,
         "last_desc": "OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok/s. Works with Claude Code.",
         "last_lang": "Python",
-        "last_forks": 67,
+        "last_forks": 69,
         "manual_desc": "OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok/s. Works with Claude Code."
       },
       {
         "url_path": "SmythOS/sre",
-        "last_stars": 1233,
+        "last_stars": 1234,
         "last_desc": "The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across local, cloud, and edge environments.",
         "last_lang": "TypeScript",
         "last_forks": 185,
@@ -221,18 +221,18 @@
       },
       {
         "url_path": "vllm-project/llm-compressor",
-        "last_stars": 2813,
+        "last_stars": 2816,
         "last_desc": "Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM",
         "last_lang": "Python",
-        "last_forks": 419,
+        "last_forks": 420,
         "manual_desc": "Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM"
       },
       {
         "url_path": "containers/ramalama",
-        "last_stars": 2626,
+        "last_stars": 2627,
         "last_desc": "RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers.",
         "last_lang": "Python",
-        "last_forks": 305,
+        "last_forks": 306,
         "manual_desc": "RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers."
       },
       {
@@ -253,15 +253,15 @@
       },
       {
         "url_path": "Netflix/metaflow",
-        "last_stars": 9902,
+        "last_stars": 9905,
         "last_desc": "Netflix-grade infrastructure for humans who just want to code. Scale your ML from a laptop to the cloud without losing your mind or your data.",
         "last_lang": "Python",
-        "last_forks": 1115,
+        "last_forks": 1116,
         "manual_desc": "Netflix-grade infrastructure for humans who just want to code. Scale your ML from a laptop to the cloud without losing your mind or your data."
       },
       {
         "url_path": "google/adk-js",
-        "last_stars": 864,
+        "last_stars": 867,
         "last_desc": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "last_lang": "TypeScript",
         "last_forks": 102,
@@ -269,7 +269,7 @@
       },
       {
         "url_path": "nottelabs/notte",
-        "last_stars": 1895,
+        "last_stars": 1899,
         "last_desc": "\ud83c\udf38 Best framework to build web agents, and deploy serverless web automation functions on reliable browser infra.",
         "last_lang": "Python",
         "last_forks": 170,
@@ -277,7 +277,7 @@
       },
       {
         "url_path": "ModelTC/LightLLM",
-        "last_stars": 3926,
+        "last_stars": 3927,
         "last_desc": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
         "last_lang": "Python",
         "last_forks": 304,
@@ -309,7 +309,7 @@
       },
       {
         "url_path": "NVIDIA/Model-Optimizer",
-        "last_stars": 2103,
+        "last_stars": 2106,
         "last_desc": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
         "last_lang": "Python",
         "last_forks": 285,
@@ -317,7 +317,7 @@
       },
       {
         "url_path": "michaelfeil/infinity",
-        "last_stars": 2696,
+        "last_stars": 2697,
         "last_desc": "Infinity is a high-throughput, low-latency serving engine for text-embeddings, reranking models, clip, clap and colpali",
         "last_lang": "Python",
         "last_forks": 181,
@@ -328,12 +328,12 @@
         "last_stars": 3657,
         "last_desc": "High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle",
         "last_lang": "Python",
-        "last_forks": 711,
+        "last_forks": 712,
         "manual_desc": "High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle"
       },
       {
         "url_path": "BlackSnufkin/LitterBox",
-        "last_stars": 1316,
+        "last_stars": 1317,
         "last_desc": "A secure sandbox environment for malware developers and red teamers to test payloads against detection mechanisms before deployment. Integrates with LLM agents via MCP for enhanced analysis capabilities.",
         "last_lang": "YARA",
         "last_forks": 148,
@@ -349,7 +349,7 @@
       },
       {
         "url_path": "sgl-project/SpecForge",
-        "last_stars": 719,
+        "last_stars": 721,
         "last_desc": "Train speculative decoding models effortlessly and port them smoothly to SGLang serving.",
         "last_lang": "Python",
         "last_forks": 168,
@@ -365,7 +365,7 @@
       },
       {
         "url_path": "langchain-ai/langserve",
-        "last_stars": 2279,
+        "last_stars": 2278,
         "last_desc": "Turn your LangChain logic into a production API before your coffee gets cold. The bridge between it works on my machine and it's live for the world.",
         "last_lang": "JavaScript",
         "last_forks": 264,
@@ -389,7 +389,7 @@
       },
       {
         "url_path": "kossakovsky/n8n-install",
-        "last_stars": 744,
+        "last_stars": 745,
         "last_desc": "\ud83d\ude80 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTPS. Free Zapier/Make alternative.",
         "last_lang": "Shell",
         "last_forks": 200,
@@ -397,7 +397,7 @@
       },
       {
         "url_path": "Haohao-end/LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents",
-        "last_stars": 617,
+        "last_stars": 621,
         "last_desc": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.",
         "last_lang": "Python",
         "last_forks": 63,
@@ -411,82 +411,82 @@
     "repos": [
       {
         "url_path": "zeroclaw-labs/zeroclaw",
-        "last_stars": 22353,
+        "last_stars": 23500,
         "last_desc": "Fast, small, and fully autonomous AI assistant infrastructure \u2014 deploy anywhere, swap anything \ud83e\udd80",
         "last_lang": "Rust",
-        "last_forks": 2961,
+        "last_forks": 2978,
         "manual_desc": "Fast, small, and fully autonomous AI assistant infrastructure \u2014 deploy anywhere, swap anything \ud83e\udd80"
       },
       {
         "url_path": "vercel-labs/agent-browser",
-        "last_stars": 18856,
+        "last_stars": 19014,
         "last_desc": "Giving your AI eyes and fingers to navigate the wild, open web. Automating the internet one click at a time, no API required.",
         "last_lang": "Rust",
-        "last_forks": 1104,
+        "last_forks": 1112,
         "manual_desc": "Giving your AI eyes and fingers to navigate the wild, open web. Automating the internet one click at a time, no API required."
       },
       {
         "url_path": "zai-org/Open-AutoGLM",
-        "last_stars": 23996,
+        "last_stars": 24026,
         "last_desc": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
         "last_lang": "Python",
-        "last_forks": 3798,
+        "last_forks": 3804,
         "manual_desc": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone"
       },
       {
         "url_path": "snarktank/ralph",
-        "last_stars": 12055,
+        "last_stars": 12112,
         "last_desc": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. ",
         "last_lang": "TypeScript",
-        "last_forks": 1305,
+        "last_forks": 1307,
         "manual_desc": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. "
       },
       {
         "url_path": "Yeachan-Heo/oh-my-claudecode",
-        "last_stars": 8443,
+        "last_stars": 8492,
         "last_desc": "Teams-first Multi-agent orchestration for Claude Code",
         "last_lang": "TypeScript",
-        "last_forks": 588,
+        "last_forks": 590,
         "manual_desc": "Teams-first Multi-agent orchestration for Claude Code"
       },
       {
         "url_path": "wshobson/agents",
-        "last_stars": 30271,
+        "last_stars": 30315,
         "last_desc": "Intelligent automation and multi-agent orchestration for Claude Code",
         "last_lang": "Python",
-        "last_forks": 3314,
+        "last_forks": 3318,
         "manual_desc": "Intelligent automation and multi-agent orchestration for Claude Code"
       },
       {
         "url_path": "virattt/dexter",
-        "last_stars": 17104,
+        "last_stars": 17139,
         "last_desc": "An autonomous agent for deep financial research",
         "last_lang": "TypeScript",
-        "last_forks": 2088,
+        "last_forks": 2091,
         "manual_desc": "An autonomous agent for deep financial research"
       },
       {
         "url_path": "ComposioHQ/agent-orchestrator",
-        "last_stars": 3664,
+        "last_stars": 3725,
         "last_desc": " Agentic orchestrator for parallel coding agents \u2014 plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.",
         "last_lang": "TypeScript",
-        "last_forks": 413,
+        "last_forks": 425,
         "manual_desc": " Agentic orchestrator for parallel coding agents \u2014 plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews."
       },
       {
         "url_path": "langchain-ai/langchain",
-        "last_stars": 128316,
-        "last_desc": "The agent engineering platform",
+        "last_stars": 128354,
+        "last_desc": "The original Swiss Army Knife that turned every developer into an AI engineer overnight. With more integrations than your favorite app store, if it has an API, we\u2019ve already wrapped it for you.",
         "last_lang": "Python",
-        "last_forks": 21073,
-        "manual_desc": "The agent engineering platform"
+        "last_forks": 21081,
+        "manual_desc": "The original Swiss Army Knife that turned every developer into an AI engineer overnight. With more integrations than your favorite app store, if it has an API, we\u2019ve already wrapped it for you."
       },
       {
         "url_path": "cline/cline",
-        "last_stars": 58640,
+        "last_stars": 58656,
         "last_desc": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
         "last_lang": "TypeScript",
-        "last_forks": 5897,
+        "last_forks": 5898,
         "manual_desc": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way."
       },
       {
@@ -1814,10 +1814,10 @@
       {
         "url_path": "langchain-ai/langchain",
         "last_stars": 128281,
-        "last_desc": "The agent engineering platform",
+        "last_desc": "The original Swiss Army Knife that turned every developer into an AI engineer overnight. With more integrations than your favorite app store, if it has an API, we\u2019ve already wrapped it for you.",
         "last_lang": "Python",
         "last_forks": 21065,
-        "manual_desc": "The agent engineering platform"
+        "manual_desc": "The original Swiss Army Knife that turned every developer into an AI engineer overnight. With more integrations than your favorite app store, if it has an API, we\u2019ve already wrapped it for you."
       },
       {
         "url_path": "TauricResearch/TradingAgents",

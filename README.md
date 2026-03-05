@@ -26,9 +26,11 @@
 | 5 | [🧠 Research & Core Frameworks](#frameworks) | 70 | ML/NLP frameworks, agent platforms, research-grade core libraries |
 
 **Other Sections**
-- 6. [🤝 Community & Participation](#how-to-contribute) — How to contribute, PR guide, community
-- 7. [🌐 AI Resource Navigator](#ai-resource-navigator) — Curated links: trends, news, tool discovery
-- 8. [📝 Data Summary](#data-summary) — Data source and last generated timestamp
+- [🤝 Community & Participation](#how-to-contribute) — How to contribute, PR guide, community
+- [🌐 AI Resource Navigator](#ai-resource-navigator) — Curated links: trends, news, tool discovery
+- [📝 Data Summary](#data-summary) — Data source and last generated timestamp
+
+---
 
 <h2 id='llm_engines'>🤖 LLM Engines & Platforms</h2>
 <p><img src="GitTrendHub/assets/section_bar_llm_engines.png" alt="" width="24" height="6"> Section color</p>
