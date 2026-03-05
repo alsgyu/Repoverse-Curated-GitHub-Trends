@@ -273,6 +273,9 @@ def generate_markdown(projects_data, base_dir):
         key: accent_palette[idx % len(accent_palette)]
         for idx, key in enumerate(category_keys)
     }
+    # Custom accent for LLM Engines & Platforms
+    if "llm_engines" in accent_by_category:
+        accent_by_category["llm_engines"] = "#b5a7ff"  # soft lavender
 
     # Build repo -> accents map to handle repos listed in multiple sections
     repo_accents = {}

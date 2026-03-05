@@ -38,7 +38,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/vllm-project/vllm"><img src="GitTrendHub/assets/title_badges/title_vllm-project_vllm_llm_engines_878194b0.svg" alt="vllm" height="38"></a>
+        <a href="https://github.com/vllm-project/vllm"><img src="GitTrendHub/assets/title_badges/title_vllm-project_vllm_llm_engines_943a1e55.svg" alt="vllm" height="38"></a>
       </div>
       <p style="line-height: 1.5;">A high-throughput and memory-efficient inference and serving<br>engine for LLMs<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -59,7 +59,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/ray-project/ray"><img src="GitTrendHub/assets/title_badges/title_ray-project_ray_llm_engines_9f5da796.svg" alt="ray" height="38"></a>
+        <a href="https://github.com/ray-project/ray"><img src="GitTrendHub/assets/title_badges/title_ray-project_ray_llm_engines_e894af37.svg" alt="ray" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Ray is an AI compute engine. Ray consists of a core<br>distributed runtime and a set of AI Libraries for<br>accelerating ML workloads.<br>&nbsp;</p>
     </td>
@@ -80,7 +80,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/labring/FastGPT"><img src="GitTrendHub/assets/title_badges/title_labring_FastGPT_llm_engines_60b4f785.svg" alt="FastGPT" height="38"></a>
+        <a href="https://github.com/labring/FastGPT"><img src="GitTrendHub/assets/title_badges/title_labring_FastGPT_llm_engines_712cb738.svg" alt="FastGPT" height="38"></a>
       </div>
       <p style="line-height: 1.5;">FastGPT is a knowledge-based platform built on the LLMs,<br>offers a comprehensive suite of out-of-the-box capabilities<br>such as data processing, RAG retrieval, and visual AI<br>workfl...</p>
     </td>
@@ -101,7 +101,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/sgl-project/sglang"><img src="GitTrendHub/assets/title_badges/title_sgl-project_sglang_llm_engines_af498b71.svg" alt="sglang" height="38"></a>
+        <a href="https://github.com/sgl-project/sglang"><img src="GitTrendHub/assets/title_badges/title_sgl-project_sglang_llm_engines_81f70426.svg" alt="sglang" height="38"></a>
       </div>
       <p style="line-height: 1.5;">SGLang is a high-performance serving framework for large<br>language models and multimodal models.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -122,7 +122,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/mlc-ai/mlc-llm"><img src="GitTrendHub/assets/title_badges/title_mlc-ai_mlc-llm_llm_engines_52e2855b.svg" alt="mlc-llm" height="38"></a>
+        <a href="https://github.com/mlc-ai/mlc-llm"><img src="GitTrendHub/assets/title_badges/title_mlc-ai_mlc-llm_llm_engines_6374f208.svg" alt="mlc-llm" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Universal LLM Deployment Engine with ML Compilation<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -143,7 +143,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/google/adk-python"><img src="GitTrendHub/assets/title_badges/title_google_adk-python_llm_engines_db8d293e.svg" alt="adk-python" height="38"></a>
+        <a href="https://github.com/google/adk-python"><img src="GitTrendHub/assets/title_badges/title_google_adk-python_llm_engines_63069685.svg" alt="adk-python" height="38"></a>
       </div>
       <p style="line-height: 1.5;">An open-source, code-first Python toolkit for building,<br>evaluating, and deploying sophisticated AI agents with<br>flexibility and control.<br>&nbsp;</p>
     </td>
@@ -164,7 +164,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/botpress/botpress"><img src="GitTrendHub/assets/title_badges/title_botpress_botpress_llm_engines_6b3c8eda.svg" alt="botpress" height="38"></a>
+        <a href="https://github.com/botpress/botpress"><img src="GitTrendHub/assets/title_badges/title_botpress_botpress_llm_engines_2de48f1b.svg" alt="botpress" height="38"></a>
       </div>
       <p style="line-height: 1.5;">The open-source hub to build & deploy GPT/LLM Agents ⚡️<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -185,7 +185,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/Lightning-AI/litgpt"><img src="GitTrendHub/assets/title_badges/title_Lightning-AI_litgpt_llm_engines_b65bfc63.svg" alt="litgpt" height="38"></a>
+        <a href="https://github.com/Lightning-AI/litgpt"><img src="GitTrendHub/assets/title_badges/title_Lightning-AI_litgpt_llm_engines_bcd11b9f.svg" alt="litgpt" height="38"></a>
       </div>
       <p style="line-height: 1.5;">20+ high-performance LLMs with recipes to pretrain, finetune<br>and deploy at scale.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -206,7 +206,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/NVIDIA/TensorRT-LLM"><img src="GitTrendHub/assets/title_badges/title_NVIDIA_TensorRT-LLM_llm_engines_08a7ea00.svg" alt="TensorRT-LLM" height="38"></a>
+        <a href="https://github.com/NVIDIA/TensorRT-LLM"><img src="GitTrendHub/assets/title_badges/title_NVIDIA_TensorRT-LLM_llm_engines_7f78a6a5.svg" alt="TensorRT-LLM" height="38"></a>
       </div>
       <p style="line-height: 1.5;">TensorRT LLM provides users with an easy-to-use Python API<br>to define Large Language Models (LLMs) and supports<br>state-of-the-art optimizations to perform inference<br>efficiently on...</p>
     </td>
@@ -227,7 +227,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/microsoft/promptflow"><img src="GitTrendHub/assets/title_badges/title_microsoft_promptflow_llm_engines_67ff19ef.svg" alt="promptflow" height="38"></a>
+        <a href="https://github.com/microsoft/promptflow"><img src="GitTrendHub/assets/title_badges/title_microsoft_promptflow_llm_engines_8fdb233f.svg" alt="promptflow" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Build high-quality LLM apps - from prototyping, testing to<br>production deployment and monitoring.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -248,7 +248,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/Netflix/metaflow"><img src="GitTrendHub/assets/title_badges/title_Netflix_metaflow_llm_engines_d567f732.svg" alt="metaflow" height="38"></a>
+        <a href="https://github.com/Netflix/metaflow"><img src="GitTrendHub/assets/title_badges/title_Netflix_metaflow_llm_engines_f67cfa44.svg" alt="metaflow" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Netflix-grade infrastructure for humans who just want to<br>code. Scale your ML from a laptop to the cloud without<br>losing your mind or your data.<br>&nbsp;</p>
     </td>
@@ -269,7 +269,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/krillinai/KrillinAI"><img src="GitTrendHub/assets/title_badges/title_krillinai_KrillinAI_llm_engines_097edb1e.svg" alt="KrillinAI" height="38"></a>
+        <a href="https://github.com/krillinai/KrillinAI"><img src="GitTrendHub/assets/title_badges/title_krillinai_KrillinAI_llm_engines_4371ab93.svg" alt="KrillinAI" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Video translation and dubbing tool powered by LLMs. The<br>video translator offers 100 language translations and<br>one-click full-process deployment. The video translation<br>output is...</p>
     </td>
@@ -290,7 +290,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/xorbitsai/inference"><img src="GitTrendHub/assets/title_badges/title_xorbitsai_inference_llm_engines_7d83fecb.svg" alt="inference" height="38"></a>
+        <a href="https://github.com/xorbitsai/inference"><img src="GitTrendHub/assets/title_badges/title_xorbitsai_inference_llm_engines_21f586ca.svg" alt="inference" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Swap GPT for any LLM by changing a single line of code.<br>Xinference lets you run open-source, speech, and multimodal<br>models on cloud, on-prem, or your laptop — all through one<br>un...</p>
     </td>
@@ -311,7 +311,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/oumi-ai/oumi"><img src="GitTrendHub/assets/title_badges/title_oumi-ai_oumi_llm_engines_c3b10276.svg" alt="oumi" height="38"></a>
+        <a href="https://github.com/oumi-ai/oumi"><img src="GitTrendHub/assets/title_badges/title_oumi-ai_oumi_llm_engines_064349a9.svg" alt="oumi" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Easily fine-tune, evaluate and deploy gpt-oss, Qwen3,<br>DeepSeek-R1, or any open source LLM / VLM!<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -332,7 +332,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/Tiiny-AI/PowerInfer"><img src="GitTrendHub/assets/title_badges/title_Tiiny-AI_PowerInfer_llm_engines_0c17ad8b.svg" alt="PowerInfer" height="38"></a>
+        <a href="https://github.com/Tiiny-AI/PowerInfer"><img src="GitTrendHub/assets/title_badges/title_Tiiny-AI_PowerInfer_llm_engines_7d814e95.svg" alt="PowerInfer" height="38"></a>
       </div>
       <p style="line-height: 1.5;">High-speed Large Language Model Serving for Local Deployment<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -353,7 +353,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/NexaAI/nexa-sdk"><img src="GitTrendHub/assets/title_badges/title_NexaAI_nexa-sdk_llm_engines_bb85dc70.svg" alt="nexa-sdk" height="38"></a>
+        <a href="https://github.com/NexaAI/nexa-sdk"><img src="GitTrendHub/assets/title_badges/title_NexaAI_nexa-sdk_llm_engines_a7184671.svg" alt="nexa-sdk" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Run frontier LLMs and VLMs with day-0 model support across<br>GPU, NPU, and CPU, with comprehensive runtime coverage for<br>PC (Python/C++), mobile (Android & iOS), and Linux/IoT<br>(Arm...</p>
     </td>
@@ -374,7 +374,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/InternLM/lmdeploy"><img src="GitTrendHub/assets/title_badges/title_InternLM_lmdeploy_llm_engines_d060ab22.svg" alt="lmdeploy" height="38"></a>
+        <a href="https://github.com/InternLM/lmdeploy"><img src="GitTrendHub/assets/title_badges/title_InternLM_lmdeploy_llm_engines_f786ef2a.svg" alt="lmdeploy" height="38"></a>
       </div>
       <p style="line-height: 1.5;">LMDeploy is a toolkit for compressing, deploying, and<br>serving LLMs.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -395,7 +395,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/google/adk-go"><img src="GitTrendHub/assets/title_badges/title_google_adk-go_llm_engines_51fdbdbc.svg" alt="adk-go" height="38"></a>
+        <a href="https://github.com/google/adk-go"><img src="GitTrendHub/assets/title_badges/title_google_adk-go_llm_engines_9176a41b.svg" alt="adk-go" height="38"></a>
       </div>
       <p style="line-height: 1.5;">An open-source, code-first Go toolkit for building,<br>evaluating, and deploying sophisticated AI agents with<br>flexibility and control.<br>&nbsp;</p>
     </td>
@@ -416,7 +416,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/julep-ai/julep"><img src="GitTrendHub/assets/title_badges/title_julep-ai_julep_llm_engines_3e825c3e.svg" alt="julep" height="38"></a>
+        <a href="https://github.com/julep-ai/julep"><img src="GitTrendHub/assets/title_badges/title_julep-ai_julep_llm_engines_e4f831c9.svg" alt="julep" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Deploy serverless AI workflows at scale. Firebase for AI<br>agents<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -437,7 +437,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/Zipstack/unstract"><img src="GitTrendHub/assets/title_badges/title_Zipstack_unstract_llm_engines_abd4dd81.svg" alt="unstract" height="38"></a>
+        <a href="https://github.com/Zipstack/unstract"><img src="GitTrendHub/assets/title_badges/title_Zipstack_unstract_llm_engines_d0d97b01.svg" alt="unstract" height="38"></a>
       </div>
       <p style="line-height: 1.5;">LLM-Driven Extraction of Unstructured Data — Built for API<br>Deployments & ETL Pipeline Workflows<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -458,7 +458,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/PacktPublishing/LLM-Engineers-Handbook"><img src="GitTrendHub/assets/title_badges/title_PacktPublishing_LLM-Engineers-Handbook_llm_engines_ee71905b.svg" alt="LLM-Engineers-Handbook" height="38"></a>
+        <a href="https://github.com/PacktPublishing/LLM-Engineers-Handbook"><img src="GitTrendHub/assets/title_badges/title_PacktPublishing_LLM-Engineers-Handbook_llm_engines_e62d5521.svg" alt="LLM-Engineers-Handbook" height="38"></a>
       </div>
       <p style="line-height: 1.5;">The LLM's practical guide: From the fundamentals to<br>deploying advanced LLM and RAG apps to AWS using LLMOps best<br>practices<br>&nbsp;</p>
     </td>
@@ -479,7 +479,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/osaurus-ai/osaurus"><img src="GitTrendHub/assets/title_badges/title_osaurus-ai_osaurus_llm_engines_78c4b8b8.svg" alt="osaurus" height="38"></a>
+        <a href="https://github.com/osaurus-ai/osaurus"><img src="GitTrendHub/assets/title_badges/title_osaurus-ai_osaurus_llm_engines_344b9e08.svg" alt="osaurus" height="38"></a>
       </div>
       <p style="line-height: 1.5;">AI edge infrastructure for macOS. Run local or cloud models,<br>share tools across apps via MCP, and power AI workflows with<br>a native, always-on runtime.<br>&nbsp;</p>
     </td>
@@ -500,7 +500,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/ModelTC/LightLLM"><img src="GitTrendHub/assets/title_badges/title_ModelTC_LightLLM_llm_engines_6bee02a7.svg" alt="LightLLM" height="38"></a>
+        <a href="https://github.com/ModelTC/LightLLM"><img src="GitTrendHub/assets/title_badges/title_ModelTC_LightLLM_llm_engines_5f5211d8.svg" alt="LightLLM" height="38"></a>
       </div>
       <p style="line-height: 1.5;">LightLLM is a Python-based LLM (Large Language Model)<br>inference and serving framework, notable for its lightweight<br>design, easy scalability, and high-speed performance.<br>&nbsp;</p>
     </td>
@@ -521,7 +521,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/PaddlePaddle/FastDeploy"><img src="GitTrendHub/assets/title_badges/title_PaddlePaddle_FastDeploy_llm_engines_3c0eb655.svg" alt="FastDeploy" height="38"></a>
+        <a href="https://github.com/PaddlePaddle/FastDeploy"><img src="GitTrendHub/assets/title_badges/title_PaddlePaddle_FastDeploy_llm_engines_610257e2.svg" alt="FastDeploy" height="38"></a>
       </div>
       <p style="line-height: 1.5;">High-performance Inference and Deployment Toolkit for LLMs<br>and VLMs based on PaddlePaddle<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -542,7 +542,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/NVIDIA/TransformerEngine"><img src="GitTrendHub/assets/title_badges/title_NVIDIA_TransformerEngine_llm_engines_ccf7943c.svg" alt="TransformerEngine" height="38"></a>
+        <a href="https://github.com/NVIDIA/TransformerEngine"><img src="GitTrendHub/assets/title_badges/title_NVIDIA_TransformerEngine_llm_engines_af555ef5.svg" alt="TransformerEngine" height="38"></a>
       </div>
       <p style="line-height: 1.5;">A library for accelerating Transformer models on NVIDIA<br>GPUs, including using 8-bit and 4-bit floating point (FP8<br>and FP4) precision on Hopper, Ada and Blackwell GPUs, to<br>provid...</p>
     </td>
@@ -563,7 +563,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/Intelligent-Internet/ii-agent"><img src="GitTrendHub/assets/title_badges/title_Intelligent-Internet_ii-agent_llm_engines_e044e7ee.svg" alt="ii-agent" height="38"></a>
+        <a href="https://github.com/Intelligent-Internet/ii-agent"><img src="GitTrendHub/assets/title_badges/title_Intelligent-Internet_ii-agent_llm_engines_1607028d.svg" alt="ii-agent" height="38"></a>
       </div>
       <p style="line-height: 1.5;">II-Agent: a new open-source framework to build and deploy<br>intelligent agents<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -584,7 +584,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/vllm-project/llm-compressor"><img src="GitTrendHub/assets/title_badges/title_vllm-project_llm-compressor_llm_engines_f362b139.svg" alt="llm-compressor" height="38"></a>
+        <a href="https://github.com/vllm-project/llm-compressor"><img src="GitTrendHub/assets/title_badges/title_vllm-project_llm-compressor_llm_engines_c384935e.svg" alt="llm-compressor" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Transformers-compatible library for applying various<br>compression algorithms to LLMs for optimized deployment with<br>vLLM<br>&nbsp;</p>
     </td>
@@ -605,7 +605,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/michaelfeil/infinity"><img src="GitTrendHub/assets/title_badges/title_michaelfeil_infinity_llm_engines_134cd641.svg" alt="infinity" height="38"></a>
+        <a href="https://github.com/michaelfeil/infinity"><img src="GitTrendHub/assets/title_badges/title_michaelfeil_infinity_llm_engines_b0c3d640.svg" alt="infinity" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Infinity is a high-throughput, low-latency serving engine<br>for text-embeddings, reranking models, clip, clap and<br>colpali<br>&nbsp;</p>
     </td>
@@ -626,7 +626,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/OpenMind/OM1"><img src="GitTrendHub/assets/title_badges/title_OpenMind_OM1_llm_engines_22b17fb1.svg" alt="OM1" height="38"></a>
+        <a href="https://github.com/OpenMind/OM1"><img src="GitTrendHub/assets/title_badges/title_OpenMind_OM1_llm_engines_5dd1bf30.svg" alt="OM1" height="38"></a>
       </div>
       <p style="line-height: 1.5;">The open-source answer to autonomous general-purpose agents.<br>Raw, unbridled power for those who want to build the<br>everything agent.<br>&nbsp;</p>
     </td>
@@ -647,7 +647,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/containers/ramalama"><img src="GitTrendHub/assets/title_badges/title_containers_ramalama_llm_engines_b2f7905f.svg" alt="ramalama" height="38"></a>
+        <a href="https://github.com/containers/ramalama"><img src="GitTrendHub/assets/title_badges/title_containers_ramalama_llm_engines_79ee1db2.svg" alt="ramalama" height="38"></a>
       </div>
       <p style="line-height: 1.5;">RamaLama is an open-source developer tool that simplifies<br>the local serving of AI models from any source and<br>facilitates their use for inference in production, all<br>through the f...</p>
     </td>
@@ -668,7 +668,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/xdit-project/xDiT"><img src="GitTrendHub/assets/title_badges/title_xdit-project_xDiT_llm_engines_07cfd4c6.svg" alt="xDiT" height="38"></a>
+        <a href="https://github.com/xdit-project/xDiT"><img src="GitTrendHub/assets/title_badges/title_xdit-project_xDiT_llm_engines_9058dd7e.svg" alt="xDiT" height="38"></a>
       </div>
       <p style="line-height: 1.5;">xDiT: A Scalable Inference Engine for Diffusion Transformers<br>(DiTs) with Massive Parallelism<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -689,7 +689,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/langchain-ai/langserve"><img src="GitTrendHub/assets/title_badges/title_langchain-ai_langserve_llm_engines_6bf84488.svg" alt="langserve" height="38"></a>
+        <a href="https://github.com/langchain-ai/langserve"><img src="GitTrendHub/assets/title_badges/title_langchain-ai_langserve_llm_engines_b1774ef7.svg" alt="langserve" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Turn your LangChain logic into a production API before your<br>coffee gets cold. The bridge between it works on my machine<br>and it's live for the world.<br>&nbsp;</p>
     </td>
@@ -710,7 +710,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/NVIDIA/Model-Optimizer"><img src="GitTrendHub/assets/title_badges/title_NVIDIA_Model-Optimizer_llm_engines_74401f94.svg" alt="Model-Optimizer" height="38"></a>
+        <a href="https://github.com/NVIDIA/Model-Optimizer"><img src="GitTrendHub/assets/title_badges/title_NVIDIA_Model-Optimizer_llm_engines_b0a5dce3.svg" alt="Model-Optimizer" height="38"></a>
       </div>
       <p style="line-height: 1.5;">A unified library of SOTA model optimization techniques like<br>quantization, pruning, distillation, speculative decoding,<br>etc. It compresses deep learning models for downstream de...<br>&nbsp;</p>
     </td>
@@ -731,7 +731,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/run-llama/llama_deploy"><img src="GitTrendHub/assets/title_badges/title_run-llama_llama_deploy_llm_engines_c8f5b398.svg" alt="llama_deploy" height="38"></a>
+        <a href="https://github.com/run-llama/llama_deploy"><img src="GitTrendHub/assets/title_badges/title_run-llama_llama_deploy_llm_engines_4ba5bbe1.svg" alt="llama_deploy" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Microservices for your LlamaIndex agents to live their best<br>lives. Scaling your LLM workflows from a single script to a<br>distributed powerhouse.<br>&nbsp;</p>
     </td>
@@ -752,7 +752,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/nottelabs/notte"><img src="GitTrendHub/assets/title_badges/title_nottelabs_notte_llm_engines_006e9595.svg" alt="notte" height="38"></a>
+        <a href="https://github.com/nottelabs/notte"><img src="GitTrendHub/assets/title_badges/title_nottelabs_notte_llm_engines_7b02bc3d.svg" alt="notte" height="38"></a>
       </div>
       <p style="line-height: 1.5;">🌸 Best framework to build web agents, and deploy serverless<br>web automation functions on reliable browser infra.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -773,7 +773,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/google/adk-java"><img src="GitTrendHub/assets/title_badges/title_google_adk-java_llm_engines_055e607a.svg" alt="adk-java" height="38"></a>
+        <a href="https://github.com/google/adk-java"><img src="GitTrendHub/assets/title_badges/title_google_adk-java_llm_engines_90809f77.svg" alt="adk-java" height="38"></a>
       </div>
       <p style="line-height: 1.5;">An open-source, code-first Java toolkit for building,<br>evaluating, and deploying sophisticated AI agents with<br>flexibility and control.<br>&nbsp;</p>
     </td>
@@ -794,7 +794,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/BlackSnufkin/LitterBox"><img src="GitTrendHub/assets/title_badges/title_BlackSnufkin_LitterBox_llm_engines_d3fba56a.svg" alt="LitterBox" height="38"></a>
+        <a href="https://github.com/BlackSnufkin/LitterBox"><img src="GitTrendHub/assets/title_badges/title_BlackSnufkin_LitterBox_llm_engines_1475cccd.svg" alt="LitterBox" height="38"></a>
       </div>
       <p style="line-height: 1.5;">A secure sandbox environment for malware developers and red<br>teamers to test payloads against detection mechanisms before<br>deployment. Integrates with LLM agents via MCP for enhan...<br>&nbsp;</p>
     </td>
@@ -815,7 +815,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/SmythOS/sre"><img src="GitTrendHub/assets/title_badges/title_SmythOS_sre_llm_engines_18404291.svg" alt="sre" height="38"></a>
+        <a href="https://github.com/SmythOS/sre"><img src="GitTrendHub/assets/title_badges/title_SmythOS_sre_llm_engines_ed2dc644.svg" alt="sre" height="38"></a>
       </div>
       <p style="line-height: 1.5;">The SmythOS Runtime Environment (SRE) is an open-source,<br>cloud-native runtime for agentic AI. Secure, modular, and<br>production-ready, it lets developers build, run, and manage<br>in...</p>
     </td>
@@ -836,7 +836,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/GradientHQ/parallax"><img src="GitTrendHub/assets/title_badges/title_GradientHQ_parallax_llm_engines_1692401e.svg" alt="parallax" height="38"></a>
+        <a href="https://github.com/GradientHQ/parallax"><img src="GitTrendHub/assets/title_badges/title_GradientHQ_parallax_llm_engines_cc8b37b6.svg" alt="parallax" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Parallax is a distributed model serving framework that lets<br>you build your own AI cluster anywhere<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -857,7 +857,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/google/adk-js"><img src="GitTrendHub/assets/title_badges/title_google_adk-js_llm_engines_a8a181fc.svg" alt="adk-js" height="38"></a>
+        <a href="https://github.com/google/adk-js"><img src="GitTrendHub/assets/title_badges/title_google_adk-js_llm_engines_ea08b2bf.svg" alt="adk-js" height="38"></a>
       </div>
       <p style="line-height: 1.5;">An open-source, code-first Typescript toolkit for building,<br>evaluating, and deploying sophisticated AI agents with<br>flexibility and control.<br>&nbsp;</p>
     </td>
@@ -878,7 +878,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/docker/compose-for-agents"><img src="GitTrendHub/assets/title_badges/title_docker_compose-for-agents_llm_engines_dcfc87c4.svg" alt="compose-for-agents" height="38"></a>
+        <a href="https://github.com/docker/compose-for-agents"><img src="GitTrendHub/assets/title_badges/title_docker_compose-for-agents_llm_engines_eefaa75b.svg" alt="compose-for-agents" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Build and run AI agents using Docker Compose. A collection<br>of ready-to-use examples for orchestrating open-source LLMs,<br>tools, and agent runtimes.<br>&nbsp;</p>
     </td>
@@ -899,7 +899,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/xpander-ai/xpander.ai"><img src="GitTrendHub/assets/title_badges/title_xpander-ai_xpander.ai_llm_engines_551ebc9f.svg" alt="xpander.ai" height="38"></a>
+        <a href="https://github.com/xpander-ai/xpander.ai"><img src="GitTrendHub/assets/title_badges/title_xpander-ai_xpander.ai_llm_engines_9f7339bf.svg" alt="xpander.ai" height="38"></a>
       </div>
       <p style="line-height: 1.5;">xpander.ai is the runtime and control plane to build, run,<br>and ship reliable AI agents fast and anywhere<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -920,7 +920,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/kossakovsky/n8n-install"><img src="GitTrendHub/assets/title_badges/title_kossakovsky_n8n-install_llm_engines_2bb3c072.svg" alt="n8n-install" height="38"></a>
+        <a href="https://github.com/kossakovsky/n8n-install"><img src="GitTrendHub/assets/title_badges/title_kossakovsky_n8n-install_llm_engines_422b61cb.svg" alt="n8n-install" height="38"></a>
       </div>
       <p style="line-height: 1.5;">🚀 Self-hosted AI automation platform. Deploy n8n, Ollama,<br>Flowise, RAG, Supabase & 30+ tools with one command. Auto<br>HTTPS. Free Zapier/Make alternative.<br>&nbsp;</p>
     </td>
@@ -941,7 +941,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/sgl-project/SpecForge"><img src="GitTrendHub/assets/title_badges/title_sgl-project_SpecForge_llm_engines_47c7bdf8.svg" alt="SpecForge" height="38"></a>
+        <a href="https://github.com/sgl-project/SpecForge"><img src="GitTrendHub/assets/title_badges/title_sgl-project_SpecForge_llm_engines_ebc33142.svg" alt="SpecForge" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Train speculative decoding models effortlessly and port them<br>smoothly to SGLang serving.<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -962,7 +962,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/tile-ai/TileRT"><img src="GitTrendHub/assets/title_badges/title_tile-ai_TileRT_llm_engines_21997a43.svg" alt="TileRT" height="38"></a>
+        <a href="https://github.com/tile-ai/TileRT"><img src="GitTrendHub/assets/title_badges/title_tile-ai_TileRT_llm_engines_b71a70b6.svg" alt="TileRT" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Tile-Based Runtime for Ultra-Low-Latency LLM Inference<br>&nbsp;<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -983,7 +983,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/Haohao-end/LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents"><img src="GitTrendHub/assets/title_badges/title_Haohao-end_LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents_llm_engines_b8b38d53.svg" alt="LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents" height="38"></a>
+        <a href="https://github.com/Haohao-end/LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents"><img src="GitTrendHub/assets/title_badges/title_Haohao-end_LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents_llm_engines_a173b6ba.svg" alt="LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents" height="38"></a>
       </div>
       <p style="line-height: 1.5;">AI Agent Development Platform - Supports multiple models<br>(OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management,<br>workflow automation, and enterprise-grade security. Built<br>wi...</p>
     </td>
@@ -1004,7 +1004,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/alirezarezvani/claude-code-skill-factory"><img src="GitTrendHub/assets/title_badges/title_alirezarezvani_claude-code-skill-factory_llm_engines_ced54451.svg" alt="claude-code-skill-factory" height="38"></a>
+        <a href="https://github.com/alirezarezvani/claude-code-skill-factory"><img src="GitTrendHub/assets/title_badges/title_alirezarezvani_claude-code-skill-factory_llm_engines_c6a4991b.svg" alt="claude-code-skill-factory" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Claude Code Skill Factory — A powerful open-source toolkit<br>for building and deploying production-ready Claude Skills,<br>Code Agents, custom Slash Commands, and LLM Prompts at<br>scal...</p>
     </td>
@@ -1025,7 +1025,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/yassa9/qwen600"><img src="GitTrendHub/assets/title_badges/title_yassa9_qwen600_llm_engines_2eae28d6.svg" alt="qwen600" height="38"></a>
+        <a href="https://github.com/yassa9/qwen600"><img src="GitTrendHub/assets/title_badges/title_yassa9_qwen600_llm_engines_130fe6e0.svg" alt="qwen600" height="38"></a>
       </div>
       <p style="line-height: 1.5;">Static suckless single batch CUDA-only qwen3-0.6B mini<br>inference engine<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -1046,7 +1046,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/waybarrios/vllm-mlx"><img src="GitTrendHub/assets/title_badges/title_waybarrios_vllm-mlx_llm_engines_37d844af.svg" alt="vllm-mlx" height="38"></a>
+        <a href="https://github.com/waybarrios/vllm-mlx"><img src="GitTrendHub/assets/title_badges/title_waybarrios_vllm-mlx_llm_engines_a7b4f49a.svg" alt="vllm-mlx" height="38"></a>
       </div>
       <p style="line-height: 1.5;">OpenAI and Anthropic compatible server for Apple Silicon.<br>Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA)<br>with continuous batching, MCP tool calling, and<br>multimodal...</p>
     </td>
@@ -1067,7 +1067,7 @@
   <tr>
     <td width="58%" valign="top">
       <div>
-        <a href="https://github.com/milanm/AutoGrad-Engine"><img src="GitTrendHub/assets/title_badges/title_milanm_AutoGrad-Engine_llm_engines_56d1c658.svg" alt="AutoGrad-Engine" height="38"></a>
+        <a href="https://github.com/milanm/AutoGrad-Engine"><img src="GitTrendHub/assets/title_badges/title_milanm_AutoGrad-Engine_llm_engines_d25de09b.svg" alt="AutoGrad-Engine" height="38"></a>
       </div>
       <p style="line-height: 1.5;">A complete GPT language model (training and inference) in<br>~600 lines of pure C#, zero dependencies<br>&nbsp;<br>&nbsp;</p>
     </td>
@@ -6189,5 +6189,5 @@ Stay ahead of the curve with these curated AI resources.
 Data is retrieved using the GitHub REST API and GitHub Actions.
 
 <div align="right">
-  <i>✨ Last Generated: March 05, 2026 - 18:26 UTC</i>
+  <i>✨ Last Generated: March 05, 2026 - 18:30 UTC</i>
 </div>
