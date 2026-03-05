@@ -107,13 +107,18 @@ def trend_score(repo, now, recency_days):
     return (stars_per_day * 100.0) + (recency * 50.0) + (math.log10(stars + 1) * 10.0)
 
 
-def update_projects(projects_path, per_section, min_stars, recency_days, mode, pages, sleep_on_rate_limit):
+def update_projects(projects_path, per_section, min_stars, recency_days, mode, pages, sleep_on_rate_limit, sections):
     data = json.loads(projects_path.read_text(encoding="utf-8"))
     now = datetime.now(timezone.utc)
     pushed_after = (now - timedelta(days=recency_days)).date().isoformat()
 
     used = set()
-    for section, meta in data.items():
+    target_sections = sections or list(data.keys())
+    for section in target_sections:
+        meta = data.get(section)
+        if not meta:
+            print(f"Skipping unknown section: {section}")
+            continue
         queries = SECTION_QUERIES.get(section, [])
         if not queries:
             continue
@@ -164,11 +169,13 @@ def main():
     parser.add_argument("--mode", choices=["replace", "merge"], default="replace")
     parser.add_argument("--pages", type=int, default=2, help="Search pages per query (each page costs 1 request).")
     parser.add_argument("--sleep-on-rate-limit", action="store_true")
+    parser.add_argument("--sections", type=str, default="", help="Comma-separated section keys to update.")
     args = parser.parse_args()
 
     base_dir = Path(__file__).resolve().parent
     projects_path = base_dir / "projects.json"
 
+    sections = [s.strip() for s in args.sections.split(",") if s.strip()]
     update_projects(
         projects_path=projects_path,
         per_section=args.per_section,
@@ -177,6 +184,7 @@ def main():
         mode=args.mode,
         pages=args.pages,
         sleep_on_rate_limit=args.sleep_on_rate_limit,
+        sections=sections,
     )
     print("projects.json updated. Run `python3 update_readme.py` to regenerate README.")
 

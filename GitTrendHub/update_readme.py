@@ -41,7 +41,21 @@ def format_desc_fixed(desc, max_chars=180, line_len=60, lines=3):
     text = desc.replace("\n", " ").strip()
     if len(text) > max_chars:
         text = text[: max_chars - 3].rstrip() + "..."
-    chunks = [text[i:i + line_len] for i in range(0, len(text), line_len)]
+    words = text.split()
+    chunks = []
+    current = ""
+    for w in words:
+        if not current:
+            current = w
+        elif len(current) + 1 + len(w) <= line_len:
+            current += " " + w
+        else:
+            chunks.append(current)
+            current = w
+        if len(chunks) >= lines:
+            break
+    if len(chunks) < lines and current:
+        chunks.append(current)
     chunks = chunks[:lines]
     if len(chunks) < lines:
         chunks.extend(["&nbsp;"] * (lines - len(chunks)))
@@ -81,10 +95,6 @@ def generate_svg_card(e):
   <g transform="translate(150, 80)">
     <path d="M5 0 L0 5 L5 10 M5 5 L10 5" stroke="#8b949e" stroke-width="2" fill="none"/>
     <text x="20" y="4" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9">{e['forks']:,} forks</text>
-  </g>
-  
-  <g transform="translate(20, 115)">
-    <text x="0" y="4" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="{growth_color}">Trending: {growth_icon} {abs(e['growth']):,}</text>
   </g>
   
   <rect x="300" y="20" width="80" height="25" rx="5" fill="#21262d" stroke="#30363d"/>
