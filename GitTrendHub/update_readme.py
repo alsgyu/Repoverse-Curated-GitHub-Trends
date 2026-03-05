@@ -138,12 +138,12 @@ def generate_svg_card(e):
   <text x="20" y="55" font-family="Arial, sans-serif" font-size="12" fill="#8b949e">{e['repo_path']}</text>
   
   <g transform="translate(20, 80)">
-    <text x="0" y="4" font-family="Arial, sans-serif" font-size="14" fill="#e3b341" dominant-baseline="central">★</text>
-    <text x="14" y="4" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9" dominant-baseline="central">{e['stars']:,} stars</text>
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" fill="#e3b341" dominant-baseline="middle">★</text>
+    <text x="14" y="0" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9" dominant-baseline="middle">{e['stars']:,} stars</text>
   </g>
   
   <g transform="translate(150, 80)">
-    <text x="0" y="4" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9">{e['forks']:,} forks</text>
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9" dominant-baseline="middle">{e['forks']:,} forks</text>
   </g>
   
   <rect x="300" y="20" width="80" height="25" rx="5" fill="#21262d" stroke="#30363d"/>
@@ -338,8 +338,10 @@ def generate_markdown(projects_data, base_dir):
   <tr>
     <td width="58%" valign="top">
       <h3><a href="{e['html_url']}">{e['name']}</a>{e['status_tag']}</h3>
-      <p>{desc_limited}</p>
-      <img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="120">
+      <table cellpadding="0" cellspacing="0">
+        <tr><td>{desc_limited}</td></tr>
+        <tr><td><img src="GitTrendHub/assets/spacer.png" alt="" width="1" height="26"></td></tr>
+      </table>
     </td>
     <td width="42%" valign="middle" align="center">
       <img src="{e['svg_asset']}" alt="{e['name']} stats" width="400">
