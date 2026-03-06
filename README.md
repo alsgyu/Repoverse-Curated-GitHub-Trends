@@ -30,6 +30,8 @@
 - 7. [🌐 AI Resource Navigator](#ai-resource-navigator) — Curated links: trends, news, tool discovery
 - 8. [📝 Data Summary](#data-summary) — Data source and last generated timestamp
 
+---
+
 <h2 id='llm_engines'>🤖 LLM Engines & Platforms</h2>
 <p><img src="GitTrendHub/assets/section_bar_llm_engines_5419d11c.png" alt="" width="24" height="6"> Section color</p>
 
