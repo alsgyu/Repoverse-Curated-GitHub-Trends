@@ -1,10 +1,12 @@
 <div align="center">
   <img src="GitTrendHub/image4.png" alt="AI TrendHub Banner" width="400">
-</div>
+
 
 # AI TrendHub – The Pulse of Artificial Intelligence
 
 > 💡 **Specializing in AI:** This dashboard focuses exclusively on the rapidly evolving AI ecosystem, tracking the most impactful projects across engines, agents, and generative tools.
+
+</div>
 
 ---
 
