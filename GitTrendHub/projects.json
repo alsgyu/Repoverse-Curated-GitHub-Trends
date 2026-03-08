@@ -5,139 +5,139 @@
     "repos": [
       {
         "url_path": "vllm-project/vllm",
-        "last_stars": 72336,
+        "last_stars": 72408,
         "last_desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
         "last_lang": "Python",
-        "last_forks": 14065,
-        "manual_desc": "A high-throughput and memory-efficient inference and serving engine for LLMs"
+        "last_forks": 14087,
+        "manual_desc": "vLLM: high-throughput LLM serving that squeezes every GPU cycle."
       },
       {
         "url_path": "google/adk-python",
-        "last_stars": 18222,
+        "last_stars": 18245,
         "last_desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "last_lang": "Python",
-        "last_forks": 3028,
-        "manual_desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
+        "last_forks": 3033,
+        "manual_desc": "Google ADK (Python): code-first toolkit to build, eval, and deploy AI agents."
       },
       {
         "url_path": "sgl-project/sglang",
-        "last_stars": 24203,
+        "last_stars": 24224,
         "last_desc": "SGLang is a high-performance serving framework for large language models and multimodal models.",
         "last_lang": "Python",
-        "last_forks": 4691,
-        "manual_desc": "SGLang is a high-performance serving framework for large language models and multimodal models."
+        "last_forks": 4698,
+        "manual_desc": "SGLang: high-performance serving framework for LLMs and multimodal models."
       },
       {
         "url_path": "labring/FastGPT",
-        "last_stars": 27302,
-        "last_desc": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+        "last_stars": 27304,
+        "last_desc": "LLM knowledge platform with data processing, RAG retrieval, and visual workflows.",
         "last_lang": "TypeScript",
-        "last_forks": 6954,
-        "manual_desc": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration."
+        "last_forks": 6955,
+        "manual_desc": "LLM knowledge platform with data processing, RAG retrieval, and visual workflows."
       },
       {
         "url_path": "google/adk-go",
-        "last_stars": 7096,
+        "last_stars": 7104,
         "last_desc": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "last_lang": "Go",
         "last_forks": 566,
-        "manual_desc": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
+        "manual_desc": "Google ADK (Go): code-first toolkit to build, eval, and deploy AI agents."
       },
       {
         "url_path": "krillinai/KrillinAI",
-        "last_stars": 9680,
-        "last_desc": "Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube\uff0cTikTok.   AI\u89c6\u9891\u7ffb\u8bd1\u914d\u97f3\u5de5\u5177\uff0c100\u79cd\u8bed\u8a00\u53cc\u5411\u7ffb\u8bd1\uff0c\u4e00\u952e\u90e8\u7f72\u5168\u6d41\u7a0b\uff0c\u53ef\u4ee5\u751f\u6296\u97f3\uff0c\u5c0f\u7ea2\u4e66\uff0c\u54d4\u54e9\u54d4\u54e9\uff0c\u89c6\u9891\u53f7\uff0cTikTok\uff0cYoutube\u7b49\u5f62\u6001\u7684\u5185\u5bb9\u6210\u9002\u914d",
+        "last_stars": 9685,
+        "last_desc": "LLM-powered video translation and dubbing with one-click pipeline and many languages.",
         "last_lang": "Go",
-        "last_forks": 841,
-        "manual_desc": "Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube\uff0cTikTok.   AI\u89c6\u9891\u7ffb\u8bd1\u914d\u97f3\u5de5\u5177\uff0c100\u79cd\u8bed\u8a00\u53cc\u5411\u7ffb\u8bd1\uff0c\u4e00\u952e\u90e8\u7f72\u5168\u6d41\u7a0b\uff0c\u53ef\u4ee5\u751f\u6296\u97f3\uff0c\u5c0f\u7ea2\u4e66\uff0c\u54d4\u54e9\u54d4\u54e9\uff0c\u89c6\u9891\u53f7\uff0cTikTok\uff0cYoutube\u7b49\u5f62\u6001\u7684\u5185\u5bb9\u6210\u9002\u914d"
+        "last_forks": 842,
+        "manual_desc": "LLM-powered video translation and dubbing with one-click pipeline and many languages."
       },
       {
         "url_path": "mlc-ai/mlc-llm",
-        "last_stars": 22129,
+        "last_stars": 22132,
         "last_desc": "Universal LLM Deployment Engine with ML Compilation",
         "last_lang": "Python",
-        "last_forks": 1952,
-        "manual_desc": "Universal LLM Deployment Engine with ML Compilation"
+        "last_forks": 1951,
+        "manual_desc": "MLC-LLM: compile LLMs to run fast anywhere you can ship a runtime."
       },
       {
         "url_path": "osaurus-ai/osaurus",
-        "last_stars": 3986,
+        "last_stars": 3989,
         "last_desc": "AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.",
         "last_lang": "Swift",
         "last_forks": 164,
-        "manual_desc": "AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime."
+        "manual_desc": "Osaurus: macOS edge runtime for local/cloud models with MCP tool sharing."
       },
       {
         "url_path": "NVIDIA/TensorRT-LLM",
-        "last_stars": 13029,
-        "last_desc": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+        "last_stars": 13031,
+        "last_desc": "Python API to define LLMs and run fast NVIDIA GPU inference with TensorRT-LLM.",
         "last_lang": "Python",
-        "last_forks": 2154,
-        "manual_desc": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way."
+        "last_forks": 2152,
+        "manual_desc": "Python API to define LLMs and run fast NVIDIA GPU inference with TensorRT-LLM."
       },
       {
         "url_path": "NexaAI/nexa-sdk",
-        "last_stars": 7770,
-        "last_desc": "Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Supporting OpenAI GPT-OSS, IBM Granite-4, Qwen-3-VL, Gemma-3n, Ministral-3, and more.",
+        "last_stars": 7773,
+        "last_desc": "Run frontier LLMs/VLMs on GPU/NPU/CPU across PC, mobile, and Linux/IoT.",
         "last_lang": "Kotlin",
         "last_forks": 956,
-        "manual_desc": "Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Supporting OpenAI GPT-OSS, IBM Granite-4, Qwen-3-VL, Gemma-3n, Ministral-3, and more."
+        "manual_desc": "Run frontier LLMs/VLMs on GPU/NPU/CPU across PC, mobile, and Linux/IoT."
       },
       {
         "url_path": "oumi-ai/oumi",
-        "last_stars": 8903,
+        "last_stars": 8905,
         "last_desc": "Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!",
         "last_lang": "Python",
-        "last_forks": 706,
-        "manual_desc": "Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!"
+        "last_forks": 707,
+        "manual_desc": "Oumi: fine-tune, evaluate, and deploy open-source LLMs and VLMs."
       },
       {
         "url_path": "Lightning-AI/litgpt",
-        "last_stars": 13211,
+        "last_stars": 13212,
         "last_desc": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
         "last_lang": "Python",
-        "last_forks": 1407,
-        "manual_desc": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale."
+        "last_forks": 1406,
+        "manual_desc": "LitGPT: lightweight training and serving recipes for modern LLMs."
       },
       {
         "url_path": "ray-project/ray",
-        "last_stars": 41631,
+        "last_stars": 41642,
         "last_desc": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
         "last_lang": "Python",
-        "last_forks": 7298,
-        "manual_desc": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
+        "last_forks": 7302,
+        "manual_desc": "Ray: distributed runtime that turns one laptop script into a cluster job."
       },
       {
         "url_path": "microsoft/promptflow",
-        "last_stars": 11042,
+        "last_stars": 11043,
         "last_desc": "Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",
         "last_lang": "Python",
         "last_forks": 1060,
-        "manual_desc": "Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring."
+        "manual_desc": "Promptflow: build, test, and monitor LLM apps end-to-end."
       },
       {
         "url_path": "milanm/AutoGrad-Engine",
-        "last_stars": 328,
+        "last_stars": 329,
         "last_desc": "A complete GPT language model (training and inference) in ~600 lines of pure C#, zero dependencies",
         "last_lang": "C#",
         "last_forks": 37,
-        "manual_desc": "A complete GPT language model (training and inference) in ~600 lines of pure C#, zero dependencies"
+        "manual_desc": "AutoGrad-Engine: a full GPT model in about 600 lines of pure C#."
       },
       {
         "url_path": "Tiiny-AI/PowerInfer",
-        "last_stars": 8771,
+        "last_stars": 8773,
         "last_desc": "High-speed Large Language Model Serving for Local Deployment",
         "last_lang": "C++",
         "last_forks": 495,
-        "manual_desc": "High-speed Large Language Model Serving for Local Deployment"
+        "manual_desc": "PowerInfer: high-speed local LLM serving."
       },
       {
         "url_path": "xorbitsai/inference",
-        "last_stars": 9109,
-        "last_desc": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop \u2014 all through one unified, production-ready inference API.",
+        "last_stars": 9110,
+        "last_desc": "Xinference: swap GPT for open models via one unified, production-ready API.",
         "last_lang": "Python",
         "last_forks": 801,
-        "manual_desc": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop \u2014 all through one unified, production-ready inference API."
+        "manual_desc": "Xinference: swap GPT for open models via one unified, production-ready API."
       },
       {
         "url_path": "Zipstack/unstract",
@@ -145,15 +145,15 @@
         "last_desc": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
         "last_lang": "Python",
         "last_forks": 615,
-        "manual_desc": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows"
+        "manual_desc": "Unstract: LLM-driven data extraction for APIs and ETL pipelines."
       },
       {
         "url_path": "InternLM/lmdeploy",
-        "last_stars": 7657,
+        "last_stars": 7659,
         "last_desc": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.",
         "last_lang": "Python",
         "last_forks": 659,
-        "manual_desc": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs."
+        "manual_desc": "LMDeploy: compress, deploy, and serve LLMs with one toolkit."
       },
       {
         "url_path": "GradientHQ/parallax",
@@ -161,95 +161,95 @@
         "last_desc": "Parallax is a distributed model serving framework that lets you build your own AI cluster anywhere",
         "last_lang": "Python",
         "last_forks": 115,
-        "manual_desc": "Parallax is a distributed model serving framework that lets you build your own AI cluster anywhere"
+        "manual_desc": "Parallax: distributed model serving to build your own AI cluster."
       },
       {
         "url_path": "tile-ai/TileRT",
-        "last_stars": 676,
+        "last_stars": 678,
         "last_desc": "Tile-Based Runtime for Ultra-Low-Latency LLM Inference",
         "last_lang": "Python",
-        "last_forks": 39,
-        "manual_desc": "Tile-Based Runtime for Ultra-Low-Latency LLM Inference"
+        "last_forks": 40,
+        "manual_desc": "TileRT: ultra-low-latency LLM inference runtime."
       },
       {
         "url_path": "waybarrios/vllm-mlx",
-        "last_stars": 503,
-        "last_desc": "OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok/s. Works with Claude Code.",
+        "last_stars": 525,
+        "last_desc": "OpenAI-style server for Apple Silicon running LLM/VLMs on MLX.",
         "last_lang": "Python",
-        "last_forks": 69,
-        "manual_desc": "OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok/s. Works with Claude Code."
+        "last_forks": 71,
+        "manual_desc": "OpenAI-style server for Apple Silicon running LLM/VLMs on MLX."
       },
       {
         "url_path": "SmythOS/sre",
-        "last_stars": 1234,
-        "last_desc": "The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across local, cloud, and edge environments.",
+        "last_stars": 1235,
+        "last_desc": "Open-source runtime to build, run, and manage agentic AI across local/cloud/edge.",
         "last_lang": "TypeScript",
         "last_forks": 185,
-        "manual_desc": "The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across local, cloud, and edge environments."
+        "manual_desc": "Open-source runtime to build, run, and manage agentic AI across local/cloud/edge."
       },
       {
         "url_path": "vllm-project/llm-compressor",
-        "last_stars": 2816,
+        "last_stars": 2836,
         "last_desc": "Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM",
         "last_lang": "Python",
-        "last_forks": 420,
-        "manual_desc": "Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM"
+        "last_forks": 422,
+        "manual_desc": "LLM Compressor: shrink models for faster vLLM serving."
       },
       {
         "url_path": "containers/ramalama",
-        "last_stars": 2627,
-        "last_desc": "RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers.",
+        "last_stars": 2630,
+        "last_desc": "Container-friendly local model serving with a developer-first CLI.",
         "last_lang": "Python",
         "last_forks": 306,
-        "manual_desc": "RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers."
+        "manual_desc": "Container-friendly local model serving with a developer-first CLI."
       },
       {
         "url_path": "botpress/botpress",
-        "last_stars": 14581,
+        "last_stars": 14589,
         "last_desc": "The open-source hub to build & deploy GPT/LLM Agents \u26a1\ufe0f",
         "last_lang": "TypeScript",
-        "last_forks": 2249,
-        "manual_desc": "The open-source hub to build & deploy GPT/LLM Agents \u26a1\ufe0f"
+        "last_forks": 2246,
+        "manual_desc": "Botpress: open-source hub to build and deploy LLM agents."
       },
       {
         "url_path": "google/adk-java",
-        "last_stars": 1323,
+        "last_stars": 1332,
         "last_desc": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "last_lang": "Java",
-        "last_forks": 293,
-        "manual_desc": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
+        "last_forks": 295,
+        "manual_desc": "Google ADK (Java): code-first toolkit to build, eval, and deploy AI agents."
       },
       {
         "url_path": "Netflix/metaflow",
-        "last_stars": 9905,
+        "last_stars": 9913,
         "last_desc": "Netflix-grade infrastructure for humans who just want to code. Scale your ML from a laptop to the cloud without losing your mind or your data.",
         "last_lang": "Python",
-        "last_forks": 1116,
-        "manual_desc": "Netflix-grade infrastructure for humans who just want to code. Scale your ML from a laptop to the cloud without losing your mind or your data."
+        "last_forks": 1130,
+        "manual_desc": "Metaflow: Netflix-grade ML orchestration for humans who just want to ship."
       },
       {
         "url_path": "google/adk-js",
-        "last_stars": 867,
+        "last_stars": 876,
         "last_desc": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
         "last_lang": "TypeScript",
         "last_forks": 102,
-        "manual_desc": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
+        "manual_desc": "Google ADK (JS): code-first toolkit to build, eval, and deploy AI agents."
       },
       {
         "url_path": "ModelTC/LightLLM",
-        "last_stars": 3927,
-        "last_desc": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
+        "last_stars": 3932,
+        "last_desc": "Lightweight, scalable LLM inference server focused on speed.",
         "last_lang": "Python",
-        "last_forks": 304,
-        "manual_desc": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance."
+        "last_forks": 305,
+        "manual_desc": "Lightweight, scalable LLM inference server focused on speed."
       },
       {
         "url_path": "xdit-project/xDiT",
-        "last_stars": 2557,
+        "last_stars": 2562,
         "last_desc": "xDiT: A Scalable Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism",
         "last_lang": "Python",
         "last_forks": 312,
-        "manual_desc": "xDiT: A Scalable Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism"
+        "manual_desc": "xDiT: massively parallel inference engine for diffusion transformers."
       },
       {
         "url_path": "run-llama/llama_deploy",
@@ -257,71 +257,71 @@
         "last_desc": "Microservices for your LlamaIndex agents to live their best lives. Scaling your LLM workflows from a single script to a distributed powerhouse.",
         "last_lang": "Python",
         "last_forks": 228,
-        "manual_desc": "Microservices for your LlamaIndex agents to live their best lives. Scaling your LLM workflows from a single script to a distributed powerhouse."
+        "manual_desc": "Llama Deploy: microservices to run LlamaIndex agents at scale."
       },
       {
         "url_path": "NVIDIA/Model-Optimizer",
-        "last_stars": 2106,
-        "last_desc": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+        "last_stars": 2116,
+        "last_desc": "Unified model optimization (quantize/prune/distill/spec-decode) for faster inference.",
         "last_lang": "Python",
-        "last_forks": 285,
-        "manual_desc": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed."
+        "last_forks": 286,
+        "manual_desc": "Unified model optimization (quantize/prune/distill/spec-decode) for faster inference."
       },
       {
         "url_path": "michaelfeil/infinity",
-        "last_stars": 2697,
+        "last_stars": 2703,
         "last_desc": "Infinity is a high-throughput, low-latency serving engine for text-embeddings, reranking models, clip, clap and colpali",
         "last_lang": "Python",
         "last_forks": 181,
-        "manual_desc": "Infinity is a high-throughput, low-latency serving engine for text-embeddings, reranking models, clip, clap and colpali"
+        "manual_desc": "Infinity: high-throughput embedding and rerank serving engine."
       },
       {
         "url_path": "PaddlePaddle/FastDeploy",
         "last_stars": 3657,
         "last_desc": "High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle",
         "last_lang": "Python",
-        "last_forks": 712,
-        "manual_desc": "High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle"
+        "last_forks": 716,
+        "manual_desc": "FastDeploy: high-performance deployment toolkit for LLMs and VLMs."
       },
       {
         "url_path": "sgl-project/SpecForge",
-        "last_stars": 721,
+        "last_stars": 724,
         "last_desc": "Train speculative decoding models effortlessly and port them smoothly to SGLang serving.",
         "last_lang": "Python",
-        "last_forks": 168,
-        "manual_desc": "Train speculative decoding models effortlessly and port them smoothly to SGLang serving."
+        "last_forks": 171,
+        "manual_desc": "SpecForge: train speculative-decoding models for SGLang serving."
       },
       {
         "url_path": "xpander-ai/xpander.ai",
-        "last_stars": 859,
+        "last_stars": 860,
         "last_desc": "xpander.ai is the runtime and control plane to build, run, and ship reliable AI agents fast and anywhere",
         "last_lang": "Jupyter Notebook",
-        "last_forks": 127,
-        "manual_desc": "xpander.ai is the runtime and control plane to build, run, and ship reliable AI agents fast and anywhere"
+        "last_forks": 128,
+        "manual_desc": "xpander.ai: runtime and control plane to build and ship agents fast."
       },
       {
         "url_path": "langchain-ai/langserve",
-        "last_stars": 2278,
+        "last_stars": 2277,
         "last_desc": "Turn your LangChain logic into a production API before your coffee gets cold. The bridge between it works on my machine and it's live for the world.",
         "last_lang": "JavaScript",
         "last_forks": 264,
-        "manual_desc": "Turn your LangChain logic into a production API before your coffee gets cold. The bridge between it works on my machine and it's live for the world."
+        "manual_desc": "LangServe: turn LangChain logic into a production API."
       },
       {
         "url_path": "NVIDIA/TransformerEngine",
-        "last_stars": 3184,
-        "last_desc": "A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit and 4-bit floating point (FP8 and FP4) precision on Hopper, Ada and Blackwell GPUs, to provide better performance with lower memory utilization in both training and inference.",
+        "last_stars": 3186,
+        "last_desc": "NVIDIA library for faster Transformer training/inference with FP8/FP4 on new GPUs.",
         "last_lang": "Python",
         "last_forks": 653,
-        "manual_desc": "A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit and 4-bit floating point (FP8 and FP4) precision on Hopper, Ada and Blackwell GPUs, to provide better performance with lower memory utilization in both training and inference."
+        "manual_desc": "NVIDIA library for faster Transformer training/inference with FP8/FP4 on new GPUs."
       },
       {
         "url_path": "yassa9/qwen600",
-        "last_stars": 545,
+        "last_stars": 544,
         "last_desc": "Static suckless single batch CUDA-only qwen3-0.6B mini inference engine",
         "last_lang": "Cuda",
         "last_forks": 48,
-        "manual_desc": "Static suckless single batch CUDA-only qwen3-0.6B mini inference engine"
+        "manual_desc": "qwen600: tiny CUDA-only Qwen3-0.6B inference engine."
       }
     ]
   },
@@ -331,163 +331,163 @@
     "repos": [
       {
         "url_path": "zeroclaw-labs/zeroclaw",
-        "last_stars": 23500,
+        "last_stars": 24511,
         "last_desc": "Fast, small, and fully autonomous AI assistant infrastructure \u2014 deploy anywhere, swap anything \ud83e\udd80",
         "last_lang": "Rust",
-        "last_forks": 2978,
-        "manual_desc": "Fast, small, and fully autonomous AI assistant infrastructure \u2014 deploy anywhere, swap anything \ud83e\udd80"
+        "last_forks": 3156,
+        "manual_desc": "Zeroclaw: lightweight, fully autonomous assistant infrastructure you can deploy anywhere."
       },
       {
         "url_path": "vercel-labs/agent-browser",
-        "last_stars": 19014,
+        "last_stars": 19908,
         "last_desc": "Giving your AI eyes and fingers to navigate the wild, open web. Automating the internet one click at a time, no API required.",
         "last_lang": "Rust",
-        "last_forks": 1112,
-        "manual_desc": "Giving your AI eyes and fingers to navigate the wild, open web. Automating the internet one click at a time, no API required."
+        "last_forks": 1162,
+        "manual_desc": "Agent Browser: give your AI eyes and clicks to navigate the web."
       },
       {
         "url_path": "zai-org/Open-AutoGLM",
-        "last_stars": 24026,
+        "last_stars": 24110,
         "last_desc": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
         "last_lang": "Python",
-        "last_forks": 3804,
-        "manual_desc": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone"
+        "last_forks": 3820,
+        "manual_desc": "Open-AutoGLM: phone-agent model and framework for device automation."
       },
       {
         "url_path": "snarktank/ralph",
-        "last_stars": 12112,
+        "last_stars": 12338,
         "last_desc": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. ",
         "last_lang": "TypeScript",
-        "last_forks": 1307,
-        "manual_desc": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. "
+        "last_forks": 1325,
+        "manual_desc": "Ralph: autonomous agent loop that runs your PRD to completion."
       },
       {
         "url_path": "Yeachan-Heo/oh-my-claudecode",
-        "last_stars": 8492,
+        "last_stars": 8837,
         "last_desc": "Teams-first Multi-agent orchestration for Claude Code",
         "last_lang": "TypeScript",
-        "last_forks": 590,
-        "manual_desc": "Teams-first Multi-agent orchestration for Claude Code"
+        "last_forks": 618,
+        "manual_desc": "Oh-My-ClaudeCode: team-friendly multi-agent orchestration for Claude Code."
       },
       {
         "url_path": "wshobson/agents",
-        "last_stars": 30315,
+        "last_stars": 30636,
         "last_desc": "Intelligent automation and multi-agent orchestration for Claude Code",
         "last_lang": "Python",
-        "last_forks": 3318,
-        "manual_desc": "Intelligent automation and multi-agent orchestration for Claude Code"
+        "last_forks": 3358,
+        "manual_desc": "Agents for Claude Code: structured automation and multi-agent orchestration."
       },
       {
         "url_path": "virattt/dexter",
-        "last_stars": 17139,
+        "last_stars": 17327,
         "last_desc": "An autonomous agent for deep financial research",
         "last_lang": "TypeScript",
-        "last_forks": 2091,
-        "manual_desc": "An autonomous agent for deep financial research"
+        "last_forks": 2114,
+        "manual_desc": "Dexter: autonomous agent for deep financial research."
       },
       {
         "url_path": "ComposioHQ/agent-orchestrator",
-        "last_stars": 3725,
-        "last_desc": " Agentic orchestrator for parallel coding agents \u2014 plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.",
+        "last_stars": 3874,
+        "last_desc": "Parallel coding-agent orchestrator with planning, CI fixes, and merge handling.",
         "last_lang": "TypeScript",
-        "last_forks": 425,
-        "manual_desc": " Agentic orchestrator for parallel coding agents \u2014 plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews."
+        "last_forks": 455,
+        "manual_desc": "Parallel coding-agent orchestrator with planning, CI fixes, and merge handling."
       },
       {
         "url_path": "langchain-ai/langchain",
-        "last_stars": 128354,
-        "last_desc": "The original Swiss Army Knife that turned every developer into an AI engineer overnight. With more integrations than your favorite app store, if it has an API, we\u2019ve already wrapped it for you.",
+        "last_stars": 128613,
+        "last_desc": "LangChain: huge integration hub for LLM apps, tools, and agents.",
         "last_lang": "Python",
-        "last_forks": 21081,
-        "manual_desc": "The original Swiss Army Knife that turned every developer into an AI engineer overnight. With more integrations than your favorite app store, if it has an API, we\u2019ve already wrapped it for you."
+        "last_forks": 21122,
+        "manual_desc": "LangChain: huge integration hub for LLM apps, tools, and agents."
       },
       {
         "url_path": "cline/cline",
-        "last_stars": 58656,
-        "last_desc": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+        "last_stars": 58756,
+        "last_desc": "IDE-native autonomous coding agent with safe, step-by-step permissions.",
         "last_lang": "TypeScript",
-        "last_forks": 5898,
-        "manual_desc": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way."
+        "last_forks": 5923,
+        "manual_desc": "IDE-native autonomous coding agent with safe, step-by-step permissions."
       },
       {
         "url_path": "ruvnet/ruflo",
-        "last_stars": 18878,
-        "last_desc": "\ud83c\udf0a The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+        "last_stars": 19907,
+        "last_desc": "Claude-focused orchestration for multi-agent swarms, workflows, and RAG systems.",
         "last_lang": "TypeScript",
-        "last_forks": 2097,
-        "manual_desc": "\ud83c\udf0a The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration"
+        "last_forks": 2209,
+        "manual_desc": "Claude-focused orchestration for multi-agent swarms, workflows, and RAG systems."
       },
       {
         "url_path": "openai/symphony",
-        "last_stars": 2186,
+        "last_stars": 9014,
         "last_desc": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
         "last_lang": "Elixir",
-        "last_forks": 129,
-        "manual_desc": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents."
+        "last_forks": 621,
+        "manual_desc": "Symphony: run projects as isolated agent runs instead of babysitting tasks."
       },
       {
         "url_path": "Fosowl/agenticSeek",
-        "last_stars": 25420,
-        "last_desc": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. \ud83d\udd14 Official updates only via twitter @Martin993886460 (Beware of fake account)",
+        "last_stars": 25458,
+        "last_desc": "Fully local autonomous agent that browses and codes without API bills.",
         "last_lang": "Python",
-        "last_forks": 2825,
-        "manual_desc": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. \ud83d\udd14 Official updates only via twitter @Martin993886460 (Beware of fake account)"
+        "last_forks": 2828,
+        "manual_desc": "Fully local autonomous agent that browses and codes without API bills."
       },
       {
         "url_path": "FoundationAgents/MetaGPT",
-        "last_stars": 64778,
+        "last_stars": 64867,
         "last_desc": "\ud83c\udf1f The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
         "last_lang": "Python",
-        "last_forks": 8155,
-        "manual_desc": "\ud83c\udf1f The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming"
+        "last_forks": 8164,
+        "manual_desc": "MetaGPT: multi-agent framework that turns specs into working software."
       },
       {
         "url_path": "CherryHQ/cherry-studio",
-        "last_stars": 40746,
+        "last_stars": 41006,
         "last_desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
         "last_lang": "TypeScript",
-        "last_forks": 3762,
-        "manual_desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs"
+        "last_forks": 3783,
+        "manual_desc": "Cherry Studio: AI productivity hub with chat, agents, and 300+ assistants."
       },
       {
         "url_path": "microsoft/autogen",
-        "last_stars": 55170,
+        "last_stars": 55311,
         "last_desc": "Why work alone when your AI agents can have a meeting about it? The ultimate multi-agent playground where LLMs collaborate to do your chores.",
         "last_lang": "Python",
-        "last_forks": 8300,
-        "manual_desc": "Why work alone when your AI agents can have a meeting about it? The ultimate multi-agent playground where LLMs collaborate to do your chores."
+        "last_forks": 8311,
+        "manual_desc": "AutoGen: multi-agent collaboration framework for complex tasks."
       },
       {
         "url_path": "Tencent/WeKnora",
-        "last_stars": 13239,
+        "last_stars": 13273,
         "last_desc": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
         "last_lang": "Go",
-        "last_forks": 1532,
-        "manual_desc": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm."
+        "last_forks": 1538,
+        "manual_desc": "WeKnora: RAG framework for deep document understanding and retrieval."
       },
       {
         "url_path": "iflytek/astron-agent",
-        "last_stars": 9756,
+        "last_stars": 9854,
         "last_desc": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
         "last_lang": "Java",
-        "last_forks": 1070,
-        "manual_desc": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents."
+        "last_forks": 1074,
+        "manual_desc": "Astron-Agent: enterprise workflow platform for building agent swarms."
       },
       {
         "url_path": "humanlayer/12-factor-agents",
-        "last_stars": 18522,
+        "last_stars": 18592,
         "last_desc": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
         "last_lang": "TypeScript",
-        "last_forks": 1408,
-        "manual_desc": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?"
+        "last_forks": 1413,
+        "manual_desc": "12-Factor Agents: practical principles for production-grade agents."
       },
       {
         "url_path": "openai/openai-agents-python",
-        "last_stars": 19330,
+        "last_stars": 19421,
         "last_desc": "A lightweight, powerful framework for multi-agent workflows",
         "last_lang": "Python",
-        "last_forks": 3209,
-        "manual_desc": "A lightweight, powerful framework for multi-agent workflows"
+        "last_forks": 3230,
+        "manual_desc": "OpenAI Agents SDK: lightweight framework for multi-agent workflows."
       },
       {
         "url_path": "crewAIInc/crewAI",
@@ -495,7 +495,7 @@
         "last_desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "last_lang": "Python",
         "last_forks": 6061,
-        "manual_desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
+        "manual_desc": "Multi-agent orchestration for role-based collaboration on complex tasks."
       },
       {
         "url_path": "mastra-ai/mastra",
@@ -503,7 +503,7 @@
         "last_desc": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
         "last_lang": "TypeScript",
         "last_forks": 1669,
-        "manual_desc": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack."
+        "manual_desc": "Mastra: modern TypeScript framework for building AI apps and agents."
       },
       {
         "url_path": "VibiumDev/vibium",
@@ -511,7 +511,7 @@
         "last_desc": "The Fast & Furious of AI runtimes for low-latency junkies. Built for agents that need to move as fast as your users think.",
         "last_lang": "Go",
         "last_forks": 148,
-        "manual_desc": "The Fast & Furious of AI runtimes for low-latency junkies. Built for agents that need to move as fast as your users think."
+        "manual_desc": "Vibium: low-latency agent runtime built for speed junkies."
       },
       {
         "url_path": "0x4m4/hexstrike-ai",
@@ -519,7 +519,7 @@
         "last_desc": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
         "last_lang": "Python",
         "last_forks": 1595,
-        "manual_desc": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities."
+        "manual_desc": "MCP server that lets agents run 150+ security tools for automated pentesting."
       },
       {
         "url_path": "elizaOS/eliza",
@@ -527,7 +527,7 @@
         "last_desc": "Not just a bot, but an autonomous agent with a soul and a social life. Building the next generation of on-chain personalities that actually talk back.",
         "last_lang": "TypeScript",
         "last_forks": 5450,
-        "manual_desc": "Not just a bot, but an autonomous agent with a soul and a social life. Building the next generation of on-chain personalities that actually talk back."
+        "manual_desc": "Eliza: autonomous on-chain agent with a social personality."
       },
       {
         "url_path": "raga-ai-hub/RagaAI-Catalyst",
@@ -535,7 +535,7 @@
         "last_desc": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view ",
         "last_lang": "Python",
         "last_forks": 3634,
-        "manual_desc": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view "
+        "manual_desc": "SDK for agent/LLM observability: tracing, debugging, and analytics dashboards."
       },
       {
         "url_path": "nanobrowser/nanobrowser",
@@ -543,7 +543,7 @@
         "last_desc": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
         "last_lang": "TypeScript",
         "last_forks": 1286,
-        "manual_desc": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator."
+        "manual_desc": "NanoBrowser: open-source Chrome extension for LLM web automation."
       },
       {
         "url_path": "mcp-use/mcp-use",
@@ -551,7 +551,7 @@
         "last_desc": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.",
         "last_lang": "TypeScript",
         "last_forks": 1152,
-        "manual_desc": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents."
+        "manual_desc": "mcp-use: full-stack framework for building MCP apps."
       },
       {
         "url_path": "langchain-ai/langgraph",
@@ -559,7 +559,7 @@
         "last_desc": "Giving your agents a map and a memory for complex, loopy workflows. Because real-world logic isn't a straight line; it\u2019s a state machine.",
         "last_lang": "Python",
         "last_forks": 4452,
-        "manual_desc": "Giving your agents a map and a memory for complex, loopy workflows. Because real-world logic isn't a straight line; it\u2019s a state machine."
+        "manual_desc": "LangGraph: stateful, cyclic workflows for agents."
       },
       {
         "url_path": "ruc-datalab/DeepAnalyze",
@@ -567,7 +567,7 @@
         "last_desc": "DeepAnalyze is the first agentic LLM for autonomous data science. \ud83c\udf88\u4f60\u7684AI\u6570\u636e\u5206\u6790\u5e08\uff0c\u81ea\u52a8\u5206\u6790\u5927\u91cf\u6570\u636e\uff0c\u4e00\u952e\u751f\u6210\u4e13\u4e1a\u5206\u6790\u62a5\u544a\uff01",
         "last_lang": "Python",
         "last_forks": 542,
-        "manual_desc": "DeepAnalyze is the first agentic LLM for autonomous data science. \ud83c\udf88\u4f60\u7684AI\u6570\u636e\u5206\u6790\u5e08\uff0c\u81ea\u52a8\u5206\u6790\u5927\u91cf\u6570\u636e\uff0c\u4e00\u952e\u751f\u6210\u4e13\u4e1a\u5206\u6790\u62a5\u544a\uff01"
+        "manual_desc": "DeepAnalyze: agentic data-science assistant for automated analysis."
       },
       {
         "url_path": "agent0ai/agent-zero",
@@ -575,7 +575,7 @@
         "last_desc": "The AI that treats your terminal like its own personal playground.Full OS access for agents who aren't afraid to get their hands dirty.",
         "last_lang": "Python",
         "last_forks": 3261,
-        "manual_desc": "The AI that treats your terminal like its own personal playground.Full OS access for agents who aren't afraid to get their hands dirty."
+        "manual_desc": "Agent Zero: full-OS autonomous agent for power users."
       },
       {
         "url_path": "assafelovic/gpt-researcher",
@@ -583,7 +583,7 @@
         "last_desc": "An autonomous agent that conducts deep research on any data using any LLM providers",
         "last_lang": "Python",
         "last_forks": 3394,
-        "manual_desc": "An autonomous agent that conducts deep research on any data using any LLM providers"
+        "manual_desc": "GPT-Researcher: autonomous deep-research agent for any topic."
       },
       {
         "url_path": "microsoft/agent-framework",
@@ -591,7 +591,7 @@
         "last_desc": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
         "last_lang": "Python",
         "last_forks": 1256,
-        "manual_desc": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET."
+        "manual_desc": "Microsoft Agent Framework: build and orchestrate agents in Python/.NET."
       },
       {
         "url_path": "pydantic/pydantic-ai",
@@ -599,7 +599,7 @@
         "last_desc": "Agentic logic for developers who actually care about type-safety. Strict validation meets loose AI dreams\u2014the \"Senior Dev\" of agent frameworks.",
         "last_lang": "Python",
         "last_forks": 1717,
-        "manual_desc": "Agentic logic for developers who actually care about type-safety. Strict validation meets loose AI dreams\u2014the \"Senior Dev\" of agent frameworks."
+        "manual_desc": "PydanticAI: typed agent logic with strict validation."
       },
       {
         "url_path": "emcie-co/parlant",
@@ -607,7 +607,7 @@
         "last_desc": "The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions.",
         "last_lang": "Python",
         "last_forks": 1500,
-        "manual_desc": "The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions."
+        "manual_desc": "Control layer for customer-facing agents - context engineering for safer dialogs."
       },
       {
         "url_path": "MemMachine/MemMachine",
@@ -615,7 +615,7 @@
         "last_desc": "Universal memory layer for AI Agents. It provides scalable, extensible, and interoperable memory storage and retrieval to streamline AI agent state management for next-generation autonomous systems.",
         "last_lang": "Python",
         "last_forks": 144,
-        "manual_desc": "Universal memory layer for AI Agents. It provides scalable, extensible, and interoperable memory storage and retrieval to streamline AI agent state management for next-generation autonomous systems."
+        "manual_desc": "Interoperable memory layer for agents: store, retrieve, and share state."
       },
       {
         "url_path": "vxcontrol/pentagi",
@@ -623,7 +623,7 @@
         "last_desc": "\u2728 Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
         "last_lang": "Go",
         "last_forks": 1028,
-        "manual_desc": "\u2728 Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+        "manual_desc": "Pentagi: autonomous agents for penetration testing workflows."
       },
       {
         "url_path": "khoj-ai/khoj",
@@ -631,7 +631,7 @@
         "last_desc": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
         "last_lang": "Python",
         "last_forks": 2025,
-        "manual_desc": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
+        "manual_desc": "Self-hosted AI second brain for web/docs search, custom agents, and automations."
       },
       {
         "url_path": "VoltAgent/voltagent",
@@ -639,7 +639,7 @@
         "last_desc": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
         "last_lang": "TypeScript",
         "last_forks": 621,
-        "manual_desc": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework"
+        "manual_desc": "VoltAgent: TypeScript agent engineering platform for production apps."
       }
     ]
   },
@@ -653,7 +653,7 @@
         "last_desc": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
         "last_lang": "Swift",
         "last_forks": 224,
-        "manual_desc": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents"
+        "manual_desc": "cmux: Ghostty-based macOS terminal with vertical tabs for agent work."
       },
       {
         "url_path": "farion1231/cc-switch",
@@ -661,7 +661,7 @@
         "last_desc": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.",
         "last_lang": "TypeScript",
         "last_forks": 1469,
-        "manual_desc": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI."
+        "manual_desc": "cc-switch: desktop switchboard for Claude Code, Codex, OpenCode, Gemini."
       },
       {
         "url_path": "PeonPing/peon-ping",
@@ -669,7 +669,7 @@
         "last_desc": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.",
         "last_lang": "Shell",
         "last_forks": 232,
-        "manual_desc": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today."
+        "manual_desc": "peon-ping: Warcraft-style voice alerts for your coding agents."
       },
       {
         "url_path": "tw93/Kaku",
@@ -677,7 +677,7 @@
         "last_desc": "\ud83c\udf83 A fast, out-of-the-box terminal built for AI coding.",
         "last_lang": "Rust",
         "last_forks": 115,
-        "manual_desc": "\ud83c\udf83 A fast, out-of-the-box terminal built for AI coding."
+        "manual_desc": "Kaku: fast, out-of-the-box terminal built for AI coding."
       },
       {
         "url_path": "superset-sh/superset",
@@ -685,7 +685,7 @@
         "last_desc": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
         "last_lang": "TypeScript",
         "last_forks": 302,
-        "manual_desc": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine"
+        "manual_desc": "Superset: IDE to run an army of local coding agents."
       },
       {
         "url_path": "can1357/oh-my-pi",
@@ -693,7 +693,7 @@
         "last_desc": "\u2325  AI Coding agent for the terminal \u2014 hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
         "last_lang": "TypeScript",
         "last_forks": 133,
-        "manual_desc": "\u2325  AI Coding agent for the terminal \u2014 hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more"
+        "manual_desc": "oh-my-pi: terminal coding agent with hash-anchored edits and tools."
       },
       {
         "url_path": "Maciek-roboblog/Claude-Code-Usage-Monitor",
@@ -701,7 +701,7 @@
         "last_desc": "Real-time Claude Code usage monitor with predictions and warnings",
         "last_lang": "Python",
         "last_forks": 331,
-        "manual_desc": "Real-time Claude Code usage monitor with predictions and warnings"
+        "manual_desc": "Claude Code Usage Monitor: real-time usage and prediction alerts."
       },
       {
         "url_path": "GoogleCloudPlatform/kubectl-ai",
@@ -709,7 +709,7 @@
         "last_desc": "Stop wrestling with YAML and start talking to your clusters. Kubernetes management for people who prefer English over 500-page docs.",
         "last_lang": "Go",
         "last_forks": 681,
-        "manual_desc": "Stop wrestling with YAML and start talking to your clusters. Kubernetes management for people who prefer English over 500-page docs."
+        "manual_desc": "kubectl-ai: talk to Kubernetes like a human and get real commands."
       },
       {
         "url_path": "smtg-ai/claude-squad",
@@ -717,7 +717,7 @@
         "last_desc": "Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.",
         "last_lang": "Go",
         "last_forks": 422,
-        "manual_desc": "Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp."
+        "manual_desc": "claude-squad: manage multiple terminal agents from one place."
       },
       {
         "url_path": "plandex-ai/plandex",
@@ -725,7 +725,7 @@
         "last_desc": "Open source AI coding agent. Designed for large projects and real world tasks.",
         "last_lang": "Go",
         "last_forks": 1090,
-        "manual_desc": "Open source AI coding agent. Designed for large projects and real world tasks."
+        "manual_desc": "Plandex: open-source AI coding agent built for real-world repos."
       },
       {
         "url_path": "harshkedia177/axon",
@@ -733,7 +733,7 @@
         "last_desc": "Graph-powered code intelligence engine \u2014 indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.",
         "last_lang": "Python",
         "last_forks": 80,
-        "manual_desc": "Graph-powered code intelligence engine \u2014 indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
+        "manual_desc": "Axon: graph-powered code intelligence exposed via MCP and CLI."
       },
       {
         "url_path": "warpdotdev/Warp",
@@ -741,7 +741,7 @@
         "last_desc": "Warp is the agentic development environment, built for coding with multiple AI agents.",
         "last_lang": "N/A",
         "last_forks": 623,
-        "manual_desc": "Warp is the agentic development environment, built for coding with multiple AI agents."
+        "manual_desc": "Warp: the agentic terminal for fast, multi-agent development."
       },
       {
         "url_path": "asheshgoplani/agent-deck",
@@ -749,7 +749,7 @@
         "last_desc": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
         "last_lang": "Go",
         "last_forks": 132,
-        "manual_desc": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more."
+        "manual_desc": "agent-deck: TUI session manager for multiple coding agents."
       },
       {
         "url_path": "generalaction/emdash",
@@ -757,7 +757,7 @@
         "last_desc": "Emdash is the Open-Source Agentic Development Environment (\ud83e\udde1 YC W26). Run multiple coding agents in parallel. Use any provider.",
         "last_lang": "TypeScript",
         "last_forks": 193,
-        "manual_desc": "Emdash is the Open-Source Agentic Development Environment (\ud83e\udde1 YC W26). Run multiple coding agents in parallel. Use any provider."
+        "manual_desc": "Emdash: open-source agentic dev environment for parallel agents."
       },
       {
         "url_path": "chenhg5/cc-connect",
@@ -765,7 +765,7 @@
         "last_desc": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere \u2014 no public IP required for most platforms.",
         "last_lang": "Go",
         "last_forks": 35,
-        "manual_desc": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere \u2014 no public IP required for most platforms."
+        "manual_desc": "Bridge local coding agents to chat apps (Slack/Discord/Lark/etc.) for remote control."
       },
       {
         "url_path": "fynnfluegge/agtx",
@@ -773,7 +773,7 @@
         "last_desc": "Autonomous multi-session spec-driven AI coding orchestration in the terminal",
         "last_lang": "Rust",
         "last_forks": 21,
-        "manual_desc": "Autonomous multi-session spec-driven AI coding orchestration in the terminal"
+        "manual_desc": "agtx: spec-driven multi-session coding orchestration in the terminal."
       },
       {
         "url_path": "sigoden/aichat",
@@ -781,7 +781,7 @@
         "last_desc": "All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.",
         "last_lang": "Rust",
         "last_forks": 625,
-        "manual_desc": "All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more."
+        "manual_desc": "aichat: full-stack LLM CLI with chat, tools, and RAG built in."
       },
       {
         "url_path": "jamubc/gemini-mcp-tool",
@@ -789,7 +789,7 @@
         "last_desc": "MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding",
         "last_lang": "TypeScript",
         "last_forks": 177,
-        "manual_desc": "MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding"
+        "manual_desc": "MCP server that plugs Gemini CLI into assistants for huge-context analysis."
       },
       {
         "url_path": "SaladDay/cc-switch-cli",
@@ -797,7 +797,7 @@
         "last_desc": "\u2b50\ufe0f A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
         "last_lang": "Rust",
         "last_forks": 42,
-        "manual_desc": "\u2b50\ufe0f A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+        "manual_desc": "cc-switch-cli: CLI switcher for Claude Code, Codex, Gemini."
       },
       {
         "url_path": "Nano-Collective/nanocoder",
@@ -805,7 +805,7 @@
         "last_desc": "A beautiful local-first coding agent running in your terminal - built by the community for the community \u2692",
         "last_lang": "TypeScript",
         "last_forks": 130,
-        "manual_desc": "A beautiful local-first coding agent running in your terminal - built by the community for the community \u2692"
+        "manual_desc": "Nanocoder: local-first coding agent that lives in your terminal."
       },
       {
         "url_path": "neiii/bridle",
@@ -813,7 +813,7 @@
         "last_desc": "TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid)",
         "last_lang": "Rust",
         "last_forks": 15,
-        "manual_desc": "TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid)"
+        "manual_desc": "Bridle: TUI/CLI config manager for agentic harnesses."
       },
       {
         "url_path": "0xranx/OpenContext",
@@ -821,7 +821,7 @@
         "last_desc": "A personal context store for AI agents and assistants\u2014reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built\u2011in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos.",
         "last_lang": "JavaScript",
         "last_forks": 26,
-        "manual_desc": "A personal context store for AI agents and assistants\u2014reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built\u2011in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos."
+        "manual_desc": "Personal context store for coding agents with skills/tools and a desktop UI."
       },
       {
         "url_path": "greggh/claude-code.nvim",
@@ -829,7 +829,7 @@
         "last_desc": "Seamless integration between Claude Code AI assistant and Neovim",
         "last_lang": "Lua",
         "last_forks": 60,
-        "manual_desc": "Seamless integration between Claude Code AI assistant and Neovim"
+        "manual_desc": "claude-code.nvim: Neovim integration for Claude Code."
       },
       {
         "url_path": "CodeGraphContext/CodeGraphContext",
@@ -837,7 +837,7 @@
         "last_desc": "An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants.",
         "last_lang": "Python",
         "last_forks": 326,
-        "manual_desc": "An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants."
+        "manual_desc": "CodeGraphContext: MCP server and CLI that build a code graph for context."
       },
       {
         "url_path": "smallcloudai/refact",
@@ -845,7 +845,7 @@
         "last_desc": "AI Agent that handles engineering tasks end-to-end: integrates with developers\u2019 tools, plans, executes, and iterates until it achieves a successful result.",
         "last_lang": "Rust",
         "last_forks": 308,
-        "manual_desc": "AI Agent that handles engineering tasks end-to-end: integrates with developers\u2019 tools, plans, executes, and iterates until it achieves a successful result."
+        "manual_desc": "AI agent that plans and executes engineering tasks end-to-end."
       },
       {
         "url_path": "XiaomingX/indie-hacker-tools-plus",
@@ -853,7 +853,7 @@
         "last_desc": "Breaking the Lost in Translation curse for developers and AI alike. Your global passport for code and content that speaks every language fluently.",
         "last_lang": "N/A",
         "last_forks": 132,
-        "manual_desc": "Breaking the Lost in Translation curse for developers and AI alike. Your global passport for code and content that speaks every language fluently."
+        "manual_desc": "indie-hacker-tools-plus: multilingual tools for builders and marketers."
       },
       {
         "url_path": "cyberark/FuzzyAI",
@@ -861,7 +861,7 @@
         "last_desc": "A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM APIs.",
         "last_lang": "Jupyter Notebook",
         "last_forks": 171,
-        "manual_desc": "A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM APIs."
+        "manual_desc": "Automated LLM fuzzing to uncover jailbreaks and weaknesses in APIs."
       },
       {
         "url_path": "vybestack/llxprt-code",
@@ -869,7 +869,7 @@
         "last_desc": "An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal.",
         "last_lang": "TypeScript",
         "last_forks": 93,
-        "manual_desc": "An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal."
+        "manual_desc": "llxprt-code: multi-provider AI coding CLI."
       },
       {
         "url_path": "sudo-tee/opencode.nvim",
@@ -877,7 +877,7 @@
         "last_desc": "neovim frontend for opencode - a terminal-based AI coding agent",
         "last_lang": "Lua",
         "last_forks": 46,
-        "manual_desc": "neovim frontend for opencode - a terminal-based AI coding agent"
+        "manual_desc": "opencode.nvim: Neovim frontend for the opencode terminal agent."
       },
       {
         "url_path": "purocean/yn",
@@ -885,7 +885,7 @@
         "last_desc": "A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.",
         "last_lang": "TypeScript",
         "last_forks": 931,
-        "manual_desc": "A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement."
+        "manual_desc": "Extensible Markdown editor with AI copilot, versioning, mind maps, and macros."
       },
       {
         "url_path": "ovh/shai",
@@ -893,7 +893,7 @@
         "last_desc": "shai is a coding agent, your pair programming buddy that lives in the terminal. Written in rust with love <3",
         "last_lang": "Rust",
         "last_forks": 53,
-        "manual_desc": "shai is a coding agent, your pair programming buddy that lives in the terminal. Written in rust with love <3"
+        "manual_desc": "shai: Rust-built terminal coding agent and pair-programming buddy."
       },
       {
         "url_path": "jonigl/mcp-client-for-ollama",
@@ -901,7 +901,7 @@
         "last_desc": "A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-loop, thinking mode, model params config, MCP prompts, custom system prompt and saved preferences. Built for developers working with local LLMs.",
         "last_lang": "Python",
         "last_forks": 82,
-        "manual_desc": "A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-loop, thinking mode, model params config, MCP prompts, custom system prompt and saved preferences. Built for developers working with local LLMs."
+        "manual_desc": "TUI client for MCP servers via Ollama: multi-server, agent mode, tools, streaming."
       },
       {
         "url_path": "ClickHouse/mcp-clickhouse",
@@ -909,7 +909,7 @@
         "last_desc": "Real-time analytics meets the Model Context Protocol for instant insights. Feeding your AI the data it needs at the legendary speed of ClickHouse.",
         "last_lang": "Python",
         "last_forks": 167,
-        "manual_desc": "Real-time analytics meets the Model Context Protocol for instant insights. Feeding your AI the data it needs at the legendary speed of ClickHouse."
+        "manual_desc": "mcp-clickhouse: bring ClickHouse analytics to agents via MCP."
       },
       {
         "url_path": "probelabs/probe",
@@ -917,7 +917,7 @@
         "last_desc": "AI-friendly semantic code search engine for large codebases. Combines ripgrep speed with tree-sitter AST parsing. Powers AI coding assistants with precise, context-aware code understanding.",
         "last_lang": "Rust",
         "last_forks": 47,
-        "manual_desc": "AI-friendly semantic code search engine for large codebases. Combines ripgrep speed with tree-sitter AST parsing. Powers AI coding assistants with precise, context-aware code understanding."
+        "manual_desc": "Semantic code search using ripgrep + tree-sitter, built for AI assistants."
       },
       {
         "url_path": "SPThole/CoexistAI",
@@ -925,7 +925,7 @@
         "last_desc": "CoexistAI is a modular, developer-friendly research assistant framework . It enables you to build, search, summarize, and automate research workflows using LLMs, web search, Reddit, YouTube, and mapping tools\u2014all with simple MCP tool calls or API calls or Python functions. ",
         "last_lang": "Jupyter Notebook",
         "last_forks": 29,
-        "manual_desc": "CoexistAI is a modular, developer-friendly research assistant framework . It enables you to build, search, summarize, and automate research workflows using LLMs, web search, Reddit, YouTube, and mapping tools\u2014all with simple MCP tool calls or API calls or Python functions. "
+        "manual_desc": "Modular research assistant wiring LLMs to web, Reddit, YouTube, and maps."
       },
       {
         "url_path": "microsoft/responsible-ai-toolbox",
@@ -933,7 +933,7 @@
         "last_desc": "Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libraries empower developers and stakeholders of AI systems to develop and monitor AI more responsibly, and take better data-driven actions.",
         "last_lang": "TypeScript",
         "last_forks": 466,
-        "manual_desc": "Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libraries empower developers and stakeholders of AI systems to develop and monitor AI more responsibly, and take better data-driven actions."
+        "manual_desc": "Responsible AI Toolbox: UIs and libs to explore models/data and assess AI systems."
       },
       {
         "url_path": "nwiizo/tfmcp",
@@ -941,7 +941,7 @@
         "last_desc": "\ud83c\udf0d Terraform Model Context Protocol (MCP) Tool - An experimental CLI tool that enables AI assistants to manage and operate Terraform environments. Supports reading Terraform configurations, analyzing plans, applying configurations, and managing state with Claude Desktop integration. \u26a1\ufe0f",
         "last_lang": "Rust",
         "last_forks": 25,
-        "manual_desc": "\ud83c\udf0d Terraform Model Context Protocol (MCP) Tool - An experimental CLI tool that enables AI assistants to manage and operate Terraform environments. Supports reading Terraform configurations, analyzing plans, applying configurations, and managing state with Claude Desktop integration. \u26a1\ufe0f"
+        "manual_desc": "Terraform MCP CLI so assistants can read plans, apply configs, and manage state."
       },
       {
         "url_path": "context-hub/generator",
@@ -949,7 +949,7 @@
         "last_desc": "CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured documents that can be easily shared with AI assistants.",
         "last_lang": "PHP",
         "last_forks": 18,
-        "manual_desc": "CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured documents that can be easily shared with AI assistants."
+        "manual_desc": "CTX auto-collects codebase context into shareable docs for LLMs."
       }
     ]
   },
@@ -963,7 +963,7 @@
         "last_desc": "The Swiss Army knife of AI art\u2014if a feature isn't here, it probably doesn't exist yet. A UI so powerful it makes your GPU sweat and your creativity explode.",
         "last_lang": "Python",
         "last_forks": 30118,
-        "manual_desc": "The Swiss Army knife of AI art\u2014if a feature isn't here, it probably doesn't exist yet. A UI so powerful it makes your GPU sweat and your creativity explode."
+        "manual_desc": "Feature-rich Stable Diffusion web UI - the Swiss-army dashboard for SD."
       },
       {
         "url_path": "Tencent-Hunyuan/HunyuanVideo-1.5",
@@ -971,7 +971,7 @@
         "last_desc": "HunyuanVideo-1.5: A leading lightweight video generation model",
         "last_lang": "Python",
         "last_forks": 221,
-        "manual_desc": "HunyuanVideo-1.5: A leading lightweight video generation model"
+        "manual_desc": "HunyuanVideo-1.5: lightweight video generation model."
       },
       {
         "url_path": "llmsresearch/paperbanana",
@@ -979,7 +979,7 @@
         "last_desc": "Open source implementation and extension of Google Research\u2019s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation.",
         "last_lang": "Python",
         "last_forks": 153,
-        "manual_desc": "Open source implementation and extension of Google Research\u2019s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
+        "manual_desc": "PaperBanana OSS: auto-generate research figures, diagrams, and slides."
       },
       {
         "url_path": "QwenLM/Qwen-Image",
@@ -987,7 +987,7 @@
         "last_desc": "Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing.",
         "last_lang": "Python",
         "last_forks": 443,
-        "manual_desc": "Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing."
+        "manual_desc": "Qwen-Image: foundation model for text rendering and image editing."
       },
       {
         "url_path": "duixcom/Duix-Avatar",
@@ -995,7 +995,7 @@
         "last_desc": "\ud83d\ude80 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
         "last_lang": "C",
         "last_forks": 2050,
-        "manual_desc": "\ud83d\ude80 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning."
+        "manual_desc": "Duix-Avatar: open-source toolkit for offline AI avatars and cloning."
       },
       {
         "url_path": "Tencent-Hunyuan/HunyuanVideo",
@@ -1003,7 +1003,7 @@
         "last_desc": "HunyuanVideo: A Systematic Framework For Large Video Generation Model",
         "last_lang": "Python",
         "last_forks": 1195,
-        "manual_desc": "HunyuanVideo: A Systematic Framework For Large Video Generation Model"
+        "manual_desc": "HunyuanVideo: large-scale video generation framework."
       },
       {
         "url_path": "MeiGen-AI/InfiniteTalk",
@@ -1011,7 +1011,7 @@
         "last_desc": "\u200b\u200bUnlimited-length talking video generation\u200b\u200b that supports image-to-video and video-to-video generation",
         "last_lang": "Python",
         "last_forks": 829,
-        "manual_desc": "\u200b\u200bUnlimited-length talking video generation\u200b\u200b that supports image-to-video and video-to-video generation"
+        "manual_desc": "InfiniteTalk: unlimited-length talking-head video generation."
       },
       {
         "url_path": "huggingface/diffusers",
@@ -1019,7 +1019,7 @@
         "last_desc": "\ud83e\udd17 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
         "last_lang": "Python",
         "last_forks": 6809,
-        "manual_desc": "\ud83e\udd17 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch."
+        "manual_desc": "Diffusers: PyTorch diffusion library for image, video, and audio."
       },
       {
         "url_path": "alichherawalla/off-grid-mobile-ai",
@@ -1027,7 +1027,7 @@
         "last_desc": "The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-to-text, vision, text-to-image",
         "last_lang": "TypeScript",
         "last_forks": 66,
-        "manual_desc": "The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-to-text, vision, text-to-image"
+        "manual_desc": "Offline mobile AI: chat, vision, and image gen on-device, no internet required."
       },
       {
         "url_path": "OpenMOSS/MOVA",
@@ -1035,7 +1035,7 @@
         "last_desc": "MOVA: Towards Scalable and Synchronized Video\u2013Audio Generation",
         "last_lang": "Python",
         "last_forks": 49,
-        "manual_desc": "MOVA: Towards Scalable and Synchronized Video\u2013Audio Generation"
+        "manual_desc": "MOVA: scalable synchronized audio-video generation."
       },
       {
         "url_path": "QwenLM/Qwen3-Omni",
@@ -1043,7 +1043,7 @@
         "last_desc": "Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time.",
         "last_lang": "Jupyter Notebook",
         "last_forks": 223,
-        "manual_desc": "Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time."
+        "manual_desc": "Qwen3 Omni: one model for text, audio, image, and video plus realtime speech."
       },
       {
         "url_path": "invoke-ai/InvokeAI",
@@ -1051,7 +1051,7 @@
         "last_desc": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
         "last_lang": "TypeScript",
         "last_forks": 2786,
-        "manual_desc": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products."
+        "manual_desc": "Stable Diffusion creative engine with a pro-grade web UI and workflows."
       },
       {
         "url_path": "Tencent-Hunyuan/HunyuanImage-3.0",
@@ -1059,7 +1059,7 @@
         "last_desc": "HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation",
         "last_lang": "Python",
         "last_forks": 145,
-        "manual_desc": "HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation"
+        "manual_desc": "HunyuanImage-3.0: native multimodal image generation model."
       },
       {
         "url_path": "YILS-LIN/short-video-factory",
@@ -1067,7 +1067,7 @@
         "last_desc": "The assembly line for viral content\u2014just feed it an idea and watch the TikToks roll out. Becoming a content creator while you sleep; because the factory never takes a coffee break.",
         "last_lang": "TypeScript",
         "last_forks": 515,
-        "manual_desc": "The assembly line for viral content\u2014just feed it an idea and watch the TikToks roll out. Becoming a content creator while you sleep; because the factory never takes a coffee break."
+        "manual_desc": "Automates short-video creation from ideas to clips - content factory mode."
       },
       {
         "url_path": "vita-epfl/Stable-Video-Infinity",
@@ -1075,7 +1075,7 @@
         "last_desc": "[ICLR 26 Oral] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling",
         "last_lang": "Python",
         "last_forks": 170,
-        "manual_desc": "[ICLR 26 Oral] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling"
+        "manual_desc": "Stable-Video-Infinity: infinite-length video generation with error recycling."
       },
       {
         "url_path": "Soul-AILab/SoulX-FlashHead",
@@ -1083,7 +1083,7 @@
         "last_desc": "SoulX-FlashHead: A unified 1.3B-parameter framework designed for high-fidelity, infinite-length, and real-time streaming portrait video generation.",
         "last_lang": "Python",
         "last_forks": 37,
-        "manual_desc": "SoulX-FlashHead: A unified 1.3B-parameter framework designed for high-fidelity, infinite-length, and real-time streaming portrait video generation."
+        "manual_desc": "SoulX-FlashHead: real-time, high-fidelity streaming portrait video."
       },
       {
         "url_path": "showlab/Paper2Video",
@@ -1091,7 +1091,7 @@
         "last_desc": "Turning dry academic PDFs into dynamic visual stories people actually want to watch. Because reading 20 pages is hard, but watching a 20-second summary is easy.",
         "last_lang": "Python",
         "last_forks": 306,
-        "manual_desc": "Turning dry academic PDFs into dynamic visual stories people actually want to watch. Because reading 20 pages is hard, but watching a 20-second summary is easy."
+        "manual_desc": "Turn papers into short videos with automatic summaries and visuals."
       },
       {
         "url_path": "thu-ml/Causal-Forcing",
@@ -1099,7 +1099,7 @@
         "last_desc": "Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\"",
         "last_lang": "Python",
         "last_forks": 18,
-        "manual_desc": "Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\""
+        "manual_desc": "Causal Forcing: diffusion distillation for real-time interactive video."
       },
       {
         "url_path": "camenduru/stable-diffusion-webui-colab",
@@ -1107,7 +1107,7 @@
         "last_desc": "Borrowing Google\u2019s GPUs because your laptop sounds like a jet engine trying to take off. High-end diffusion for the hardware-challenged artist.",
         "last_lang": "Jupyter Notebook",
         "last_forks": 2654,
-        "manual_desc": "Borrowing Google\u2019s GPUs because your laptop sounds like a jet engine trying to take off. High-end diffusion for the hardware-challenged artist."
+        "manual_desc": "SD WebUI Colab: run Stable Diffusion in Colab when your GPU taps out."
       },
       {
         "url_path": "FoundationVision/VAR",
@@ -1115,7 +1115,7 @@
         "last_desc": "Why diffuse when you can predict? Generative images that think in visual next-tokens. The autoregressive revolution that makes pixels feel as smart as language.",
         "last_lang": "Jupyter Notebook",
         "last_forks": 560,
-        "manual_desc": "Why diffuse when you can predict? Generative images that think in visual next-tokens. The autoregressive revolution that makes pixels feel as smart as language."
+        "manual_desc": "Autoregressive image generator that predicts visual tokens instead of diffusion."
       },
       {
         "url_path": "OmniCustom-project/OmniCustom",
@@ -1123,7 +1123,7 @@
         "last_desc": "Official Implementation of 'OmniCustom: Sync Audio-Video Customization Via Joint Audio-Video Generation Model' ",
         "last_lang": "Python",
         "last_forks": 6,
-        "manual_desc": "Official Implementation of 'OmniCustom: Sync Audio-Video Customization Via Joint Audio-Video Generation Model' "
+        "manual_desc": "OmniCustom: joint audio-video model for synchronized customization."
       },
       {
         "url_path": "MeiGen-AI/MultiTalk",
@@ -1131,7 +1131,7 @@
         "last_desc": "[NeurIPS 2025] Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation",
         "last_lang": "Python",
         "last_forks": 477,
-        "manual_desc": "[NeurIPS 2025] Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation"
+        "manual_desc": "MultiTalk: audio-driven multi-person conversational video generation."
       },
       {
         "url_path": "showlab/Code2Video",
@@ -1139,7 +1139,7 @@
         "last_desc": "Turning boring logic into visual spectacles that explain what your code actually does. Finally, a way to show non-coders your beautiful backend logic in motion.",
         "last_lang": "Python",
         "last_forks": 208,
-        "manual_desc": "Turning boring logic into visual spectacles that explain what your code actually does. Finally, a way to show non-coders your beautiful backend logic in motion."
+        "manual_desc": "Turn code into explainer videos - logic-to-visual walkthroughs."
       },
       {
         "url_path": "PKU-YuanGroup/Helios",
@@ -1147,7 +1147,7 @@
         "last_desc": "Helios: Real Real-Time Long Video Generation Model",
         "last_lang": "Python",
         "last_forks": 23,
-        "manual_desc": "Helios: Real Real-Time Long Video Generation Model"
+        "manual_desc": "Helios: real-time long-video generation model."
       },
       {
         "url_path": "zai-org/CogVideo",
@@ -1155,7 +1155,7 @@
         "last_desc": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
         "last_lang": "Python",
         "last_forks": 1259,
-        "manual_desc": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)"
+        "manual_desc": "CogVideo: text- and image-to-video generation models."
       },
       {
         "url_path": "easydiffusion/easydiffusion",
@@ -1163,7 +1163,7 @@
         "last_desc": "An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.",
         "last_lang": "JavaScript",
         "last_forks": 850,
-        "manual_desc": "An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image."
+        "manual_desc": "One-click Stable Diffusion on PC with a simple browser UI."
       },
       {
         "url_path": "VectorSpaceLab/OmniGen",
@@ -1171,7 +1171,7 @@
         "last_desc": "The everything bagel of diffusion models\u2014one model for generation, editing, and more. Why switch models when you have a unified genius that does it all?",
         "last_lang": "Jupyter Notebook",
         "last_forks": 368,
-        "manual_desc": "The everything bagel of diffusion models\u2014one model for generation, editing, and more. Why switch models when you have a unified genius that does it all?"
+        "manual_desc": "Unified diffusion model for generation and editing in one model."
       },
       {
         "url_path": "Tencent-Hunyuan/HunyuanWorld-Voyager",
@@ -1179,7 +1179,7 @@
         "last_desc": "Voyager is an interactive RGBD video generation model conditioned on camera input, and supports real-time 3D reconstruction.",
         "last_lang": "Python",
         "last_forks": 155,
-        "manual_desc": "Voyager is an interactive RGBD video generation model conditioned on camera input, and supports real-time 3D reconstruction."
+        "manual_desc": "Voyager: RGB-D video generation with real-time 3D reconstruction."
       },
       {
         "url_path": "LykosAI/StabilityMatrix",
@@ -1187,7 +1187,7 @@
         "last_desc": "Multi-Platform Package Manager for Stable Diffusion",
         "last_lang": "C#",
         "last_forks": 525,
-        "manual_desc": "Multi-Platform Package Manager for Stable Diffusion"
+        "manual_desc": "StabilityMatrix: cross-platform package manager for Stable Diffusion."
       },
       {
         "url_path": "test-time-training/ttt-video-dit",
@@ -1195,7 +1195,7 @@
         "last_desc": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training",
         "last_lang": "Python",
         "last_forks": 1,
-        "manual_desc": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training"
+        "manual_desc": "TTT-Video-DiT: one-minute video generation via test-time training."
       },
       {
         "url_path": "DAVIAN-Robotics/EgoX",
@@ -1203,7 +1203,7 @@
         "last_desc": "Code for \"EgoX: Egocentric Video Generation from a Single Exocentric Video\"",
         "last_lang": "Python",
         "last_forks": 39,
-        "manual_desc": "Code for \"EgoX: Egocentric Video Generation from a Single Exocentric Video\""
+        "manual_desc": "EgoX: egocentric video generation from a single exocentric view."
       },
       {
         "url_path": "openai/GABRIEL",
@@ -1211,7 +1211,7 @@
         "last_desc": "An official OpenAI toolkit for social scientists and data scientists to measure quantitative attributes in text, images, or audio using the GPT API.",
         "last_lang": "Jupyter Notebook",
         "last_forks": 30,
-        "manual_desc": "An official OpenAI toolkit for social scientists and data scientists to measure quantitative attributes in text, images, or audio using the GPT API."
+        "manual_desc": "GABRIEL: measure attributes in text, images, or audio with GPT."
       },
       {
         "url_path": "HKUDS/ViMax",
@@ -1219,7 +1219,7 @@
         "last_desc": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
         "last_lang": "Python",
         "last_forks": 439,
-        "manual_desc": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\""
+        "manual_desc": "ViMax: agentic pipeline for end-to-end video generation."
       },
       {
         "url_path": "Tencent-Hunyuan/Hunyuan3D-1",
@@ -1227,7 +1227,7 @@
         "last_desc": "Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation",
         "last_lang": "Python",
         "last_forks": 278,
-        "manual_desc": "Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation"
+        "manual_desc": "Hunyuan3D-1.0: unified text-to-3D and image-to-3D framework."
       },
       {
         "url_path": "0xsline/StoryGen-Atelier",
@@ -1235,7 +1235,7 @@
         "last_desc": "AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition clips, and ffmpeg for stitching the final video. Built-in logs and gallery management.",
         "last_lang": "JavaScript",
         "last_forks": 109,
-        "manual_desc": "AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition clips, and ffmpeg for stitching the final video. Built-in logs and gallery management."
+        "manual_desc": "Storyboard-to-video pipeline: Gemini prompts, Veo clips, ffmpeg stitching."
       },
       {
         "url_path": "NickPittas/DirectorsConsole",
@@ -1243,7 +1243,7 @@
         "last_desc": "A web application for prompt generation and multiple ComfyUI remote and local connections for image and video generation in parallel in an infinite canvas",
         "last_lang": "Python",
         "last_forks": 30,
-        "manual_desc": "A web application for prompt generation and multiple ComfyUI remote and local connections for image and video generation in parallel in an infinite canvas"
+        "manual_desc": "Infinite-canvas app for prompts and multiple ComfyUI backends in parallel."
       },
       {
         "url_path": "Lightricks/ComfyUI-LTXVideo",
@@ -1251,7 +1251,7 @@
         "last_desc": "Wiring up the future of cinematic AI with node-based precision. Maximum control for those who like their video workflows like their pasta: spaghetti-style.",
         "last_lang": "Python",
         "last_forks": 326,
-        "manual_desc": "Wiring up the future of cinematic AI with node-based precision. Maximum control for those who like their video workflows like their pasta: spaghetti-style."
+        "manual_desc": "ComfyUI nodes for LTXVideo - cinematic video workflows in a graph."
       },
       {
         "url_path": "MochiDiffusion/MochiDiffusion",
@@ -1259,7 +1259,7 @@
         "last_desc": "Native Stable Diffusion that makes your Mac\u2019s Neural Engine actually work for its living. Generating art so cool it keeps your MacBook\u2019s fans completely silent.",
         "last_lang": "Swift",
         "last_forks": 361,
-        "manual_desc": "Native Stable Diffusion that makes your Mac\u2019s Neural Engine actually work for its living. Generating art so cool it keeps your MacBook\u2019s fans completely silent."
+        "manual_desc": "Native Stable Diffusion for macOS using the Neural Engine."
       },
       {
         "url_path": "NVlabs/LongLive",
@@ -1267,7 +1267,7 @@
         "last_desc": "[ICLR 2026] LongLive: Real-time Interactive Long Video Generation",
         "last_lang": "Python",
         "last_forks": 96,
-        "manual_desc": "[ICLR 2026] LongLive: Real-time Interactive Long Video Generation"
+        "manual_desc": "LongLive: real-time interactive long-video generation."
       },
       {
         "url_path": "zhouxiaoka/autoclip",
@@ -1275,7 +1275,7 @@
         "last_desc": "Your AI film editor that has an uncanny knack for finding the viral gold in your long footage. Extracting the best moments without the ego of a Hollywood director.",
         "last_lang": "Python",
         "last_forks": 333,
-        "manual_desc": "Your AI film editor that has an uncanny knack for finding the viral gold in your long footage. Extracting the best moments without the ego of a Hollywood director."
+        "manual_desc": "AI editor that finds the best moments in long videos and cuts them fast."
       },
       {
         "url_path": "SkyworkAI/SkyReels-V3",
@@ -1283,7 +1283,7 @@
         "last_desc": "SkyReels V3: Multimodal Video Generation Model",
         "last_lang": "Python",
         "last_forks": 38,
-        "manual_desc": "SkyReels V3: Multimodal Video Generation Model"
+        "manual_desc": "SkyReels-V3: multimodal video generation model."
       },
       {
         "url_path": "Phantom-video/HuMo",
@@ -1291,7 +1291,7 @@
         "last_desc": "HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning",
         "last_lang": "Python",
         "last_forks": 219,
-        "manual_desc": "HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning"
+        "manual_desc": "HuMo: human-centric video generation with multimodal conditioning."
       },
       {
         "url_path": "brycedrennan/imaginAIry",
@@ -1299,7 +1299,7 @@
         "last_desc": "The batteries-included Pythonic way to generate art without the UI clutter. Just pip install and watch your terminal start dreaming in color.",
         "last_lang": "Python",
         "last_forks": 465,
-        "manual_desc": "The batteries-included Pythonic way to generate art without the UI clutter. Just pip install and watch your terminal start dreaming in color."
+        "manual_desc": "imaginAIry: batteries-included Python image generation toolkit."
       },
       {
         "url_path": "genmoai/mochi",
@@ -1307,7 +1307,7 @@
         "last_desc": "The best OSS video generation models, created by Genmo",
         "last_lang": "Python",
         "last_forks": 474,
-        "manual_desc": "The best OSS video generation models, created by Genmo"
+        "manual_desc": "mochi: open-source video generation models from Genmo."
       },
       {
         "url_path": "ali-vilab/Wan-Move",
@@ -1315,7 +1315,7 @@
         "last_desc": "[NeurIPS 2025] Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance",
         "last_lang": "Python",
         "last_forks": 26,
-        "manual_desc": "[NeurIPS 2025] Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance"
+        "manual_desc": "Wan-Move: motion-controllable video generation via latent trajectories."
       },
       {
         "url_path": "hao-ai-lab/FastVideo",
@@ -1323,7 +1323,7 @@
         "last_desc": "A unified inference and post-training framework for accelerated video generation.",
         "last_lang": "Python",
         "last_forks": 272,
-        "manual_desc": "A unified inference and post-training framework for accelerated video generation."
+        "manual_desc": "FastVideo: unified training and inference for faster video generation."
       },
       {
         "url_path": "Amery2010/peinture",
@@ -1331,7 +1331,7 @@
         "last_desc": "A general-purpose AI image generation framework that supports Hugging Face, Gitee, Model Scope, and more.",
         "last_lang": "TypeScript",
         "last_forks": 244,
-        "manual_desc": "A general-purpose AI image generation framework that supports Hugging Face, Gitee, Model Scope, and more."
+        "manual_desc": "peinture: general-purpose image generation framework."
       },
       {
         "url_path": "mcmonkeyprojects/SwarmUI",
@@ -1339,7 +1339,7 @@
         "last_desc": "SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
         "last_lang": "C#",
         "last_forks": 375,
-        "manual_desc": "SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility."
+        "manual_desc": "Modular, high-performance Stable Diffusion Web UI for power users."
       },
       {
         "url_path": "TheLastBen/fast-stable-diffusion",
@@ -1347,7 +1347,7 @@
         "last_desc": "Because waiting shouldn't be part of your creative process. Squeezing every millisecond out of your latent space for near-instant gratification.",
         "last_lang": "Python",
         "last_forks": 1377,
-        "manual_desc": "Because waiting shouldn't be part of your creative process. Squeezing every millisecond out of your latent space for near-instant gratification."
+        "manual_desc": "fast-stable-diffusion: speed-tuned SD notebooks for quick generation."
       },
       {
         "url_path": "Tencent-Hunyuan/HunyuanVideo-Foley",
@@ -1355,7 +1355,7 @@
         "last_desc": "HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation.",
         "last_lang": "Python",
         "last_forks": 101,
-        "manual_desc": "HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation."
+        "manual_desc": "HunyuanVideo-Foley: multimodal diffusion for high-fidelity Foley audio."
       },
       {
         "url_path": "leejet/stable-diffusion.cpp",
@@ -1363,7 +1363,7 @@
         "last_desc": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
         "last_lang": "C++",
         "last_forks": 543,
-        "manual_desc": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++"
+        "manual_desc": "stable-diffusion.cpp: run diffusion models in pure C/C++."
       },
       {
         "url_path": "Sygil-Dev/sygil-webui",
@@ -1371,7 +1371,7 @@
         "last_desc": "Stable Diffusion with a focus on clean UX and a no-headache workflow. All the generative power you crave, packaged in a UI that actually makes sense.",
         "last_lang": "Python",
         "last_forks": 866,
-        "manual_desc": "Stable Diffusion with a focus on clean UX and a no-headache workflow. All the generative power you crave, packaged in a UI that actually makes sense."
+        "manual_desc": "Sygil WebUI: clean, no-headache Stable Diffusion interface."
       },
       {
         "url_path": "ModelTC/LightX2V",
@@ -1379,7 +1379,7 @@
         "last_desc": "Breathing life into static images at the speed of light. The lightweight champion for turning still into cinematic without the heavy overhead.",
         "last_lang": "Python",
         "last_forks": 165,
-        "manual_desc": "Breathing life into static images at the speed of light. The lightweight champion for turning still into cinematic without the heavy overhead."
+        "manual_desc": "LightX2V: lightweight image-to-video generation."
       },
       {
         "url_path": "Francis-Rings/StableAvatar",
@@ -1387,7 +1387,7 @@
         "last_desc": "We present StableAvatar, the first end-to-end video diffusion transformer, which synthesizes infinite-length high-quality audio-driven avatar videos without any post-processing, conditioned on a reference image and audio.",
         "last_lang": "Python",
         "last_forks": 105,
-        "manual_desc": "We present StableAvatar, the first end-to-end video diffusion transformer, which synthesizes infinite-length high-quality audio-driven avatar videos without any post-processing, conditioned on a reference image and audio."
+        "manual_desc": "End-to-end video diffusion for long, audio-driven avatar videos from a reference image."
       },
       {
         "url_path": "NVIDIA/NeMo-Retriever",
@@ -1395,7 +1395,7 @@
         "last_desc": "NeMo Retriever Library is a scalable, performance-oriented document content and metadata extraction microservice. NeMo Retriever extraction uses specialized NVIDIA NIM microservices to find, contextualize, and extract text, tables, charts and images that you can use in downstream generative applications.",
         "last_lang": "Python",
         "last_forks": 303,
-        "manual_desc": "NeMo Retriever Library is a scalable, performance-oriented document content and metadata extraction microservice. NeMo Retriever extraction uses specialized NVIDIA NIM microservices to find, contextualize, and extract text, tables, charts and images that you can use in downstream generative applications."
+        "manual_desc": "NeMo Retriever: microservices to extract text/tables/charts/images for gen AI."
       },
       {
         "url_path": "SamurAIGPT/AI-Youtube-Shorts-Generator",
@@ -1403,7 +1403,7 @@
         "last_desc": "A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.",
         "last_lang": "Python",
         "last_forks": 536,
-        "manual_desc": "A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience."
+        "manual_desc": "Auto-find highlights and crop videos into Shorts using GPT + FFmpeg."
       }
     ]
   },
@@ -1417,7 +1417,7 @@
         "last_desc": "An agentic skills framework & software development methodology that works.",
         "last_lang": "Shell",
         "last_forks": 5460,
-        "manual_desc": "An agentic skills framework & software development methodology that works."
+        "manual_desc": "Superpowers: agentic skills framework and dev methodology."
       },
       {
         "url_path": "zai-org/Open-AutoGLM",
@@ -1425,7 +1425,7 @@
         "last_desc": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
         "last_lang": "Python",
         "last_forks": 3797,
-        "manual_desc": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone"
+        "manual_desc": "Open-AutoGLM: phone-agent model and framework for device automation."
       },
       {
         "url_path": "aden-hive/hive",
@@ -1433,7 +1433,7 @@
         "last_desc": "Outcome driven agent development framework that evolves",
         "last_lang": "Python",
         "last_forks": 5063,
-        "manual_desc": "Outcome driven agent development framework that evolves"
+        "manual_desc": "Hive: outcome-driven agent framework that evolves with use."
       },
       {
         "url_path": "langchain-ai/langchain",
@@ -1441,7 +1441,7 @@
         "last_desc": "The original Swiss Army Knife that turned every developer into an AI engineer overnight. With more integrations than your favorite app store, if it has an API, we\u2019ve already wrapped it for you.",
         "last_lang": "Python",
         "last_forks": 21065,
-        "manual_desc": "The original Swiss Army Knife that turned every developer into an AI engineer overnight. With more integrations than your favorite app store, if it has an API, we\u2019ve already wrapped it for you."
+        "manual_desc": "LangChain: huge integration hub for LLM apps, tools, and agents."
       },
       {
         "url_path": "TauricResearch/TradingAgents",
@@ -1449,7 +1449,7 @@
         "last_desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "last_lang": "Python",
         "last_forks": 6021,
-        "manual_desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+        "manual_desc": "TradingAgents: multi-agent LLM framework for financial trading."
       },
       {
         "url_path": "FoundationAgents/MetaGPT",
@@ -1457,7 +1457,7 @@
         "last_desc": "\ud83c\udf1f The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
         "last_lang": "Python",
         "last_forks": 8155,
-        "manual_desc": "\ud83c\udf1f The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming"
+        "manual_desc": "MetaGPT: multi-agent framework that turns specs into working software."
       },
       {
         "url_path": "microsoft/autogen",
@@ -1465,7 +1465,7 @@
         "last_desc": "Why work alone when your AI agents can have a meeting about it? The ultimate multi-agent playground where LLMs collaborate to do your chores.",
         "last_lang": "Python",
         "last_forks": 8300,
-        "manual_desc": "Why work alone when your AI agents can have a meeting about it? The ultimate multi-agent playground where LLMs collaborate to do your chores."
+        "manual_desc": "AutoGen: multi-agent collaboration framework for complex tasks."
       },
       {
         "url_path": "Tencent/WeKnora",
@@ -1473,7 +1473,7 @@
         "last_desc": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
         "last_lang": "Go",
         "last_forks": 1532,
-        "manual_desc": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm."
+        "manual_desc": "WeKnora: RAG framework for deep document understanding and retrieval."
       },
       {
         "url_path": "huggingface/transformers",
@@ -1481,7 +1481,7 @@
         "last_desc": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
         "last_lang": "Python",
         "last_forks": 32287,
-        "manual_desc": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. "
+        "manual_desc": "Transformers: the go-to library for state-of-the-art text/vision/audio models."
       },
       {
         "url_path": "humanlayer/12-factor-agents",
@@ -1489,7 +1489,7 @@
         "last_desc": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
         "last_lang": "TypeScript",
         "last_forks": 1408,
-        "manual_desc": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?"
+        "manual_desc": "12-Factor Agents: practical principles for production-grade agents."
       },
       {
         "url_path": "openai/openai-agents-python",
@@ -1497,7 +1497,7 @@
         "last_desc": "A lightweight, powerful framework for multi-agent workflows",
         "last_lang": "Python",
         "last_forks": 3209,
-        "manual_desc": "A lightweight, powerful framework for multi-agent workflows"
+        "manual_desc": "OpenAI Agents SDK: lightweight framework for multi-agent workflows."
       },
       {
         "url_path": "crewAIInc/crewAI",
@@ -1505,7 +1505,7 @@
         "last_desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "last_lang": "Python",
         "last_forks": 6061,
-        "manual_desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
+        "manual_desc": "Multi-agent orchestration for role-based collaboration on complex tasks."
       },
       {
         "url_path": "tensorflow/tensorflow",
@@ -1513,7 +1513,7 @@
         "last_desc": "An Open Source Machine Learning Framework for Everyone",
         "last_lang": "C++",
         "last_forks": 75214,
-        "manual_desc": "An Open Source Machine Learning Framework for Everyone"
+        "manual_desc": "TensorFlow: open-source ML framework for training and inference at scale."
       },
       {
         "url_path": "pathwaycom/pathway",
@@ -1521,7 +1521,7 @@
         "last_desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
         "last_lang": "Python",
         "last_forks": 1610,
-        "manual_desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+        "manual_desc": "Pathway: streaming ETL and real-time analytics for LLM/RAG pipelines."
       },
       {
         "url_path": "microsoft/BitNet",
@@ -1529,7 +1529,7 @@
         "last_desc": "Putting LLMs on a 1-bit diet for extreme efficiency and speed. Proving that 0 and 1 are all you really need to be incredibly smart.",
         "last_lang": "Python",
         "last_forks": 2367,
-        "manual_desc": "Putting LLMs on a 1-bit diet for extreme efficiency and speed. Proving that 0 and 1 are all you really need to be incredibly smart."
+        "manual_desc": "BitNet: 1-bit LLM research for extreme efficiency."
       },
       {
         "url_path": "run-llama/llama_index",
@@ -1537,7 +1537,7 @@
         "last_desc": "LlamaIndex is the leading document agent and OCR platform",
         "last_lang": "Python",
         "last_forks": 6907,
-        "manual_desc": "LlamaIndex is the leading document agent and OCR platform"
+        "manual_desc": "LlamaIndex: document agent and OCR platform for LLM apps."
       },
       {
         "url_path": "mastra-ai/mastra",
@@ -1545,7 +1545,7 @@
         "last_desc": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
         "last_lang": "TypeScript",
         "last_forks": 1669,
-        "manual_desc": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack."
+        "manual_desc": "Mastra: modern TypeScript framework for building AI apps and agents."
       },
       {
         "url_path": "sgl-project/sglang",
@@ -1553,7 +1553,7 @@
         "last_desc": "SGLang is a high-performance serving framework for large language models and multimodal models.",
         "last_lang": "Python",
         "last_forks": 4654,
-        "manual_desc": "SGLang is a high-performance serving framework for large language models and multimodal models."
+        "manual_desc": "SGLang: high-performance serving framework for LLMs and multimodal models."
       },
       {
         "url_path": "elizaOS/eliza",
@@ -1561,7 +1561,7 @@
         "last_desc": "Not just a bot, but an autonomous agent with a soul and a social life. Building the next generation of on-chain personalities that actually talk back.",
         "last_lang": "TypeScript",
         "last_forks": 5450,
-        "manual_desc": "Not just a bot, but an autonomous agent with a soul and a social life. Building the next generation of on-chain personalities that actually talk back."
+        "manual_desc": "Eliza: autonomous on-chain agent with a social personality."
       },
       {
         "url_path": "raga-ai-hub/RagaAI-Catalyst",
@@ -1569,7 +1569,7 @@
         "last_desc": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view ",
         "last_lang": "Python",
         "last_forks": 3634,
-        "manual_desc": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view "
+        "manual_desc": "SDK for agent/LLM observability: tracing, debugging, and analytics dashboards."
       },
       {
         "url_path": "kvcache-ai/ktransformers",
@@ -1577,7 +1577,7 @@
         "last_desc": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
         "last_lang": "Python",
         "last_forks": 1223,
-        "manual_desc": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations"
+        "manual_desc": "ktransformers: heterogeneous inference and fine-tuning for LLMs."
       },
       {
         "url_path": "mcp-use/mcp-use",
@@ -1585,7 +1585,7 @@
         "last_desc": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.",
         "last_lang": "TypeScript",
         "last_forks": 1152,
-        "manual_desc": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents."
+        "manual_desc": "mcp-use: full-stack framework for building MCP apps."
       },
       {
         "url_path": "langchain-ai/langgraph",
@@ -1593,7 +1593,7 @@
         "last_desc": "Giving your agents a map and a memory for complex, loopy workflows. Because real-world logic isn't a straight line; it\u2019s a state machine.",
         "last_lang": "Python",
         "last_forks": 4452,
-        "manual_desc": "Giving your agents a map and a memory for complex, loopy workflows. Because real-world logic isn't a straight line; it\u2019s a state machine."
+        "manual_desc": "LangGraph: stateful, cyclic workflows for agents."
       },
       {
         "url_path": "agent0ai/agent-zero",
@@ -1601,7 +1601,7 @@
         "last_desc": "The AI that treats your terminal like its own personal playground. Full OS access for agents who aren't afraid to get their hands dirty.",
         "last_lang": "Python",
         "last_forks": 3261,
-        "manual_desc": "The AI that treats your terminal like its own personal playground. Full OS access for agents who aren't afraid to get their hands dirty."
+        "manual_desc": "Agent Zero: full-OS autonomous agent for power users."
       },
       {
         "url_path": "microsoft/agent-framework",
@@ -1609,7 +1609,7 @@
         "last_desc": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
         "last_lang": "Python",
         "last_forks": 1256,
-        "manual_desc": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET."
+        "manual_desc": "Microsoft Agent Framework: build and orchestrate agents in Python/.NET."
       },
       {
         "url_path": "pydantic/pydantic-ai",
@@ -1617,7 +1617,7 @@
         "last_desc": "Agentic logic for developers who actually care about type-safety. Strict validation meets loose AI dreams\u2014the \"Senior Dev\" of agent frameworks.",
         "last_lang": "Python",
         "last_forks": 1717,
-        "manual_desc": "Agentic logic for developers who actually care about type-safety. Strict validation meets loose AI dreams\u2014the \"Senior Dev\" of agent frameworks."
+        "manual_desc": "PydanticAI: typed agent logic with strict validation."
       },
       {
         "url_path": "emcie-co/parlant",
@@ -1625,7 +1625,7 @@
         "last_desc": "The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions.",
         "last_lang": "Python",
         "last_forks": 1500,
-        "manual_desc": "The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions."
+        "manual_desc": "Control layer for customer-facing agents - context engineering for safer dialogs."
       },
       {
         "url_path": "The-Pocket/PocketFlow",
@@ -1633,7 +1633,7 @@
         "last_desc": "Pocket Flow: 100-line LLM framework. Let Agents build Agents!",
         "last_lang": "Python",
         "last_forks": 1109,
-        "manual_desc": "Pocket Flow: 100-line LLM framework. Let Agents build Agents!"
+        "manual_desc": "PocketFlow: tiny (100-line) LLM framework for agent builders."
       },
       {
         "url_path": "facebookresearch/audiocraft",
@@ -1641,7 +1641,7 @@
         "last_desc": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.",
         "last_lang": "Jupyter Notebook",
         "last_forks": 2584,
-        "manual_desc": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning."
+        "manual_desc": "Audio generation toolkit with EnCodec plus MusicGen for text/melody conditioning."
       },
       {
         "url_path": "TencentCloudADP/youtu-agent",
@@ -1649,7 +1649,7 @@
         "last_desc": "A simple yet powerful agent framework that delivers with open-source models",
         "last_lang": "Python",
         "last_forks": 455,
-        "manual_desc": "A simple yet powerful agent framework that delivers with open-source models"
+        "manual_desc": "youtu-agent: simple, powerful agent framework for open-source models."
       },
       {
         "url_path": "cloudwego/eino",
@@ -1657,7 +1657,7 @@
         "last_desc": "The ultimate LLM/AI application development framework in Go.",
         "last_lang": "Go",
         "last_forks": 757,
-        "manual_desc": "The ultimate LLM/AI application development framework in Go."
+        "manual_desc": "Eino: Go framework for LLM and AI application development."
       },
       {
         "url_path": "HKUDS/AutoAgent",
@@ -1665,7 +1665,7 @@
         "last_desc": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
         "last_lang": "Python",
         "last_forks": 1216,
-        "manual_desc": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\""
+        "manual_desc": "AutoAgent: zero-code framework for fully automated LLM agents."
       },
       {
         "url_path": "VoltAgent/voltagent",
@@ -1673,7 +1673,7 @@
         "last_desc": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
         "last_lang": "TypeScript",
         "last_forks": 621,
-        "manual_desc": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework"
+        "manual_desc": "VoltAgent: TypeScript agent engineering platform for production apps."
       },
       {
         "url_path": "simular-ai/Agent-S",
@@ -1681,7 +1681,7 @@
         "last_desc": "Agent S: an open agentic framework that uses computers like a human",
         "last_lang": "Python",
         "last_forks": 1169,
-        "manual_desc": "Agent S: an open agentic framework that uses computers like a human"
+        "manual_desc": "Agent-S: agents that operate computers like humans do."
       },
       {
         "url_path": "deepspeedai/DeepSpeed",
@@ -1689,7 +1689,7 @@
         "last_desc": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
         "last_lang": "Python",
         "last_forks": 4735,
-        "manual_desc": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective."
+        "manual_desc": "DeepSpeed: efficient distributed training and inference toolkit."
       },
       {
         "url_path": "THUDM/slime",
@@ -1697,7 +1697,7 @@
         "last_desc": "slime is an LLM post-training framework for RL Scaling.",
         "last_lang": "Python",
         "last_forks": 601,
-        "manual_desc": "slime is an LLM post-training framework for RL Scaling."
+        "manual_desc": "slime: post-training framework for RL scaling in LLMs."
       },
       {
         "url_path": "eosphoros-ai/DB-GPT",
@@ -1705,7 +1705,7 @@
         "last_desc": "AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents",
         "last_lang": "Python",
         "last_forks": 2563,
-        "manual_desc": "AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents"
+        "manual_desc": "DB-GPT: AI-native data app framework with agents and workflows."
       },
       {
         "url_path": "cocoindex-io/cocoindex",
@@ -1713,7 +1713,7 @@
         "last_desc": "Data transformation framework for AI. Ultra performant, with incremental processing.  \ud83c\udf1f Star if you like it!",
         "last_lang": "Rust",
         "last_forks": 461,
-        "manual_desc": "Data transformation framework for AI. Ultra performant, with incremental processing.  \ud83c\udf1f Star if you like it!"
+        "manual_desc": "CocoIndex: high-performance data transformation for AI pipelines."
       },
       {
         "url_path": "llmware-ai/llmware",
@@ -1721,7 +1721,7 @@
         "last_desc": "Unified framework for building enterprise RAG pipelines with small, specialized models",
         "last_lang": "Python",
         "last_forks": 2963,
-        "manual_desc": "Unified framework for building enterprise RAG pipelines with small, specialized models"
+        "manual_desc": "llmware: enterprise RAG framework with small, specialized models."
       },
       {
         "url_path": "TEN-framework/ten-framework",
@@ -1729,7 +1729,7 @@
         "last_desc": " Open-source framework for conversational voice AI agents",
         "last_lang": "Python",
         "last_forks": 1222,
-        "manual_desc": " Open-source framework for conversational voice AI agents"
+        "manual_desc": "TEN: open-source framework for conversational voice agents."
       },
       {
         "url_path": "OpenSPG/KAG",
@@ -1737,7 +1737,7 @@
         "last_desc": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
         "last_lang": "Python",
         "last_forks": 664,
-        "manual_desc": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model."
+        "manual_desc": "Logic-guided reasoning plus retrieval for factual Q&A beyond vector-only RAG."
       },
       {
         "url_path": "alibaba/spring-ai-alibaba",
@@ -1745,7 +1745,7 @@
         "last_desc": "Bringing the power of Alibaba's AI ecosystem to the world of Enterprise Java. Serious AI for serious Spring developers who mean business.",
         "last_lang": "Java",
         "last_forks": 1887,
-        "manual_desc": "Bringing the power of Alibaba's AI ecosystem to the world of Enterprise Java. Serious AI for serious Spring developers who mean business."
+        "manual_desc": "Spring-AI-Alibaba: enterprise Java AI integrations for Spring."
       },
       {
         "url_path": "openai/evals",
@@ -1753,7 +1753,7 @@
         "last_desc": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
         "last_lang": "Python",
         "last_forks": 2902,
-        "manual_desc": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks."
+        "manual_desc": "Evals: framework and benchmark registry for LLM evaluation."
       },
       {
         "url_path": "QwenLM/Qwen-Agent",
@@ -1761,7 +1761,7 @@
         "last_desc": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
         "last_lang": "Python",
         "last_forks": 1284,
-        "manual_desc": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc."
+        "manual_desc": "Qwen-Agent: agent framework and apps for Qwen models."
       },
       {
         "url_path": "camel-ai/camel",
@@ -1769,7 +1769,7 @@
         "last_desc": "\ud83d\udc2b CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
         "last_lang": "Python",
         "last_forks": 1805,
-        "manual_desc": "\ud83d\udc2b CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org"
+        "manual_desc": "CAMEL: multi-agent framework focused on agent scaling research."
       },
       {
         "url_path": "confident-ai/deepeval",
@@ -1777,7 +1777,7 @@
         "last_desc": "Unit testing for LLMs because vibes-based testing isn't a real production strategy. Quantitative sanity for your qualitative prompts\u2014don't ship without it.",
         "last_lang": "Python",
         "last_forks": 1277,
-        "manual_desc": "Unit testing for LLMs because vibes-based testing isn't a real production strategy. Quantitative sanity for your qualitative prompts\u2014don't ship without it."
+        "manual_desc": "LLM evaluation toolkit with unit tests, metrics, and regression checks."
       },
       {
         "url_path": "awslabs/agent-squad",
@@ -1785,7 +1785,7 @@
         "last_desc": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
         "last_lang": "Python",
         "last_forks": 703,
-        "manual_desc": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations"
+        "manual_desc": "Agent-Squad: manage multiple agents and complex conversations."
       },
       {
         "url_path": "hiyouga/EasyR1",
@@ -1793,7 +1793,7 @@
         "last_desc": "EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL",
         "last_lang": "Python",
         "last_forks": 358,
-        "manual_desc": "EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL"
+        "manual_desc": "EasyR1: scalable multimodal RL training framework (veRL-based)."
       },
       {
         "url_path": "JetBrains/koog",
@@ -1801,7 +1801,7 @@
         "last_desc": "Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms \u2013 from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
         "last_lang": "Kotlin",
         "last_forks": 330,
-        "manual_desc": "Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms \u2013 from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems"
+        "manual_desc": "JetBrains Kotlin framework for reliable AI agents across JVM, Android, iOS, and web."
       },
       {
         "url_path": "Upsonic/Upsonic",
@@ -1809,7 +1809,7 @@
         "last_desc": "Orchestrating agents at scale without the infrastructure nightmare. The conductor for your AI agent symphony, ensuring everyone stays in sync.",
         "last_lang": "Python",
         "last_forks": 721,
-        "manual_desc": "Orchestrating agents at scale without the infrastructure nightmare. The conductor for your AI agent symphony, ensuring everyone stays in sync."
+        "manual_desc": "Upsonic: orchestrate agent swarms at scale without the infra pain."
       },
       {
         "url_path": "langchain4j/langchain4j",
@@ -1817,7 +1817,7 @@
         "last_desc": "LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.",
         "last_lang": "Java",
         "last_forks": 1996,
-        "manual_desc": "LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks."
+        "manual_desc": "Java-first LangChain for LLMs, RAG, tools (incl MCP), and agents via a unified API."
       },
       {
         "url_path": "livekit/agents",
@@ -1825,7 +1825,7 @@
         "last_desc": "AI that doesn't just process\u2014it listens, speaks, and vibes with you in real-time. The heartbeat of conversational AI, built for those who find latency to be a four-letter word.",
         "last_lang": "Python",
         "last_forks": 2877,
-        "manual_desc": "AI that doesn't just process\u2014it listens, speaks, and vibes with you in real-time. The heartbeat of conversational AI, built for those who find latency to be a four-letter word."
+        "manual_desc": "LiveKit Agents: low-latency voice agents for realtime conversational apps."
       }
     ]
   }
