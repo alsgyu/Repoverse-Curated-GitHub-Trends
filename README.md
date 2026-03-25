@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="GitTrendHub/image4.png" alt="AI TrendHub Banner" width="400">
+  
 
 
 # AI TrendHub – The Pulse of Artificial Intelligence
@@ -4775,9 +4775,6 @@
 <div style="height: 16px;"></div>
 
 
-<div align="center">
-  <img src="GitTrendHub/image5.png" alt="Contribute Banner" width="500">
-</div>
 
 ---
 
